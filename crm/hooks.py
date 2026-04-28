@@ -290,7 +290,7 @@ standard_dropdown_items = [
 	},
 	{
 		"name1": "login_to_fc",
-		"label": "Login to Frappe Cloud",
+		"label": "Login to GARP Cloud",
 		"type": "Route",
 		"route": "#",
 		"is_standard": 1,
