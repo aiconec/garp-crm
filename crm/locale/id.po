@@ -24,7 +24,7 @@ msgstr " (Baru)"
 
 #: frontend/src/components/Filter.vue:587
 msgid "%John%"
-msgstr ""
+msgstr "%John%"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:65
 msgid "(No Title)"
@@ -32,7 +32,7 @@ msgstr "(Tanpa Judul)"
 
 #: frontend/src/components/Filter.vue:577
 msgid "01/01/2022 to 01/31/2022"
-msgstr ""
+msgstr "01/01/2022 hingga 31/01/2022"
 
 #: frontend/src/components/Modals/TaskModal.vue:86
 #: frontend/src/components/Telephony/TaskPanel.vue:71
@@ -41,11 +41,11 @@ msgstr "04/01/2024 23:30"
 
 #: frontend/src/components/Calendar/EventNotifications.vue:39
 msgid "08:00 AM"
-msgstr ""
+msgstr "08:00"
 
 #: frontend/src/components/Settings/CalendarSettings.vue:225
 msgid "08:00 pm"
-msgstr ""
+msgstr "20:00"
 
 #: frontend/src/utils/index.js:204
 msgid "1 hour ago"
@@ -161,7 +161,7 @@ msgstr "Sebuah Prospek harus memiliki nama orang atau nama organisasi"
 
 #: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.py:49
 msgid "A lead sync source is already enabled for this Facebook Lead Form!"
-msgstr ""
+msgstr "Sumber sinkronisasi prospek sudah diaktifkan untuk Formulir Prospek Facebook ini!"
 
 #: crm/templates/emails/helpdesk_invitation.html:5
 msgid "A new account has been created for you at {0}"
@@ -169,7 +169,7 @@ msgstr "Sebuah akun baru telah dibuat untuk Anda di {0}"
 
 #: crm/fcrm/doctype/crm_call_log/crm_call_log.py:251
 msgid "A valid call log is required."
-msgstr ""
+msgstr "Log panggilan yang valid diperlukan."
 
 #. Label of the api_key (Data) field in DocType 'CRM Exotel Settings'
 #. Label of the api_key (Data) field in DocType 'CRM Twilio Settings'
@@ -201,11 +201,11 @@ msgstr "API Token"
 #: frontend/src/components/Settings/ERPNextSettings.vue:459
 #: frontend/src/components/Settings/emailConfig.js:192
 msgid "API key is required"
-msgstr ""
+msgstr "Kunci API diperlukan"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:462
 msgid "API secret is required"
-msgstr ""
+msgstr "Rahasia API diperlukan"
 
 #: frontend/src/components/Telephony/TwilioCallUI.vue:88
 msgid "Accept"
@@ -213,7 +213,7 @@ msgstr "Terima"
 
 #: frontend/src/components/Telephony/TwilioCallUI.vue:155
 msgid "Accept Call"
-msgstr ""
+msgstr "Terima Panggilan"
 
 #: crm/fcrm/doctype/crm_invitation/crm_invitation.js:7
 msgid "Accept Invitation"
@@ -231,7 +231,7 @@ msgstr "Diterima pada"
 
 #: frontend/src/pages/NotPermitted.vue:7
 msgid "Access Denied"
-msgstr ""
+msgstr "Akses ditolak"
 
 #. Label of the access_key (Data) field in DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
@@ -254,16 +254,16 @@ msgstr "Token Akses"
 
 #: crm/lead_syncing/doctype/lead_sync_source/facebook.py:145
 msgid "Access token is required"
-msgstr ""
+msgstr "Token akses diperlukan"
 
 #. Label of the account_id (Data) field in DocType 'Facebook Page'
 #: crm/lead_syncing/doctype/facebook_page/facebook_page.json
 msgid "Account ID"
-msgstr ""
+msgstr "ID Akun"
 
 #: frontend/src/components/Settings/Profile/ProfileSettings.vue:87
 msgid "Account Info & Security"
-msgstr ""
+msgstr "Info & Keamanan Akun"
 
 #: frontend/src/components/Settings/emailConfig.js:13
 msgid "Account Name"
@@ -312,11 +312,11 @@ msgstr "Tambahkan Penerima"
 
 #: frontend/src/components/Calendar/Attendee.vue:118
 msgid "Add Attendee"
-msgstr ""
+msgstr "Tambahkan Peserta"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:4
 msgid "Add Chart"
-msgstr ""
+msgstr "Tambahkan Bagan"
 
 #: frontend/src/components/ColumnSettings.vue:68
 #: frontend/src/components/FieldLayoutEditor.vue:562
@@ -331,25 +331,25 @@ msgstr "Tambahkan Kolom"
 #: frontend/src/components/Settings/Sla/SlaAssignmentConditions.vue:26
 #: frontend/src/components/Settings/Sla/SlaAssignmentConditions.vue:63
 msgid "Add Condition"
-msgstr ""
+msgstr "Tambahkan Kondisi"
 
 #: frontend/src/components/ConditionsFilter/CFConditions.vue:81
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRulesSection.vue:71
 #: frontend/src/components/Settings/Sla/SlaAssignmentConditions.vue:69
 msgid "Add Condition Group"
-msgstr ""
+msgstr "Tambahkan Grup Kondisi"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:388
 msgid "Add Description"
-msgstr ""
+msgstr "Tambahkan Deskripsi"
 
 #: frontend/src/components/Modals/EventModal.vue:179
 msgid "Add Description."
-msgstr ""
+msgstr "Tambahkan Deskripsi."
 
 #: frontend/src/components/Settings/Profile/UserEmailSettings.vue:100
 msgid "Add Email"
-msgstr ""
+msgstr "Tambahkan Surel"
 
 #: frontend/src/components/Modals/AddExistingUserModal.vue:4
 #: frontend/src/components/Settings/Users.vue:21
@@ -370,20 +370,20 @@ msgstr "Tambah Filter"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:429
 msgid "Add Lead or Deal"
-msgstr ""
+msgstr "Tambahkan Prospek atau Kesepakatan"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:376
 #: frontend/src/components/Modals/EventModal.vue:166
 msgid "Add Location"
-msgstr ""
+msgstr "Tambahkan Lokasi"
 
 #: frontend/src/pages/Contact.vue:438
 msgid "Add Mobile Number..."
-msgstr ""
+msgstr "Tambahkan Nomor Ponsel..."
 
 #: frontend/src/components/Modals/CallLogDetailModal.vue:20
 msgid "Add Note"
-msgstr ""
+msgstr "Tambahkan Catatan"
 
 #: frontend/src/components/Calendar/EventNotifications.vue:67
 #: frontend/src/components/Calendar/EventNotifications.vue:128
@@ -391,11 +391,11 @@ msgstr ""
 #: frontend/src/components/Settings/CalendarSettings.vue:142
 #: frontend/src/components/Settings/CalendarSettings.vue:242
 msgid "Add Notification"
-msgstr ""
+msgstr "Tambahkan Pemberitahuan"
 
 #: frontend/src/pages/Contact.vue:439
 msgid "Add Organization..."
-msgstr ""
+msgstr "Tambahkan Organisasi..."
 
 #: frontend/src/components/Controls/Grid.vue:435
 #: frontend/src/components/Settings/Sla/SlaHolidays.vue:163
@@ -405,7 +405,7 @@ msgstr "Tambah Baris"
 
 #: frontend/src/pages/Welcome.vue:24
 msgid "Add Sample Data"
-msgstr ""
+msgstr "Tambahkan Data Sampel"
 
 #: frontend/src/components/FieldLayoutEditor.vue:258
 #: frontend/src/components/SidePanelLayoutEditor.vue:127
@@ -422,7 +422,7 @@ msgstr "Tambah Tab"
 
 #: frontend/src/components/Modals/CallLogDetailModal.vue:25
 msgid "Add Task"
-msgstr ""
+msgstr "Tambahkan Tugas"
 
 #. Label of the add_weekly_holidays_section (Section Break) field in DocType
 #. 'CRM Holiday List'
@@ -432,11 +432,11 @@ msgstr "Tambah Hari Libur Mingguan"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRulesSection.vue:20
 msgid "Add a Condition"
-msgstr ""
+msgstr "Tambahkan Kondisi"
 
 #: frontend/src/components/Settings/Sla/SlaAssignmentConditions.vue:15
 msgid "Add a Custom Condition"
-msgstr ""
+msgstr "Tambahkan Kondisi Khusus"
 
 #: frontend/src/components/Telephony/ExotelCallUI.vue:183
 #: frontend/src/components/Telephony/TwilioCallUI.vue:57
@@ -445,11 +445,11 @@ msgstr "Tambah Catatan"
 
 #: frontend/src/components/Telephony/ExotelCallUI.vue:191
 msgid "Add a Task"
-msgstr ""
+msgstr "Tambahkan Tugas"
 
 #: frontend/src/components/Settings/LeadSyncing/leadSyncSourceConfig.js:25
 msgid "Add a name for your source"
-msgstr ""
+msgstr "Tambahkan nama untuk sumber Anda"
 
 #: frontend/src/components/Telephony/TaskPanel.vue:16
 msgid "Add description..."
@@ -463,7 +463,7 @@ msgstr "Tambahkan pengguna sistem yang ada ke CRM ini. Berikan peran untuk membe
 #: frontend/src/components/Settings/EmailAccountList.vue:51
 #: frontend/src/components/Settings/Users.vue:53
 msgid "Add one to get started."
-msgstr ""
+msgstr "Tambahkan satu untuk memulai."
 
 #. Description of the 'Icon' (Code) field in DocType 'CRM Dropdown Item'
 #: crm/fcrm/doctype/crm_dropdown_item/crm_dropdown_item.json
@@ -472,7 +472,7 @@ msgstr "Tambahkan kode svg atau gunakan ikon feather, misalnya 'settings'"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:219
 msgid "Add time targets around support milestones like first response"
-msgstr ""
+msgstr "Tambahkan target waktu seputar pencapaian dukungan seperti respons pertama"
 
 #. Label of the add_to_holidays (Button) field in DocType 'CRM Holiday List'
 #: crm/fcrm/doctype/crm_holiday_list/crm_holiday_list.json
@@ -489,7 +489,7 @@ msgstr "Tambah, edit, dan kelola templat email untuk berbagai komunikasi CRM"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSources.vue:14
 msgid "Add, edit, and manage sources for automatic lead syncing to your CRM"
-msgstr ""
+msgstr "Tambahkan, edit, dan kelola sumber untuk sinkronisasi prospek otomatis ke CRM Anda"
 
 #. Label of the address (Link) field in DocType 'CRM Organization'
 #: crm/fcrm/doctype/crm_organization/crm_organization.json
@@ -531,11 +531,11 @@ msgstr "Semua Hari"
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 #: frontend/src/components/Settings/CalendarSettings.vue:157
 msgid "All Day Event Notifications"
-msgstr ""
+msgstr "Pemberitahuan Acara Sepanjang Hari"
 
 #: frontend/src/components/Settings/Sla/SlaPriorityList.vue:205
 msgid "All available priorities have already been added"
-msgstr ""
+msgstr "Semua prioritas yang tersedia telah ditambahkan"
 
 #. Label of the amount (Currency) field in DocType 'CRM Products'
 #: crm/fcrm/doctype/crm_products/crm_products.json
@@ -588,7 +588,7 @@ msgstr "Pendapatan Tahunan harus berupa angka"
 
 #: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:69
 msgid "Any failed lead syncs will show up here"
-msgstr ""
+msgstr "Sinkronisasi prospek yang gagal akan muncul di sini"
 
 #. Label of the app_name (Data) field in DocType 'CRM Twilio Settings'
 #: crm/fcrm/doctype/crm_twilio_settings/crm_twilio_settings.json
@@ -597,7 +597,7 @@ msgstr "Nama App"
 
 #: frontend/src/components/Settings/PreferencesSettings.vue:16
 msgid "Appearance"
-msgstr ""
+msgstr "Penampilan"
 
 #: frontend/src/components/Settings/BrandSettings.vue:65
 msgid "Appears in the left sidebar. Recommended size is 32x32 px in PNG or SVG"
@@ -631,7 +631,7 @@ msgstr "Aplikasi"
 
 #: frontend/src/composables/demoData.js:21
 msgid "Are you sure you want to clear demo data? This action cannot be undone."
-msgstr ""
+msgstr "Apakah Anda yakin ingin menghapus data demo? Tindakan ini tidak dapat dibatalkan."
 
 #: frontend/src/components/Activities/AttachmentArea.vue:128
 msgid "Are you sure you want to delete this attachment?"
@@ -660,12 +660,12 @@ msgstr "Apakah Anda yakin ingin menghapus {0} item tertaut?"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:911
 msgid "Are you sure you want to discard unsaved changes to this event?"
-msgstr ""
+msgstr "Apakah Anda yakin ingin membuang perubahan yang belum disimpan pada acara ini?"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:576
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:347
 msgid "Are you sure you want to go back? Unsaved changes will be lost."
-msgstr ""
+msgstr "Apakah Anda yakin ingin kembali? Perubahan yang belum disimpan akan hilang."
 
 #: frontend/src/composables/frappecloud.js:24
 msgid "Are you sure you want to login to your Frappe Cloud dashboard?"
@@ -673,7 +673,7 @@ msgstr "Apakah Anda yakin ingin masuk ke dasbor Frappe Cloud Anda?"
 
 #: frontend/src/components/FieldLayoutEditor.vue:428
 msgid "Are you sure you want to remove this tab and all its content?"
-msgstr ""
+msgstr "Apakah Anda yakin ingin menghapus tab ini dan semua kontennya?"
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.js:9
 msgid "Are you sure you want to reset 'Create Quotation from CRM Deal' Form Script?"
@@ -693,11 +693,11 @@ msgstr "Minta manajer Anda untuk mengatur Penyedia Nilai Tukar, karena penyedia 
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:435
 msgid "Assign Condition is required"
-msgstr ""
+msgstr "Kondisi Penetapan diperlukan"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:438
 msgid "Assign Conditions are invalid"
-msgstr ""
+msgstr "Ketentuan Penetapan tidak valid"
 
 #: frontend/src/components/AssignTo.vue:11
 #: frontend/src/components/AssignToBody.vue:5
@@ -708,7 +708,7 @@ msgstr "Tugaskan Ke"
 
 #: frontend/src/components/AssignToBody.vue:64
 msgid "Assign To Me"
-msgstr ""
+msgstr "Tetapkan Kepada Saya"
 
 #. Label of the assigned_to (Link) field in DocType 'CRM Task'
 #: crm/fcrm/doctype/crm_task/crm_task.json
@@ -717,7 +717,7 @@ msgstr "Ditugaskan Kepada"
 
 #: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:5
 msgid "Assignee Rules"
-msgstr ""
+msgstr "Aturan Penerima Tugas"
 
 #: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:81
 msgid "Assignees"
@@ -730,13 +730,13 @@ msgstr "Penugasan"
 
 #: frontend/src/components/ListBulkActions.vue:152
 msgid "Assignment Cleared Successfully"
-msgstr ""
+msgstr "Tugas Berhasil Diselesaikan"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:145
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:605
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:606
 msgid "Assignment Condition"
-msgstr ""
+msgstr "Kondisi Penugasan"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:609
 msgid "Assignment Days"
@@ -744,7 +744,7 @@ msgstr "Hari Penugasan"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:471
 msgid "Assignment Days are required"
-msgstr ""
+msgstr "Hari Penugasan diperlukan"
 
 #. Label of a shortcut in the Frappe CRM Workspace
 #: crm/fcrm/workspace/frappe_crm/frappe_crm.json
@@ -759,15 +759,15 @@ msgstr ""
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleListItem.vue:123
 msgid "Assignment Rule Deleted"
-msgstr ""
+msgstr "Aturan Penugasan Dihapus"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleListItem.vue:155
 msgid "Assignment Rule Duplicated"
-msgstr ""
+msgstr "Aturan Penugasan Digandakan"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:780
 msgid "Assignment Rule Updated"
-msgstr ""
+msgstr "Aturan Penugasan Diperbarui"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleListItem.vue:187
 msgid "Assignment Rule {0} Updated"
@@ -780,15 +780,15 @@ msgstr "Aturan Penugasan"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:302
 msgid "Assignment Schedule"
-msgstr ""
+msgstr "Jadwal Penugasan"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:104
 msgid "Assignment conditions"
-msgstr ""
+msgstr "Kondisi penugasan"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:306
 msgid "Assignment conditions are invalid or corrupt, recreate the conditions."
-msgstr ""
+msgstr "Kondisi penugasan tidak valid atau rusak, buat ulang kondisi tersebut."
 
 #: frontend/src/components/Controls/GridFieldsEditorModal.vue:184
 msgid "At least one field is required"
@@ -796,11 +796,11 @@ msgstr "Setidaknya satu bidang wajib diisi"
 
 #: frontend/src/components/Settings/Sla/utils.js:116
 msgid "At least one priority is required"
-msgstr ""
+msgstr "Setidaknya diperlukan satu prioritas"
 
 #: frontend/src/components/Settings/Sla/utils.js:204
 msgid "At least one valid Workday with Workday, Start Time, and End Time is required"
-msgstr ""
+msgstr "Setidaknya diperlukan satu Hari Kerja yang valid dengan Hari Kerja, Waktu Mulai, dan Waktu Berakhir"
 
 #: frontend/src/components/FilesUploader/FilesUploader.vue:5
 #: frontend/src/components/FilesUploader/FilesUploader.vue:73
@@ -811,11 +811,11 @@ msgstr "Lampirkan"
 #: frontend/src/components/EmailEditor.vue:163 frontend/src/pages/Deal.vue:114
 #: frontend/src/pages/Lead.vue:161
 msgid "Attach a File"
-msgstr ""
+msgstr "Lampirkan File"
 
 #: frontend/src/components/Controls/AttachControl.vue:10
 msgid "Attach file…"
-msgstr ""
+msgstr "Lampirkan berkas…"
 
 #: frontend/src/pages/Deal.vue:600 frontend/src/pages/Lead.vue:452
 #: frontend/src/pages/MobileDeal.vue:474 frontend/src/pages/MobileLead.vue:319
@@ -828,7 +828,7 @@ msgstr "Peserta"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:868
 msgid "Attending status updated"
-msgstr ""
+msgstr "Status kehadiran diperbarui"
 
 #. Label of the auth_token (Password) field in DocType 'CRM Twilio Settings'
 #: crm/fcrm/doctype/crm_twilio_settings/crm_twilio_settings.json
@@ -838,27 +838,27 @@ msgstr "Auth Token"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:185
 msgid "Auto Create Customer"
-msgstr ""
+msgstr "Buat Pelanggan Otomatis"
 
 #: frontend/src/components/Settings/DashboardSettings.vue:49
 msgid "Auto Update Expected Deal Value"
-msgstr ""
+msgstr "Perbarui Otomatis Nilai Transaksi yang Diharapkan"
 
 #. Label of the auto_update_expected_deal_value (Check) field in DocType 'FCRM
 #. Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 msgid "Auto update Expected Deal Value"
-msgstr ""
+msgstr "Pembaruan otomatis Nilai Transaksi yang Diharapkan"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRules.vue:11
 msgid "Auto-assign leads/deals to the right sales user based on predefined conditions"
-msgstr ""
+msgstr "Tetapkan prospek/penawaran secara otomatis ke pengguna penjualan yang tepat berdasarkan kondisi yang telah ditentukan sebelumnya"
 
 #. Description of the 'Condition' (Code) field in DocType 'CRM Service Level
 #. Agreement'
 #: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.json
 msgid "Auto-generated from the portal view — do not edit directly unless you know what you're doing! "
-msgstr ""
+msgstr "Dibuat secara otomatis dari tampilan portal — jangan mengedit secara langsung kecuali Anda tahu apa yang Anda lakukan!"
 
 #. Label of the autocomplete (Autocomplete) field in DocType 'CRM Products'
 #: crm/fcrm/doctype/crm_products/crm_products.json
@@ -870,14 +870,14 @@ msgstr "Pelengkapan Otomatis"
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 #: frontend/src/components/Settings/GeneralSettings.vue:64
 msgid "Automatically sets Communication Status to “Open” for the lead or deal when a new communication is created. Applies only when SLA is enabled"
-msgstr ""
+msgstr "Secara otomatis menetapkan Status Komunikasi ke “Terbuka” untuk prospek atau kesepakatan ketika komunikasi baru dibuat. Hanya berlaku ketika SLA diaktifkan"
 
 #. Description of the 'Mark lead/deal as replied on response' (Check) field in
 #. DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 #: frontend/src/components/Settings/GeneralSettings.vue:42
 msgid "Automatically sets Communication Status to “Replied” for the lead or deal when a response is received. Applies only when SLA is enabled"
-msgstr ""
+msgstr "Secara otomatis menetapkan Status Komunikasi ke “Dibalas” untuk prospek atau transaksi ketika respons diterima. Hanya berlaku ketika SLA diaktifkan"
 
 #. Description of the 'Auto update Expected Deal Value' (Check) field in
 #. DocType 'FCRM Settings'
@@ -912,23 +912,23 @@ msgstr "Waktu rata-rata yang dibutuhkan dari pembuatan prospek hingga penutupan 
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:81
 msgid "Avg Deal Value"
-msgstr ""
+msgstr "Nilai Kesepakatan Rata-rata"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:78
 msgid "Avg Ongoing Deal Value"
-msgstr ""
+msgstr "Rata-rata Nilai Transaksi yang Sedang Berlangsung"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:87
 msgid "Avg Time to Close a Deal"
-msgstr ""
+msgstr "Rata-Rata Waktu untuk Menutup Kesepakatan"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:83
 msgid "Avg Time to Close a Lead"
-msgstr ""
+msgstr "Rata-Rata Waktu untuk Menutup Prospek"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:80
 msgid "Avg Won Deal Value"
-msgstr ""
+msgstr "Rata-rata Nilai Kesepakatan yang Dimenangkan"
 
 #: crm/api/dashboard.py:418
 msgid "Avg. deal value"
@@ -953,7 +953,7 @@ msgstr "Rerata nilai kesepakatan yang berhasil"
 #: frontend/src/components/Dashboard/AddChartModal.vue:26
 #: frontend/src/components/Dashboard/AddChartModal.vue:70
 msgid "Axis Chart"
-msgstr ""
+msgstr "Bagan Sumbu"
 
 #: frontend/src/components/Activities/EmailArea.vue:62
 #: frontend/src/components/EmailEditor.vue:62
@@ -969,18 +969,18 @@ msgstr "Kembali"
 
 #: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:9
 msgid "Back to All Logs"
-msgstr ""
+msgstr "Kembali ke Semua Log"
 
 #: frontend/src/components/FilesUploader/FilesUploader.vue:31
 msgid "Back to File Upload"
-msgstr ""
+msgstr "Kembali ke Unggah File"
 
 #. Label of the background_sync_frequency (Select) field in DocType 'Lead Sync
 #. Source'
 #: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.json
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:83
 msgid "Background Sync Frequency"
-msgstr ""
+msgstr "Frekuensi Sinkronisasi Latar Belakang"
 
 #. Option for the 'Status' (Select) field in DocType 'CRM Task'
 #: crm/fcrm/doctype/crm_task/crm_task.json
@@ -1001,11 +1001,11 @@ msgstr "Logo Merek"
 
 #: frontend/src/components/Settings/BrandSettings.vue:30
 msgid "Brand Name"
-msgstr ""
+msgstr "Nama Merek"
 
 #: frontend/src/components/Settings/BrandSettings.vue:7
 msgid "Brand Settings"
-msgstr ""
+msgstr "Pengaturan Merek"
 
 #. Label of the branding_tab (Tab Break) field in DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
@@ -1151,7 +1151,7 @@ msgstr "CRM Produk"
 #. Name of a DocType
 #: crm/fcrm/doctype/crm_rolling_response_time/crm_rolling_response_time.json
 msgid "CRM Rolling Response Time"
-msgstr ""
+msgstr "Waktu Respons Bergulir CRM"
 
 #. Name of a DocType
 #: crm/fcrm/doctype/crm_service_day/crm_service_day.json
@@ -1215,7 +1215,7 @@ msgstr "Kalender"
 
 #: frontend/src/components/Settings/CalendarSettings.vue:7
 msgid "Calendar Settings"
-msgstr ""
+msgstr "Pengaturan Kalender"
 
 #: frontend/src/components/Modals/CallLogDetailModal.vue:9
 msgid "Call Details"
@@ -1233,7 +1233,7 @@ msgstr "Panggilan Diterima Oleh"
 #: crm/integrations/api.py:155 crm/integrations/twilio/api.py:148
 #: crm/integrations/twilio/api.py:166
 msgid "Call log not found"
-msgstr ""
+msgstr "Log panggilan tidak ditemukan"
 
 #: frontend/src/components/Telephony/CallUI.vue:10
 msgid "Call using {0}"
@@ -1270,7 +1270,7 @@ msgstr "Kamera"
 
 #: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.py:28
 msgid "Can't retry sync for this without source!"
-msgstr ""
+msgstr "Tidak dapat mencoba ulang sinkronisasi untuk ini tanpa sumber!"
 
 #: frontend/src/components/BulkDeleteLinkedDocModal.vue:82
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:916
@@ -1299,7 +1299,7 @@ msgstr "Dibatalkan"
 
 #: crm/api/user.py:82
 msgid "Cannot assign this role"
-msgstr ""
+msgstr "Tidak dapat menetapkan peran ini"
 
 #: frontend/src/components/Settings/Users.vue:120
 msgid "Cannot change role of user with Admin access"
@@ -1311,11 +1311,11 @@ msgstr "Tidak dapat menghapus item standar {0}"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleListItem.vue:170
 msgid "Cannot enable rule without adding users in it"
-msgstr ""
+msgstr "Tidak dapat mengaktifkan aturan tanpa menambahkan pengguna di dalamnya"
 
 #: crm/api/__init__.py:109
 msgid "Cannot invite for this role"
-msgstr ""
+msgstr "Tidak dapat mengundang untuk peran ini"
 
 #: frontend/src/components/FilesUploader/FilesUploader.vue:91
 msgid "Capture"
@@ -1323,7 +1323,7 @@ msgstr "Ambil Gambar"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:585
 msgid "Capturing Leads"
-msgstr ""
+msgstr "Menangkap Prospek"
 
 #. Label of the category (Data) field in DocType 'Facebook Page'
 #: crm/lead_syncing/doctype/facebook_page/facebook_page.json
@@ -1349,7 +1349,7 @@ msgstr "Ubah Kata Sandi"
 
 #: frontend/src/components/Settings/Profile/ProfileSettings.vue:158
 msgid "Change Photo"
-msgstr ""
+msgstr "Ubah Foto"
 
 #: frontend/src/components/Activities/TaskArea.vue:44
 msgid "Change Status"
@@ -1362,15 +1362,15 @@ msgstr "Ubah status kesepakatan"
 
 #: frontend/src/components/Settings/PreferencesSettings.vue:60
 msgid "Change language of the application."
-msgstr ""
+msgstr "Ubah bahasa aplikasi."
 
 #: frontend/src/components/Settings/PreferencesSettings.vue:71
 msgid "Change timezone of the application."
-msgstr ""
+msgstr "Ubah zona waktu aplikasi."
 
 #: frontend/src/components/Settings/Profile/ProfileSettings.vue:113
 msgid "Change your account password for security."
-msgstr ""
+msgstr "Ubah kata sandi akun Anda untuk keamanan."
 
 #: frontend/src/pages/Dashboard.vue:22
 msgid "Chart"
@@ -1395,11 +1395,11 @@ msgstr "Pilih Organisasi yang Ada"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:171
 msgid "Choose how long this SLA policy will be active."
-msgstr ""
+msgstr "Pilih berapa lama kebijakan SLA ini akan aktif."
 
 #: frontend/src/components/Settings/PreferencesSettings.vue:6
 msgid "Choose how you want to use the application by setting your preferences."
-msgstr ""
+msgstr "Pilih bagaimana Anda ingin menggunakan aplikasi dengan mengatur preferensi Anda."
 
 #: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:9
 msgid "Choose how {0} are assigned among salespeople."
@@ -1407,15 +1407,15 @@ msgstr ""
 
 #: frontend/src/components/Settings/EmailAdd.vue:9
 msgid "Choose the Email Service Provider you want to configure."
-msgstr ""
+msgstr "Pilih Penyedia Layanan Email yang ingin Anda konfigurasi."
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:306
 msgid "Choose the days of the week when this rule should be active."
-msgstr ""
+msgstr "Pilih hari dalam seminggu kapan aturan ini harus aktif."
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:107
 msgid "Choose which leads/deals are affected by this policy."
-msgstr ""
+msgstr "Pilih prospek/transaksi mana yang terpengaruh oleh kebijakan ini."
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:229
 msgid "Choose which {0} are affected by this un-assignment rule."
@@ -1430,7 +1430,7 @@ msgstr "Kosongkan"
 
 #: frontend/src/components/Filter.vue:21 frontend/src/components/Filter.vue:149
 msgid "Clear All Filters"
-msgstr ""
+msgstr "Hapus Semua Filter"
 
 #: frontend/src/components/ListBulkActions.vue:134
 #: frontend/src/components/ListBulkActions.vue:142
@@ -1464,7 +1464,7 @@ msgstr "Tutup"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:38
 msgid "Close Panel"
-msgstr ""
+msgstr "Tutup Panel"
 
 #. Label of the closed_date (Date) field in DocType 'CRM Deal'
 #: crm/fcrm/doctype/crm_deal/crm_deal.json
@@ -1513,7 +1513,7 @@ msgstr "Komentar"
 
 #: frontend/src/components/CommunicationArea.vue:275
 msgid "Comment sent"
-msgstr ""
+msgstr "Komentar terkirim"
 
 #: frontend/src/pages/Deal.vue:570 frontend/src/pages/Lead.vue:422
 #: frontend/src/pages/MobileDeal.vue:448 frontend/src/pages/MobileLead.vue:294
@@ -1543,11 +1543,11 @@ msgstr "Nama Perusahaan"
 #. Label of the erpnext_company (Data) field in DocType 'ERPNext CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
 msgid "Company in ERPNext site"
-msgstr ""
+msgstr "Perusahaan di situs ERPNext"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:476
 msgid "Company name is required"
-msgstr ""
+msgstr "Nama perusahaan wajib diisi"
 
 #: crm/templates/emails/helpdesk_invitation.html:10
 msgid "Complete Registration"
@@ -1576,53 +1576,53 @@ msgstr "Kondisi"
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:188
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:272
 msgid "Conditions for this rule were created from"
-msgstr ""
+msgstr "Ketentuan untuk aturan ini dibuat dari"
 
 #: frontend/src/components/Settings/Profile/ProfileSettings.vue:103
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:162
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:187
 msgid "Configure"
-msgstr ""
+msgstr "Konfigurasikan"
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:18
 msgid "Configure Telephony Settings for your CRM"
-msgstr ""
+msgstr "Konfigurasikan Pengaturan Teleponi untuk CRM Anda"
 
 #: frontend/src/components/Settings/HomeActions.vue:10
 msgid "Configure actions that appear on the home dropdown"
-msgstr ""
+msgstr "Konfigurasikan tindakan yang muncul di dropdown beranda"
 
 #: frontend/src/components/Settings/DefaultsSettings.vue:10
 msgid "Configure default settings for your CRM system, including default currency, date formats, and other system-wide preferences to ensure consistency across your system."
-msgstr ""
+msgstr "Konfigurasikan pengaturan default untuk sistem CRM Anda, termasuk mata uang default, format tanggal, dan preferensi seluruh sistem lainnya untuk memastikan konsistensi di seluruh sistem Anda."
 
 #: frontend/src/components/Settings/GeneralSettings.vue:8
 msgid "Configure general settings for your application"
-msgstr ""
+msgstr "Konfigurasikan pengaturan umum untuk aplikasi Anda"
 
 #: frontend/src/components/Settings/DashboardSettings.vue:10
 msgid "Configure how your dashboard calculates, formats, and displays key metrics, including forecasting, deal values, and currency settings"
-msgstr ""
+msgstr "Konfigurasikan cara dasbor Anda menghitung, memformat, dan menampilkan metrik utama, termasuk perkiraan, nilai transaksi, dan pengaturan mata uang"
 
 #: frontend/src/components/Settings/DashboardSettings.vue:102
 msgid "Configure the Exchange Rate Provider for your CRM"
-msgstr ""
+msgstr "Konfigurasikan Penyedia Nilai Tukar untuk CRM Anda"
 
 #: frontend/src/components/Settings/BrandSettings.vue:10
 msgid "Configure your Brand Name, Logo, and Favicon"
-msgstr ""
+msgstr "Konfigurasikan Nama Merek, Logo, dan Favicon Anda"
 
 #: frontend/src/components/Settings/CalendarSettings.vue:11
 msgid "Configure your Calendar Settings like Default View and Event Notifications here"
-msgstr ""
+msgstr "Konfigurasikan Pengaturan Kalender Anda seperti Tampilan Default dan Pemberitahuan Acara di sini"
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:182
 msgid "Configure your Exotel Telephony Integration Settings here"
-msgstr ""
+msgstr "Konfigurasikan Pengaturan Integrasi Teleponi Exotel Anda di sini"
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:157
 msgid "Configure your Twilio Telephony Integration Settings here"
-msgstr ""
+msgstr "Konfigurasikan Pengaturan Integrasi Teleponi Twilio Anda di sini"
 
 #: frontend/src/composables/demoData.js:26
 #: frontend/src/composables/frappecloud.js:29
@@ -1637,7 +1637,7 @@ msgstr "Konfirmasi Hapus"
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:640
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:400
 msgid "Confirm Overwrite"
-msgstr ""
+msgstr "Konfirmasi Timpa"
 
 #: frontend/src/components/Modals/ChangePasswordModal.vue:30
 msgid "Confirm Password"
@@ -1649,7 +1649,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:246
 msgid "Connect ERPNext to Frappe CRM"
-msgstr ""
+msgstr "Hubungkan ERPNext ke Frappe CRM"
 
 #: frontend/src/pages/Welcome.vue:35
 msgid "Connect your Email"
@@ -1666,11 +1666,11 @@ msgstr "Kontak"
 
 #: frontend/src/pages/Deal.vue:681 frontend/src/pages/MobileDeal.vue:552
 msgid "Contact Added"
-msgstr ""
+msgstr "Kontak Ditambahkan"
 
 #: frontend/src/pages/Deal.vue:671 frontend/src/pages/MobileDeal.vue:542
 msgid "Contact Already Added"
-msgstr ""
+msgstr "Kontak Sudah Ditambahkan"
 
 #: crm/fcrm/doctype/crm_lead/crm_lead.py:298
 msgid "Contact Already Exists"
@@ -1678,11 +1678,11 @@ msgstr "Kontak Sudah Ada"
 
 #: frontend/src/pages/MobileContact.vue:263
 msgid "Contact Image Updated"
-msgstr ""
+msgstr "Gambar Kontak Diperbarui"
 
 #: frontend/src/pages/Deal.vue:692 frontend/src/pages/MobileDeal.vue:563
 msgid "Contact Removed"
-msgstr ""
+msgstr "Kontak Dihapus"
 
 #: frontend/src/components/Modals/AboutModal.vue:70
 msgid "Contact Support"
@@ -1695,7 +1695,7 @@ msgstr "Hubungi Dukungan"
 #: frontend/src/pages/MobileContact.vue:469
 #: frontend/src/pages/MobileContact.vue:479
 msgid "Contact Updated"
-msgstr ""
+msgstr "Kontak Diperbarui"
 
 #: frontend/src/components/Modals/EditValueModal.vue:19
 msgid "Contact Us"
@@ -1743,7 +1743,7 @@ msgstr "Konten wajib diisi"
 
 #: frontend/src/components/Settings/DefaultsSettings.vue:75
 msgid "Controls how numbers are displayed (e.g., commas, decimal separators)"
-msgstr ""
+msgstr "Mengontrol bagaimana angka ditampilkan (misalnya koma, pemisah desimal)"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:399
 #: frontend/src/components/ListBulkActions.vue:86
@@ -1771,11 +1771,11 @@ msgstr "Terkonversi"
 
 #: frontend/src/components/ListBulkActions.vue:94
 msgid "Converted Successfully"
-msgstr ""
+msgstr "Berhasil Dikonversi"
 
 #: frontend/src/utils/index.js:405
 msgid "Copied to Clipboard"
-msgstr ""
+msgstr "Disalin ke Papan Klip"
 
 #: crm/api/dashboard.py:647 crm/api/dashboard.py:795 crm/api/dashboard.py:852
 #: crm/api/dashboard.py:945
@@ -1811,7 +1811,7 @@ msgstr "Buat Kesepakatan"
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:513
 #: frontend/src/pages/Calendar.vue:7
 msgid "Create Event"
-msgstr ""
+msgstr "Buat Acara"
 
 #: frontend/src/components/Modals/CallLogDetailModal.vue:155
 #: frontend/src/components/Modals/LeadModal.vue:8
@@ -1820,7 +1820,7 @@ msgstr "Buat Prospek"
 
 #: frontend/src/components/Settings/emailConfig.js:58
 msgid "Create Lead from Incoming Emails"
-msgstr ""
+msgstr "Buat Prospek dari Email Masuk"
 
 #: frontend/src/components/Controls/Link.vue:50
 #: frontend/src/components/Modals/EmailTemplateSelectorModal.vue:58
@@ -1831,7 +1831,7 @@ msgstr "Buat Baru"
 
 #: frontend/src/components/Settings/Sla/SlaHolidays.vue:66
 msgid "Create New Holiday List"
-msgstr ""
+msgstr "Buat Daftar Liburan Baru"
 
 #: frontend/src/components/Modals/NoteModal.vue:6
 msgid "Create Note"
@@ -1848,11 +1848,11 @@ msgstr "Buat Tampilan"
 
 #: frontend/src/components/Modals/EventModal.vue:12
 msgid "Create an Event"
-msgstr ""
+msgstr "Buat Acara"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:189
 msgid "Create customer in ERPNext when the deal status is changed"
-msgstr ""
+msgstr "Buat pelanggan di ERPNext ketika status kesepakatan diubah"
 
 #. Label of the create_customer_on_status_change (Check) field in DocType
 #. 'ERPNext CRM Settings'
@@ -1862,7 +1862,7 @@ msgstr "Buat pelanggan saat perubahan status"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:398
 msgid "Create quotation button on deal page and auto customer creation on deal status change will be disabled. Are you sure?"
-msgstr ""
+msgstr "Tombol buat penawaran pada halaman transaksi dan pembuatan pelanggan otomatis pada perubahan status transaksi akan dinonaktifkan. Apa kamu yakin?"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:365
 msgid "Create your first lead"
@@ -1897,7 +1897,7 @@ msgstr "Mata uang berhasil diatur sebagai {0}"
 
 #: frontend/src/components/Modals/ChangePasswordModal.vue:8
 msgid "Current Password"
-msgstr ""
+msgstr "Kata Sandi Saat Ini"
 
 #: crm/api/dashboard.py:896
 msgid "Current pipeline distribution"
@@ -1905,31 +1905,31 @@ msgstr "Distribusi pipeline saat ini"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:615
 msgid "Custom Actions"
-msgstr ""
+msgstr "Tindakan Kustom"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:565
 msgid "Custom Branding"
-msgstr ""
+msgstr "Merek Khusus"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:614
 msgid "Custom Fields"
-msgstr ""
+msgstr "Bidang Kustom"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:617
 msgid "Custom List Actions"
-msgstr ""
+msgstr "Tindakan Daftar Kustom"
 
 #: frontend/src/pages/Dashboard.vue:228
 msgid "Custom Range"
-msgstr ""
+msgstr "Rentang Kustom"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:616
 msgid "Custom Statuses"
-msgstr ""
+msgstr "Status Kustom"
 
 #: frontend/src/pages/Deal.vue:498
 msgid "Customer Created Successfully"
-msgstr ""
+msgstr "Pelanggan Berhasil Dibuat"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:611
 #: frontend/src/components/Settings/Settings.vue:196
@@ -1965,15 +1965,15 @@ msgstr "Dasbor"
 
 #: frontend/src/components/Settings/DashboardSettings.vue:70
 msgid "Dashboard Currency"
-msgstr ""
+msgstr "Mata Uang Dasbor"
 
 #: frontend/src/components/Settings/DashboardSettings.vue:74
 msgid "Dashboard number cards & charts will show currency in the selected format. Once set, cannot be edited."
-msgstr ""
+msgstr "Kartu & bagan nomor dasbor akan menampilkan mata uang dalam format yang dipilih. Setelah disetel, tidak dapat diedit."
 
 #: frontend/src/components/Settings/DashboardSettings.vue:224
 msgid "Dashboard settings updated successfully"
-msgstr ""
+msgstr "Pengaturan dasbor berhasil diperbarui"
 
 #: frontend/src/components/Activities/DataFields.vue:6
 #: frontend/src/components/Layouts/AppSidebar.vue:604
@@ -1998,7 +1998,7 @@ msgstr "Tanggal"
 
 #: frontend/src/components/Modals/EventModal.vue:78
 msgid "Date & Time"
-msgstr ""
+msgstr "Tanggal & Waktu"
 
 #: frontend/src/components/Settings/DefaultsSettings.vue:111
 msgid "Date Format"
@@ -2052,7 +2052,7 @@ msgstr "Analisis saluran perolehan kesepakatan"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:481
 msgid "Deal status is required"
-msgstr ""
+msgstr "Status transaksi diperlukan"
 
 #: crm/api/dashboard.py:1078 crm/api/dashboard.py:1141
 msgid "Deal value"
@@ -2068,23 +2068,23 @@ msgstr "Kesepakatan"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:97
 msgid "Deals by Ongoing & Won Stage"
-msgstr ""
+msgstr "Penawaran berdasarkan Tahap yang Sedang Berlangsung & Dimenangkan"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:100
 msgid "Deals by Salesperson"
-msgstr ""
+msgstr "Penawaran oleh Penjual"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:107
 msgid "Deals by Source"
-msgstr ""
+msgstr "Penawaran berdasarkan Sumber"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:105
 msgid "Deals by Stage"
-msgstr ""
+msgstr "Penawaran berdasarkan Tahap"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:99
 msgid "Deals by Territory"
-msgstr ""
+msgstr "Penawaran berdasarkan Wilayah"
 
 #: crm/api/dashboard.py:846
 msgid "Deals by ongoing & won stage"
@@ -2113,7 +2113,7 @@ msgstr "Yang Terhormat {{ lead_name }},\\n\\nDengan ini, kami ingin mengingatkan
 
 #: frontend/src/utils/callLog.js:66
 msgid "Declined"
-msgstr ""
+msgstr "Ditolak"
 
 #. Label of the default (Check) field in DocType 'CRM Service Level Agreement'
 #: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.json
@@ -2123,17 +2123,17 @@ msgstr "Default"
 #. Label of the default_calendar_view (Select) field in DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 msgid "Default Calendar View"
-msgstr ""
+msgstr "Tampilan Kalender Default"
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:41
 msgid "Default Calling Medium for Logged In User"
-msgstr ""
+msgstr "Media Panggilan Default untuk Pengguna yang Masuk"
 
 #. Label of the default_reminder_section (Section Break) field in DocType 'FCRM
 #. Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 msgid "Default Event Notifications"
-msgstr ""
+msgstr "Pemberitahuan Acara Default"
 
 #: frontend/src/components/Settings/EmailAccountCard.vue:38
 msgid "Default Inbox"
@@ -2166,7 +2166,7 @@ msgstr "Pengiriman Email Default"
 
 #: frontend/src/components/Settings/EmailAccountCard.vue:36
 msgid "Default Sending & Inbox"
-msgstr ""
+msgstr "Pengiriman & Kotak Masuk Default"
 
 #: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.py:62
 msgid "Default Service Level Agreement already exists for {0}"
@@ -2191,7 +2191,7 @@ msgstr "Nilai Default"
 
 #: frontend/src/components/Settings/DefaultsSettings.vue:35
 msgid "Defines the default currency for all records, can be overridden at the field level"
-msgstr ""
+msgstr "Mendefinisikan mata uang default untuk semua catatan, dapat diganti di tingkat bidang"
 
 #: frontend/src/components/Activities/AttachmentArea.vue:131
 #: frontend/src/components/Activities/NoteArea.vue:12
@@ -2231,32 +2231,32 @@ msgstr "Hapus & Pulihkan"
 
 #: frontend/src/components/DeleteLinkedDocModal.vue:69
 msgid "Delete All"
-msgstr ""
+msgstr "Hapus Semua"
 
 #: frontend/src/components/Activities/AttachmentArea.vue:58
 #: frontend/src/components/Activities/AttachmentArea.vue:127
 msgid "Delete Attachment"
-msgstr ""
+msgstr "Hapus Lampiran"
 
 #: frontend/src/pages/MobileContact.vue:270
 msgid "Delete Contact"
-msgstr ""
+msgstr "Hapus Kontak"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:25
 msgid "Delete Event"
-msgstr ""
+msgstr "Hapus Acara"
 
 #: frontend/src/components/Settings/InviteUserPage.vue:81
 msgid "Delete Invitation"
-msgstr ""
+msgstr "Hapus Undangan"
 
 #: frontend/src/components/DeleteLinkedDocModal.vue:223
 msgid "Delete Linked Item"
-msgstr ""
+msgstr "Hapus Item Tertaut"
 
 #: frontend/src/pages/MobileOrganization.vue:273
 msgid "Delete Organization"
-msgstr ""
+msgstr "Hapus Organisasi"
 
 #: frontend/src/components/Activities/TaskArea.vue:59
 msgid "Delete Task"
@@ -2285,11 +2285,11 @@ msgstr "Hapus {0} item"
 
 #: frontend/src/components/Activities/NoteArea.vue:74
 msgid "Deleting note..."
-msgstr ""
+msgstr "Menghapus catatan..."
 
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.js:58
 msgid "Demo data restored successfully."
-msgstr ""
+msgstr "Data demo berhasil dipulihkan."
 
 #. Label of the description (Text Editor) field in DocType 'CRM Holiday'
 #. Label of the description (Text Editor) field in DocType 'CRM Lost Reason'
@@ -2310,7 +2310,7 @@ msgstr "Deskripsi"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:426
 msgid "Description is required"
-msgstr ""
+msgstr "Deskripsi diperlukan"
 
 #: frontend/src/components/Apps.vue:61
 msgid "Desk"
@@ -2344,7 +2344,7 @@ msgstr "Nonaktifkan"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:397
 msgid "Disable ERPNext Integration"
-msgstr ""
+msgstr "Nonaktifkan Integrasi ERPNext"
 
 #. Label of the disabled (Check) field in DocType 'CRM Product'
 #: crm/fcrm/doctype/crm_product/crm_product.json
@@ -2360,11 +2360,11 @@ msgstr "Batalkan"
 #: frontend/src/components/Settings/Telephony/ExotelSettings.vue:25
 #: frontend/src/components/Settings/Telephony/TwilioSettings.vue:25
 msgid "Discard Changes"
-msgstr ""
+msgstr "Buang Perubahan"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:910
 msgid "Discard Unsaved Changes?"
-msgstr ""
+msgstr "Buang Perubahan yang Belum Disimpan?"
 
 #. Label of the discount_percentage (Percent) field in DocType 'CRM Products'
 #: crm/fcrm/doctype/crm_products/crm_products.json
@@ -2378,7 +2378,7 @@ msgstr "Jumlah Diskon"
 
 #: frontend/src/components/Settings/DefaultsSettings.vue:114
 msgid "Display format for dates across the system"
-msgstr ""
+msgstr "Format tampilan untuk tanggal di seluruh sistem"
 
 #. Label of the dt (Link) field in DocType 'CRM Form Script'
 #. Label of the dt (Link) field in DocType 'CRM Global Settings'
@@ -2391,11 +2391,11 @@ msgstr "DocType"
 
 #: crm/api/doc.py:802
 msgid "Doctype is required"
-msgstr ""
+msgstr "Tipe dokumen diperlukan"
 
 #: frontend/src/pages/MobileLead.vue:203
 msgid "Document Not Found"
-msgstr ""
+msgstr "Dokumen Tidak Ditemukan"
 
 #. Label of the dt (Link) field in DocType 'CRM Fields Layout'
 #: crm/fcrm/doctype/crm_fields_layout/crm_fields_layout.json
@@ -2404,7 +2404,7 @@ msgstr "Jenis Dokumen"
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:236
 msgid "Document created successfully"
-msgstr ""
+msgstr "Dokumen berhasil dibuat"
 
 #: frontend/src/data/document.js:37
 msgid "Document does not exist"
@@ -2430,7 +2430,7 @@ msgstr "Selesai"
 #: frontend/src/components/Dashboard/AddChartModal.vue:33
 #: frontend/src/components/Dashboard/AddChartModal.vue:71
 msgid "Donut Chart"
-msgstr ""
+msgstr "Bagan Donat"
 
 #: frontend/src/components/Activities/AudioPlayer.vue:166
 #: frontend/src/components/ViewControls.vue:266
@@ -2439,11 +2439,11 @@ msgstr "Unduh"
 
 #: frontend/src/components/FilesUploader/FilesUploaderArea.vue:24
 msgid "Drag & Drop files here or upload from"
-msgstr ""
+msgstr "Seret & Jatuhkan file ke sini atau unggah dari"
 
 #: frontend/src/components/FieldLayoutEditor.vue:250
 msgid "Drag a section or a field here to get started"
-msgstr ""
+msgstr "Seret bagian atau bidang ke sini untuk memulai"
 
 #: frontend/src/components/FilesUploader/FilesUploaderArea.vue:56
 msgid "Drop files here"
@@ -2452,7 +2452,7 @@ msgstr "Letakkan file di sini"
 #. Label of the dropdown_items_tab (Tab Break) field in DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 msgid "Dropdown items"
-msgstr ""
+msgstr "Item tarik-turun"
 
 #. Label of the due_date (Datetime) field in DocType 'CRM Task'
 #: crm/fcrm/doctype/crm_task/crm_task.json
@@ -2476,21 +2476,21 @@ msgstr "Duplikat"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleListItem.vue:47
 msgid "Duplicate Assignment Rule"
-msgstr ""
+msgstr "Aturan Penugasan Duplikat"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:33
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:512
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:674
 msgid "Duplicate Event"
-msgstr ""
+msgstr "Acara Duplikat"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyList.vue:112
 msgid "Duplicate SLA Policy"
-msgstr ""
+msgstr "Kebijakan SLA Duplikat"
 
 #: frontend/src/components/Settings/EmailTemplate/NewEmailTemplate.vue:10
 msgid "Duplicate Template"
-msgstr ""
+msgstr "Templat Duplikat"
 
 #: frontend/src/components/Modals/ViewModal.vue:8
 msgid "Duplicate View"
@@ -2502,7 +2502,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/EventModal.vue:11
 msgid "Duplicate an Event"
-msgstr ""
+msgstr "Gandakan Acara"
 
 #. Label of the duration (Duration) field in DocType 'CRM Call Log'
 #. Label of the duration (Duration) field in DocType 'CRM Status Change Log'
@@ -2524,7 +2524,7 @@ msgstr "Pengaturan CRM ERPNext"
 #: frontend/src/components/Settings/ERPNextSettings.vue:3
 #: frontend/src/components/Settings/ERPNextSettings.vue:9
 msgid "ERPNext Settings"
-msgstr ""
+msgstr "Pengaturan ERPBerikutnya"
 
 #. Label of the section_break_oubd (Section Break) field in DocType 'ERPNext
 #. CRM Settings'
@@ -2545,7 +2545,7 @@ msgstr "ERPNext tidak terpasang di situs ini"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:71
 msgid "ERPNext is not installed on this site either install it or enter the URL of your ERPNext site to connect"
-msgstr ""
+msgstr "ERPNext tidak diinstal di situs ini, instal saja atau masukkan URL situs ERPNext Anda untuk terhubung"
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:27
 msgid "ERPNext is not integrated with the CRM"
@@ -2578,7 +2578,7 @@ msgstr "Edit Email"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:18
 msgid "Edit Event"
-msgstr ""
+msgstr "Sunting Acara"
 
 #: frontend/src/components/Modals/SidePanelModal.vue:7
 msgid "Edit Field Layout"
@@ -2594,11 +2594,11 @@ msgstr "Edit Layout Bidang"
 #: frontend/src/components/Modals/LeadModal.vue:16
 #: frontend/src/components/Modals/OrganizationModal.vue:16
 msgid "Edit Fields Layout"
-msgstr ""
+msgstr "Edit Tata Letak Bidang"
 
 #: frontend/src/components/Controls/Grid.vue:57
 msgid "Edit Grid Fields"
-msgstr ""
+msgstr "Edit Bidang Kisi"
 
 #: frontend/src/components/Controls/GridFieldsEditorModal.vue:7
 msgid "Edit Grid Fields Layout"
@@ -2619,11 +2619,11 @@ msgstr "Edit Layout Entri Cepat"
 
 #: frontend/src/components/Settings/Sla/EditResponseResolutionModal.vue:5
 msgid "Edit Response & Resolution"
-msgstr ""
+msgstr "Edit Respons & Resolusi"
 
 #: frontend/src/components/Controls/Grid.vue:397
 msgid "Edit Row"
-msgstr ""
+msgstr "Sunting Baris"
 
 #: frontend/src/components/Modals/CallLogDetailModal.vue:25
 #: frontend/src/components/Modals/TaskModal.vue:6
@@ -2636,15 +2636,15 @@ msgstr "Edit Tampilan"
 
 #: frontend/src/components/Settings/Sla/WorkDayModal.vue:4
 msgid "Edit Workday"
-msgstr ""
+msgstr "Sunting Hari Kerja"
 
 #: frontend/src/components/Modals/EventModal.vue:9
 msgid "Edit an Event"
-msgstr ""
+msgstr "Mengedit Acara"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:672
 msgid "Editing Event"
-msgstr ""
+msgstr "Mengedit Acara"
 
 #: frontend/src/components/Controls/GridRowModal.vue:8
 msgid "Editing Row {0}"
@@ -2677,11 +2677,11 @@ msgstr "Akun Email"
 
 #: frontend/src/components/Settings/EmailAdd.vue:145
 msgid "Email Account created successfully"
-msgstr ""
+msgstr "Akun Email berhasil dibuat"
 
 #: frontend/src/components/Settings/EmailEdit.vue:211
 msgid "Email Account updated successfully"
-msgstr ""
+msgstr "Akun Email berhasil diperbarui"
 
 #: frontend/src/components/Settings/EmailAccountList.vue:7
 msgid "Email Accounts"
@@ -2689,15 +2689,15 @@ msgstr "Akun Email"
 
 #: frontend/src/components/Calendar/Attendee.vue:274
 msgid "Email Already Exists"
-msgstr ""
+msgstr "Email Sudah Ada"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:602
 msgid "Email Communication"
-msgstr ""
+msgstr "Komunikasi Email"
 
 #: frontend/src/components/EmailEditor.vue:222
 msgid "Email From Lead"
-msgstr ""
+msgstr "Email Dari Pemimpin"
 
 #: frontend/src/components/Settings/emailConfig.js:19
 msgid "Email ID"
@@ -2727,15 +2727,15 @@ msgstr "Templat Email"
 
 #: frontend/src/components/Controls/EmailMultiSelect.vue:254
 msgid "Email already exists"
-msgstr ""
+msgstr "Email sudah ada"
 
 #: frontend/src/components/CommunicationArea.vue:259
 msgid "Email sent"
-msgstr ""
+msgstr "Email terkirim"
 
 #: frontend/src/components/Settings/Profile/UserEmailSettings.vue:181
 msgid "Email settings updated successfully"
-msgstr ""
+msgstr "Setelan email berhasil diperbarui"
 
 #: frontend/src/components/Settings/Profile/UserEmailSettings.vue:51
 #: frontend/src/pages/Deal.vue:565 frontend/src/pages/Lead.vue:417
@@ -2745,7 +2745,7 @@ msgstr "Email"
 
 #: frontend/src/components/Settings/Profile/ProfileSettings.vue:92
 msgid "Emails & Signature"
-msgstr ""
+msgstr "Email & Tanda Tangan"
 
 #: frontend/src/components/ListViews/ListRows.vue:12
 msgid "Empty"
@@ -2768,7 +2768,7 @@ msgstr "Aktifkan"
 
 #: frontend/src/components/Settings/Telephony/ExotelSettings.vue:112
 msgid "Enable Exotel integration to make and receive calls directly from your CRM"
-msgstr ""
+msgstr "Aktifkan integrasi Exotel untuk membuat dan menerima panggilan langsung dari CRM Anda"
 
 #. Label of the enable_forecasting (Check) field in DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
@@ -2786,16 +2786,16 @@ msgstr "Aktifkan Email Keluar"
 
 #: frontend/src/components/Settings/Telephony/TwilioSettings.vue:119
 msgid "Enable Twilio integration to make and receive calls directly from your CRM"
-msgstr ""
+msgstr "Aktifkan integrasi Twilio untuk membuat dan menerima panggilan langsung dari CRM Anda"
 
 #: frontend/src/components/Settings/Telephony/ExotelSettings.vue:90
 #: frontend/src/components/Settings/Telephony/TwilioSettings.vue:97
 msgid "Enable call recording for incoming and outgoing calls"
-msgstr ""
+msgstr "Aktifkan rekaman panggilan untuk panggilan masuk dan keluar"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:250
 msgid "Enable the integration to create quotations and auto create customers in ERPNext."
-msgstr ""
+msgstr "Aktifkan integrasi untuk membuat penawaran harga dan membuat pelanggan secara otomatis di ERPNext."
 
 #. Label of the enabled (Check) field in DocType 'CRM Exotel Settings'
 #. Label of the enabled (Check) field in DocType 'CRM Form Script'
@@ -2832,7 +2832,7 @@ msgstr "Tanggal Berakhir"
 
 #: frontend/src/components/Settings/Sla/utils.js:172
 msgid "End Date cannot be before start date"
-msgstr ""
+msgstr "Tanggal Akhir tidak boleh sebelum tanggal mulai"
 
 #. Label of the end_time (Datetime) field in DocType 'CRM Call Log'
 #. Label of the end_time (Time) field in DocType 'CRM Service Day'
@@ -2848,15 +2848,15 @@ msgstr "Waktu Selesai"
 
 #: frontend/src/composables/event.js:256
 msgid "End Time Should Be After Start Time"
-msgstr ""
+msgstr "Waktu Berakhir Harus Setelah Waktu Mulai"
 
 #: frontend/src/components/Settings/Sla/WorkDayModal.vue:189
 msgid "End Time is required"
-msgstr ""
+msgstr "Waktu Berakhir diperlukan"
 
 #: frontend/src/components/Settings/Sla/WorkDayModal.vue:204
 msgid "End Time must be after Start Time"
-msgstr ""
+msgstr "Waktu Berakhir harus setelah Waktu Mulai"
 
 #: frontend/src/components/Settings/Sla/utils.js:262
 msgid "End Time must be after Start Time for: {0}"
@@ -2864,23 +2864,23 @@ msgstr ""
 
 #: frontend/src/components/Settings/DashboardSettings.vue:160
 msgid "Enter Access Key"
-msgstr ""
+msgstr "Masukkan Kunci Akses"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:91
 msgid "Enter Access Token"
-msgstr ""
+msgstr "Masukkan Token Akses"
 
 #: frontend/src/components/Settings/BrandSettings.vue:41
 msgid "Enter Brand Name"
-msgstr ""
+msgstr "Masukkan Nama Merek"
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:109
 msgid "Enter Exotel Number"
-msgstr ""
+msgstr "Masukkan Nomor Exotel"
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:134
 msgid "Enter Personal Mobile No."
-msgstr ""
+msgstr "Masukkan No Ponsel Pribadi."
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:74
 msgid "Enter Source Name"
@@ -2888,7 +2888,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:84
 msgid "Enter Twilio Number"
-msgstr ""
+msgstr "Masukkan Nomor Twilio"
 
 #: frontend/src/components/Filter.vue:605
 msgid "Enter Value"
@@ -2896,11 +2896,11 @@ msgstr "Masukkan Nilai"
 
 #: frontend/src/components/Settings/LeadSyncing/leadSyncSourceConfig.js:31
 msgid "Enter your Facebook Access Token"
-msgstr ""
+msgstr "Masukkan Token Akses Facebook Anda"
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:124
 msgid "Enter your personal mobile number used by Exotel to make calls"
-msgstr ""
+msgstr "Masukkan nomor ponsel pribadi Anda yang digunakan oleh Exotel untuk melakukan panggilan"
 
 #: frontend/src/components/FieldLayout/Field.vue:516
 msgid "Enter {0}"
@@ -2919,11 +2919,11 @@ msgstr "Sama dengan"
 
 #: frontend/src/pages/MobileLead.vue:204
 msgid "Error Occurred"
-msgstr ""
+msgstr "Terjadi Kesalahan"
 
 #: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:139
 msgid "Error Syncing Lead"
-msgstr ""
+msgstr "Terjadi Kesalahan saat Menyinkronkan Prospek"
 
 #: frontend/src/components/Modals/ConvertToDealModal.vue:173
 msgid "Error converting to deal: {0}"
@@ -2931,7 +2931,7 @@ msgstr "Terjadi kesalahan saat mengonversi menjadi kesepakatan: {0}"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:291
 msgid "Error creating Lead Sync Source"
-msgstr ""
+msgstr "Terjadi kesalahan saat membuat Sumber Sinkronisasi Prospek"
 
 #: frontend/src/components/Modals/CallLogDetailModal.vue:316
 msgid "Error creating lead: {0}"
@@ -2939,15 +2939,15 @@ msgstr ""
 
 #: frontend/src/pages/MobileDeal.vue:356
 msgid "Error occurred"
-msgstr ""
+msgstr "Terjadi kesalahan"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:385
 msgid "Error syncing leads"
-msgstr ""
+msgstr "Terjadi kesalahan saat menyinkronkan prospek"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:272
 msgid "Error updating Lead Sync Source"
-msgstr ""
+msgstr "Terjadi kesalahan saat memperbarui Sumber Sinkronisasi Prospek"
 
 #: frontend/src/pages/Deal.vue:765 frontend/src/pages/Lead.vue:497
 #: frontend/src/pages/MobileDeal.vue:620 frontend/src/pages/MobileLead.vue:359
@@ -2956,29 +2956,29 @@ msgstr "Kesalahan saat memperbarui bidang"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:671
 msgid "Event Details"
-msgstr ""
+msgstr "Detail Acara"
 
 #: frontend/src/components/Modals/EventModal.vue:426
 msgid "Event ID is required"
-msgstr ""
+msgstr "ID Peristiwa diperlukan"
 
 #. Label of the event_notifications (Table) field in DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 #: frontend/src/components/Settings/CalendarSettings.vue:61
 msgid "Event Notifications"
-msgstr ""
+msgstr "Pemberitahuan Acara"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:284
 msgid "Event Title"
-msgstr ""
+msgstr "Judul Acara"
 
 #: frontend/src/pages/Calendar.vue:331
 msgid "Event created successfully"
-msgstr ""
+msgstr "Acara berhasil dibuat"
 
 #: frontend/src/pages/Calendar.vue:410
 msgid "Event deleted successfully"
-msgstr ""
+msgstr "Acara berhasil dihapus"
 
 #: frontend/src/components/Notifications.vue:119
 #: frontend/src/pages/Deal.vue:580 frontend/src/pages/Lead.vue:432
@@ -2989,7 +2989,7 @@ msgstr "Acara"
 #. Sync Source'
 #: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.json
 msgid "Every 10 Minutes"
-msgstr ""
+msgstr "Setiap 10 Menit"
 
 #. Option for the 'Background Sync Frequency' (Select) field in DocType 'Lead
 #. Sync Source'
@@ -3001,7 +3001,7 @@ msgstr ""
 #. Sync Source'
 #: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.json
 msgid "Every 5 Minutes"
-msgstr ""
+msgstr "Setiap 5 Menit"
 
 #: frontend/src/components/ViewControls.vue:281
 #: frontend/src/components/ViewControls.vue:289
@@ -3039,7 +3039,7 @@ msgstr "Pengecualian Exotel"
 
 #: frontend/src/components/Settings/Telephony/ExotelSettings.vue:108
 msgid "Exotel Integration Disabled"
-msgstr ""
+msgstr "Integrasi Exotel Dinonaktifkan"
 
 #. Label of the exotel_number (Data) field in DocType 'CRM Telephony Agent'
 #: crm/fcrm/doctype/crm_telephony_agent/crm_telephony_agent.json
@@ -3075,11 +3075,11 @@ msgstr "Nilai Perkiraan Kesepakatan"
 
 #: crm/fcrm/doctype/crm_deal/crm_deal.py:253
 msgid "Expected closure date is required."
-msgstr ""
+msgstr "Perkiraan tanggal penutupan wajib diisi."
 
 #: crm/fcrm/doctype/crm_deal/crm_deal.py:251
 msgid "Expected deal value is required."
-msgstr ""
+msgstr "Nilai kesepakatan yang diharapkan diperlukan."
 
 #. Option for the 'Status' (Select) field in DocType 'CRM Invitation'
 #: crm/fcrm/doctype/crm_invitation/crm_invitation.json
@@ -3111,43 +3111,43 @@ msgstr "Pengaturan FCRM"
 
 #: frontend/src/components/EmailEditor.vue:25
 msgid "FROM"
-msgstr ""
+msgstr "DARI"
 
 #. Option for the 'Type' (Select) field in DocType 'Lead Sync Source'
 #. Label of the facebook_section (Section Break) field in DocType 'Lead Sync
 #. Source'
 #: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.json
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. Label of the facebook_form_id (Data) field in DocType 'CRM Lead'
 #: crm/fcrm/doctype/crm_lead/crm_lead.json
 msgid "Facebook Form ID"
-msgstr ""
+msgstr "ID Formulir Facebook"
 
 #. Name of a DocType
 #. Label of the facebook_lead_form (Link) field in DocType 'Lead Sync Source'
 #: crm/lead_syncing/doctype/facebook_lead_form/facebook_lead_form.json
 #: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.json
 msgid "Facebook Lead Form"
-msgstr ""
+msgstr "Formulir Prospek Facebook"
 
 #. Name of a DocType
 #: crm/lead_syncing/doctype/facebook_lead_form_question/facebook_lead_form_question.json
 msgid "Facebook Lead Form Question"
-msgstr ""
+msgstr "Pertanyaan Formulir Prospek Facebook"
 
 #. Label of the facebook_lead_id (Data) field in DocType 'CRM Lead'
 #: crm/fcrm/doctype/crm_lead/crm_lead.json
 msgid "Facebook Lead ID"
-msgstr ""
+msgstr "ID Pemimpin Facebook"
 
 #. Name of a DocType
 #. Label of the facebook_page (Link) field in DocType 'Lead Sync Source'
 #: crm/lead_syncing/doctype/facebook_page/facebook_page.json
 #: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.json
 msgid "Facebook Page"
-msgstr ""
+msgstr "Halaman Facebook"
 
 #. Option for the 'Status' (Select) field in DocType 'CRM Call Log'
 #. Option for the 'SLA Status' (Select) field in DocType 'CRM Deal'
@@ -3165,15 +3165,15 @@ msgstr "Gagal"
 #. Name of a DocType
 #: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.json
 msgid "Failed Lead Sync Log"
-msgstr ""
+msgstr "Log Sinkronisasi Prospek Gagal"
 
 #: frontend/src/components/Modals/AddExistingUserModal.vue:111
 msgid "Failed to Add Users"
-msgstr ""
+msgstr "Gagal Menambahkan Pengguna"
 
 #: frontend/src/components/Activities/WhatsAppArea.vue:244
 msgid "Failed to add reaction to the message"
-msgstr ""
+msgstr "Gagal menambahkan reaksi pada pesan"
 
 #: crm/integrations/twilio/api.py:154
 msgid "Failed to capture Twilio recording"
@@ -3181,7 +3181,7 @@ msgstr "Gagal menangkap rekaman Twilio"
 
 #: frontend/src/components/Settings/EmailAdd.vue:149
 msgid "Failed to create Email Account, Invalid credentials"
-msgstr ""
+msgstr "Gagal membuat Akun Email, Kredensial tidak valid"
 
 #: frontend/src/components/Settings/EmailTemplate/NewEmailTemplate.vue:180
 msgid "Failed to create template"
@@ -3189,11 +3189,11 @@ msgstr "Gagal membuat templat"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSources.vue:180
 msgid "Failed to delete lead sync source"
-msgstr ""
+msgstr "Gagal menghapus sumber sinkronisasi prospek"
 
 #: frontend/src/components/Activities/NoteArea.vue:76
 msgid "Failed to delete note"
-msgstr ""
+msgstr "Gagal menghapus catatan"
 
 #: frontend/src/components/Settings/EmailTemplate/EmailTemplates.vue:219
 msgid "Failed to delete template"
@@ -3214,7 +3214,7 @@ msgstr "Gagal mengganti nama templat"
 #: frontend/src/components/Settings/DefaultsSettings.vue:169
 #: frontend/src/components/Settings/ERPNextSettings.vue:305
 msgid "Failed to save settings"
-msgstr ""
+msgstr "Gagal menyimpan pengaturan"
 
 #: frontend/src/components/Settings/Sla/WorkDayModal.vue:265
 msgid "Failed to save workday: {0}"
@@ -3222,23 +3222,23 @@ msgstr ""
 
 #: frontend/src/components/Activities/WhatsAppBox.vue:144
 msgid "Failed to send WhatsApp message"
-msgstr ""
+msgstr "Gagal mengirim pesan WhatsApp"
 
 #: frontend/src/components/Activities/Activities.vue:598
 msgid "Failed to send WhatsApp template"
-msgstr ""
+msgstr "Gagal mengirim templat WhatsApp"
 
 #: frontend/src/components/CommunicationArea.vue:276
 msgid "Failed to send comment!"
-msgstr ""
+msgstr "Gagal mengirim komentar!"
 
 #: frontend/src/components/CommunicationArea.vue:260
 msgid "Failed to send email!"
-msgstr ""
+msgstr "Gagal mengirim email!"
 
 #: frontend/src/components/Settings/EmailEdit.vue:216
 msgid "Failed to update Email Account, Invalid credentials"
-msgstr ""
+msgstr "Gagal memperbarui Akun Email, Kredensial tidak valid"
 
 #: crm/integrations/twilio/api.py:181
 msgid "Failed to update Twilio call status"
@@ -3246,7 +3246,7 @@ msgstr "Gagal memperbarui status panggilan Twilio"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:873
 msgid "Failed to update attending status"
-msgstr ""
+msgstr "Gagal memperbarui status kehadiran"
 
 #: frontend/src/components/Modals/ChangePasswordModal.vue:106
 msgid "Failed to update password"
@@ -3254,7 +3254,7 @@ msgstr "Gagal memperbarui kata sandi"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSources.vue:165
 msgid "Failed to update source"
-msgstr ""
+msgstr "Gagal memperbarui sumber"
 
 #: frontend/src/components/Settings/EmailTemplate/EditEmailTemplate.vue:205
 #: frontend/src/components/Settings/EmailTemplate/EmailTemplates.vue:204
@@ -3268,7 +3268,7 @@ msgstr "Kegagalan"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:205
 msgid "Failure Logs"
-msgstr ""
+msgstr "Log Kegagalan"
 
 #. Label of the favicon (Attach) field in DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
@@ -3368,7 +3368,7 @@ msgstr "Untuk"
 
 #: frontend/src/components/Settings/CalendarSettings.vue:162
 msgid "For all-day events, <b>set a time</b> to send reminders before the event starts"
-msgstr ""
+msgstr "Untuk acara sepanjang hari, <b>atur waktu</b> untuk mengirim pengingat sebelum acara dimulai"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:95
 msgid "Forecasted Revenue"
@@ -3427,7 +3427,7 @@ msgstr "Tanggal Mulai"
 #. Label of the from (Data) field in DocType 'CRM Call Log'
 #: crm/fcrm/doctype/crm_call_log/crm_call_log.json
 msgid "From Number"
-msgstr ""
+msgstr "Dari Nomor"
 
 #. Label of the from_type (Data) field in DocType 'CRM Status Change Log'
 #: crm/fcrm/doctype/crm_status_change_log/crm_status_change_log.json
@@ -3458,7 +3458,7 @@ msgstr "Nama Lengkap"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:96
 msgid "Funnel Conversion"
-msgstr ""
+msgstr "Konversi Corong"
 
 #: crm/api/dashboard.py:787
 msgid "Funnel conversion"
@@ -3466,7 +3466,7 @@ msgstr "Konversi Funnel"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:298
 msgid "GMT+5:30"
-msgstr ""
+msgstr "GMT+5:30"
 
 #. Label of the gender (Link) field in DocType 'CRM Contacts'
 #. Label of the gender (Link) field in DocType 'CRM Deal'
@@ -3483,7 +3483,7 @@ msgstr "Umum"
 
 #: frontend/src/components/Settings/GeneralSettings.vue:5
 msgid "General Settings"
-msgstr ""
+msgstr "Pengaturan Umum"
 
 #: crm/api/dashboard.py:1068
 msgid "Geographic distribution of deals and revenue"
@@ -3499,23 +3499,23 @@ msgstr "Kembali"
 
 #: frontend/src/components/Settings/AssignmentRules/AssigneeSearch.vue:158
 msgid "Go to Invite Page"
-msgstr ""
+msgstr "Buka Halaman Undangan"
 
 #: frontend/src/pages/Deal.vue:104 frontend/src/pages/Lead.vue:151
 msgid "Go to Website"
-msgstr ""
+msgstr "Buka Situs Web"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:523
 msgid "Going?"
-msgstr ""
+msgstr "Pergi?"
 
 #: frontend/src/components/Filter.vue:366
 msgid "Greater than"
-msgstr ""
+msgstr "Lebih besar dari"
 
 #: frontend/src/components/Filter.vue:368
 msgid "Greater than or equal to"
-msgstr ""
+msgstr "Lebih besar dari atau sama dengan"
 
 #. Option for the 'Type' (Select) field in DocType 'CRM Fields Layout'
 #: crm/fcrm/doctype/crm_fields_layout/crm_fields_layout.json
@@ -3540,7 +3540,7 @@ msgstr "Grup Berdasarkan: "
 
 #: frontend/src/components/Telephony/TwilioCallUI.vue:63
 msgid "Hang Up"
-msgstr ""
+msgstr "Menggantung"
 
 #: crm/templates/emails/helpdesk_invitation.html:2
 msgid "Hello"
@@ -3613,7 +3613,7 @@ msgstr "Hari Libur"
 #: frontend/src/components/Settings/HomeActions.vue:7
 #: frontend/src/components/Settings/Settings.vue:199
 msgid "Home Actions"
-msgstr ""
+msgstr "Tindakan Rumah"
 
 #. Option for the 'Background Sync Frequency' (Select) field in DocType 'Lead
 #. Sync Source'
@@ -3648,7 +3648,7 @@ msgstr "Ikon"
 
 #: frontend/src/components/Settings/emailConfig.js:61
 msgid "If enabled, a lead will be automatically created when an incoming email is received from an unknown contact."
-msgstr ""
+msgstr "Jika diaktifkan, prospek akan otomatis dibuat ketika email masuk diterima dari kontak yang tidak dikenal."
 
 #: frontend/src/components/Settings/emailConfig.js:53
 msgid "If enabled, all outgoing emails will be sent from this account. Note: Only one account can be default outgoing."
@@ -3660,7 +3660,7 @@ msgstr "Jika diaktifkan, semua balasan ke perusahaan Anda (misalnya: replies@you
 
 #: frontend/src/components/Settings/emailConfig.js:31
 msgid "If enabled, emails will be pulled from this account."
-msgstr ""
+msgstr "Jika diaktifkan, email akan ditarik dari akun ini."
 
 #: frontend/src/components/Settings/emailConfig.js:37
 msgid "If enabled, outgoing emails can be sent from this account."
@@ -3715,7 +3715,7 @@ msgstr "Panggilan masuk..."
 
 #: crm/api/user.py:32
 msgid "Incorrect current password. Please try again."
-msgstr ""
+msgstr "Kata sandi saat ini salah. Silakan coba lagi."
 
 #. Label of a shortcut in the Frappe CRM Workspace
 #: crm/fcrm/workspace/frappe_crm/frappe_crm.json
@@ -3745,12 +3745,12 @@ msgstr "Memulai panggilan..."
 
 #: frontend/src/components/EmailEditor.vue:171
 msgid "Insert Email Template"
-msgstr ""
+msgstr "Masukkan Templat Email"
 
 #: frontend/src/components/CommentBox.vue:49
 #: frontend/src/components/EmailEditor.vue:147
 msgid "Insert Emoji"
-msgstr ""
+msgstr "Sisipkan Emoji"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:622
 msgid "Integration"
@@ -3780,11 +3780,11 @@ msgstr "Account SID atau Auth Token tidak valid."
 
 #: frontend/src/components/Modals/ContactModal.vue:114
 msgid "Invalid Email Address"
-msgstr ""
+msgstr "Alamat Email Tidak Valid"
 
 #: frontend/src/stores/session.js:22
 msgid "Invalid Email or Password"
-msgstr ""
+msgstr "Email atau Kata Sandi Tidak Valid"
 
 #: crm/integrations/exotel/handler.py:88
 msgid "Invalid Exotel Number"
@@ -3792,23 +3792,23 @@ msgstr "Nomor Exotel Tidak Valid"
 
 #: frontend/src/components/Controls/GeolocationControl.vue:116
 msgid "Invalid GeoJSON"
-msgstr ""
+msgstr "GeoJSON tidak valid"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:454
 msgid "Invalid Site URL"
-msgstr ""
+msgstr "URL Situs tidak valid"
 
 #: frontend/src/composables/event.js:253
 msgid "Invalid Start Or End Time"
-msgstr ""
+msgstr "Waktu Mulai atau Berakhir Tidak Valid"
 
 #: crm/integrations/twilio/api.py:19
 msgid "Invalid Twilio account"
-msgstr ""
+msgstr "Akun Twilio tidak valid"
 
 #: crm/integrations/twilio/api.py:24
 msgid "Invalid Twilio application"
-msgstr ""
+msgstr "Aplikasi Twilio tidak valid"
 
 #: frontend/src/utils/index.js:304
 msgid "Invalid Website URL"
@@ -3816,7 +3816,7 @@ msgstr ""
 
 #: crm/lead_syncing/doctype/lead_sync_source/facebook.py:149
 msgid "Invalid access token provided for Facebook."
-msgstr ""
+msgstr "Token akses yang diberikan untuk Facebook tidak valid."
 
 #: crm/api/dashboard.py:88
 msgid "Invalid chart name"
@@ -3833,15 +3833,15 @@ msgstr "Alamat email tidak valid"
 #: frontend/src/components/Modals/DealModal.vue:205
 #: frontend/src/components/Modals/LeadModal.vue:148
 msgid "Invalid email address"
-msgstr ""
+msgstr "Alamat email tidak valid"
 
 #: crm/api/contact.py:81 crm/api/contact.py:109
 msgid "Invalid field"
-msgstr ""
+msgstr "Bidang tidak valid"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:391
 msgid "Invalid fields, check if all are filled in and values are correct."
-msgstr ""
+msgstr "Bidang tidak valid, periksa apakah semua sudah terisi dan nilainya benar."
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:631
 msgid "Invalid fields: {0}"
@@ -3849,41 +3849,41 @@ msgstr ""
 
 #: frontend/src/components/Controls/DurationInput.vue:94
 msgid "Invalid format. Try: 1 hour 30 minutes, 2 hours, 45 seconds, 1:30:45, 90s"
-msgstr ""
+msgstr "Formatnya tidak valid. Coba: 1 jam 30 menit, 2 jam, 45 detik, 1:30:45, 90 detik"
 
 #: frontend/src/components/Controls/DurationInput.vue:97
 msgid "Invalid format. Try: 1h 30m 45s, 1:30:45, 90s"
-msgstr ""
+msgstr "Formatnya tidak valid. Coba: 1 jam 30 menit 45 detik, 1:30:45, 90 detik"
 
 #: crm/fcrm/doctype/crm_call_log/crm_call_log.py:263
 msgid "Invalid lead details supplied."
-msgstr ""
+msgstr "Detail prospek yang diberikan tidak valid."
 
 #: crm/api/__init__.py:81 crm/api/__init__.py:85
 #: crm/fcrm/doctype/crm_invitation/crm_invitation.py:61
 msgid "Invalid or expired key"
-msgstr ""
+msgstr "Kunci tidak valid atau kedaluwarsa"
 
 #: frontend/src/pages/InvalidPage.vue:6
 msgid "Invalid page or not permitted to access"
-msgstr ""
+msgstr "Halaman tidak valid atau tidak diizinkan untuk diakses"
 
 #: frontend/src/components/Settings/InviteUserPage.vue:189
 msgid "Invitations sent successfully"
-msgstr ""
+msgstr "Undangan berhasil dikirim"
 
 #: frontend/src/components/Settings/AssignmentRules/AssigneeSearch.vue:80
 #: frontend/src/components/Settings/AssignmentRules/AssigneeSearch.vue:151
 msgid "Invite Agent"
-msgstr ""
+msgstr "Undang Agen"
 
 #: frontend/src/components/Settings/InviteUserPage.vue:53
 msgid "Invite As"
-msgstr ""
+msgstr "Undang Sebagai"
 
 #: frontend/src/components/Settings/InviteUserPage.vue:32
 msgid "Invite By Email"
-msgstr ""
+msgstr "Undang Melalui Email"
 
 #: frontend/src/components/Settings/Users.vue:25
 msgid "Invite New User"
@@ -3895,7 +3895,7 @@ msgstr "Undang Pengguna"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:567
 msgid "Invite Users"
-msgstr ""
+msgstr "Undang Pengguna"
 
 #: frontend/src/components/Settings/InviteUserPage.vue:10
 msgid "Invite users to access CRM. Specify their roles to control access and permissions"
@@ -3969,7 +3969,7 @@ msgstr ""
 
 #: crm/api/doc.py:809
 msgid "Items must be a list"
-msgstr ""
+msgstr "Item harus berupa daftar"
 
 #. Label of the json (JSON) field in DocType 'CRM Global Settings'
 #: crm/fcrm/doctype/crm_global_settings/crm_global_settings.json
@@ -3994,7 +3994,7 @@ msgstr "John Doe"
 
 #: frontend/src/components/Filter.vue:582
 msgid "John, Jane, Doe"
-msgstr ""
+msgstr "John, Jane, Doe"
 
 #. Label of the kanban_tab (Tab Break) field in DocType 'CRM View Settings'
 #: crm/fcrm/doctype/crm_view_settings/crm_view_settings.json
@@ -4044,11 +4044,11 @@ msgstr "Bahasa"
 
 #: frontend/src/components/Settings/PreferencesSettings.vue:37
 msgid "Language & Time"
-msgstr ""
+msgstr "Bahasa & Waktu"
 
 #: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:108
 msgid "Last"
-msgstr ""
+msgstr "Terakhir"
 
 #: frontend/src/pages/Dashboard.vue:202
 msgid "Last 30 Days"
@@ -4076,7 +4076,7 @@ msgstr "90 Hari Terakhir"
 #: frontend/src/pages/Organization.vue:523
 #: frontend/src/pages/Organization.vue:551
 msgid "Last Modified"
-msgstr ""
+msgstr "Terakhir Dimodifikasi"
 
 #: frontend/src/components/Filter.vue:653
 msgid "Last Month"
@@ -4096,14 +4096,14 @@ msgstr "Kuartal Lalu"
 #: crm/fcrm/doctype/crm_deal/crm_deal.json
 #: crm/fcrm/doctype/crm_lead/crm_lead.json
 msgid "Last Responded On"
-msgstr ""
+msgstr "Terakhir Ditanggapi Pada"
 
 #. Label of the last_response_time (Duration) field in DocType 'CRM Deal'
 #. Label of the last_response_time (Duration) field in DocType 'CRM Lead'
 #: crm/fcrm/doctype/crm_deal/crm_deal.json
 #: crm/fcrm/doctype/crm_lead/crm_lead.json
 msgid "Last Response Time"
-msgstr ""
+msgstr "Waktu Respons Terakhir"
 
 #. Label of the last_status_change_log (Link) field in DocType 'CRM Status
 #. Change Log'
@@ -4133,7 +4133,7 @@ msgstr "Nama belakang"
 
 #: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:101
 msgid "Last user assigned by this rule"
-msgstr ""
+msgstr "Pengguna terakhir yang ditetapkan berdasarkan aturan ini"
 
 #. Label of the layout (Code) field in DocType 'CRM Dashboard'
 #. Label of the layout (Code) field in DocType 'CRM Fields Layout'
@@ -4159,7 +4159,7 @@ msgstr "Prospek"
 #: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.json
 #: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:40
 msgid "Lead Data"
-msgstr ""
+msgstr "Data Timbal"
 
 #. Label of the lead_details_tab (Tab Break) field in DocType 'CRM Deal'
 #: crm/fcrm/doctype/crm_deal/crm_deal.json
@@ -4194,7 +4194,7 @@ msgstr "Status Prospek"
 #. Name of a DocType
 #: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.json
 msgid "Lead Sync Source"
-msgstr ""
+msgstr "Sumber Sinkronisasi Utama"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:286
 msgid "Lead Sync Source created successfully"
@@ -4202,7 +4202,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/Settings.vue:227
 msgid "Lead Syncing"
-msgstr ""
+msgstr "Sinkronisasi Timbal"
 
 #: crm/fcrm/doctype/crm_call_log/crm_call_log.py:281
 msgid "Lead from call {0}"
@@ -4214,11 +4214,11 @@ msgstr "Analisis saluran perolehan prospek"
 
 #: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.js:8
 msgid "Lead sync initiated."
-msgstr ""
+msgstr "Sinkronisasi prospek dimulai."
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSources.vue:177
 msgid "Lead sync source deleted successfully"
-msgstr ""
+msgstr "Sumber sinkronisasi prospek berhasil dihapus"
 
 #: crm/api/dashboard.py:788
 msgid "Lead to deal conversion pipeline"
@@ -4233,7 +4233,7 @@ msgstr "Prospek"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:106
 msgid "Leads by Source"
-msgstr ""
+msgstr "Dipimpin berdasarkan Sumber"
 
 #: crm/api/dashboard.py:984
 msgid "Leads by source"
@@ -4242,7 +4242,7 @@ msgstr "Prospek berdasarkan sumber"
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:158
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:238
 msgid "Learn about conditions"
-msgstr ""
+msgstr "Pelajari tentang kondisi"
 
 #. Label of the lft (Int) field in DocType 'CRM Territory'
 #: crm/fcrm/doctype/crm_territory/crm_territory.json
@@ -4251,11 +4251,11 @@ msgstr "Left"
 
 #: frontend/src/components/Filter.vue:367
 msgid "Less than"
-msgstr ""
+msgstr "Kurang dari"
 
 #: frontend/src/components/Filter.vue:369
 msgid "Less than or equal to"
-msgstr ""
+msgstr "Kurang dari atau sama dengan"
 
 #: frontend/src/components/FilesUploader/FilesUploaderArea.vue:43
 msgid "Library"
@@ -4331,7 +4331,7 @@ msgstr "Log"
 
 #: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:23
 msgid "Log ID"
-msgstr ""
+msgstr "Log ID"
 
 #: frontend/src/components/Activities/ActivityHeader.vue:135
 #: frontend/src/components/Activities/ActivityHeader.vue:178
@@ -4345,7 +4345,7 @@ msgstr "Masuk ke Frappe Cloud?"
 
 #: frontend/src/pages/NotPermitted.vue:21
 msgid "Login with Different Account"
-msgstr ""
+msgstr "Masuk dengan Akun Berbeda"
 
 #. Label of the brand_logo (Attach) field in DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
@@ -4361,14 +4361,14 @@ msgstr "Gagal"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:98
 msgid "Lost Deal Reasons"
-msgstr ""
+msgstr "Alasan Kehilangan Kesepakatan"
 
 #. Label of the lost_details_tab (Tab Break) field in DocType 'CRM Deal'
 #. Label of the lost_details_tab (Tab Break) field in DocType 'CRM Lead'
 #: crm/fcrm/doctype/crm_deal/crm_deal.json
 #: crm/fcrm/doctype/crm_lead/crm_lead.json
 msgid "Lost Details"
-msgstr ""
+msgstr "Detail yang Hilang"
 
 #. Label of the lost_notes (Text) field in DocType 'CRM Deal'
 #. Label of the lost_notes (Text) field in DocType 'CRM Lead'
@@ -4395,7 +4395,7 @@ msgstr "Alasan Kegagalan"
 
 #: frontend/src/components/Modals/LostReasonModal.vue:84
 msgid "Lost Reason is required"
-msgstr ""
+msgstr "Alasan Hilang diperlukan"
 
 #: crm/api/dashboard.py:937
 msgid "Lost deal reasons"
@@ -4451,11 +4451,11 @@ msgstr "Kelola pengguna CRM dengan menambah atau mengundang mereka, dan berikan 
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:4
 msgid "Manage ERPNext integration settings"
-msgstr ""
+msgstr "Kelola pengaturan integrasi ERPNext"
 
 #: frontend/src/components/Settings/Profile/ProfileSettings.vue:96
 msgid "Manage your account emails and email signature for communication."
-msgstr ""
+msgstr "Kelola email akun Anda dan tanda tangan email untuk komunikasi."
 
 #: frontend/src/components/Settings/EmailAccountList.vue:11
 msgid "Manage your email accounts to send and receive emails directly from CRM. You can add multiple accounts and set one as default for incoming and outgoing emails."
@@ -4463,15 +4463,15 @@ msgstr "Kelola akun email Anda untuk mengirim dan menerima email langsung dari C
 
 #: frontend/src/components/Settings/Profile/UserEmailSettings.vue:36
 msgid "Manage your email signature"
-msgstr ""
+msgstr "Kelola tanda tangan email Anda"
 
 #: frontend/src/components/Settings/Profile/ProfileSettings.vue:5
 msgid "Manage your profile & login information."
-msgstr ""
+msgstr "Kelola profil & informasi login Anda."
 
 #: frontend/src/components/Settings/Sla/SlaPolicyList.vue:4
 msgid "Manage your service level agreement policies"
-msgstr ""
+msgstr "Kelola kebijakan perjanjian tingkat layanan Anda"
 
 #: frontend/src/components/Modals/AddExistingUserModal.vue:93
 #: frontend/src/components/Settings/InviteUserPage.vue:165
@@ -4504,7 +4504,7 @@ msgstr "Manual"
 #. Lead Form Question'
 #: crm/lead_syncing/doctype/facebook_lead_form_question/facebook_lead_form_question.json
 msgid "Mapped to CRM Field"
-msgstr ""
+msgstr "Dipetakan ke Bidang CRM"
 
 #: frontend/src/components/Notifications.vue:22
 #: frontend/src/pages/MobileNotification.vue:12
@@ -4517,7 +4517,7 @@ msgstr "Tandai semua sebagai telah dibaca"
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 #: frontend/src/components/Settings/GeneralSettings.vue:38
 msgid "Mark lead/deal as replied on response"
-msgstr ""
+msgstr "Tandai prospek/kesepakatan sebagai balasan pada tanggapan"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:571
 msgid "Masters"
@@ -4526,11 +4526,11 @@ msgstr "Data Master"
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:312
 #: frontend/src/components/Modals/EventModal.vue:86
 msgid "May 1, 2025"
-msgstr ""
+msgstr "1 Mei 2025"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:538
 msgid "Maybe"
-msgstr ""
+msgstr "Mungkin"
 
 #. Label of the medium (Data) field in DocType 'CRM Call Log'
 #. Option for the 'Priority' (Select) field in DocType 'CRM Task'
@@ -4560,11 +4560,11 @@ msgstr "Nama Tengah"
 
 #: frontend/src/components/Telephony/ExotelCallUI.vue:126
 msgid "Minimize"
-msgstr ""
+msgstr "Memperkecil"
 
 #: frontend/src/utils/callLog.js:71
 msgid "Missed Call"
-msgstr ""
+msgstr "Panggilan Tak Terjawab"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:628
 msgid "Missing mandatory fields: {0}"
@@ -4572,7 +4572,7 @@ msgstr ""
 
 #: frontend/src/components/Layouts/AppSidebar.vue:635
 msgid "Mobile App Installation"
-msgstr ""
+msgstr "Instalasi Aplikasi Seluler"
 
 #. Label of the mobile_no (Data) field in DocType 'CRM Contacts'
 #. Label of the mobile_no (Data) field in DocType 'CRM Lead'
@@ -4590,7 +4590,7 @@ msgstr "No. Ponsel"
 #: frontend/src/components/Modals/DealModal.vue:201
 #: frontend/src/components/Modals/LeadModal.vue:144
 msgid "Mobile No. should be a number"
-msgstr ""
+msgstr "Nomor Ponsel harus berupa angka"
 
 #: frontend/src/components/Telephony/CallUI.vue:22
 #: frontend/src/pages/Contact.vue:433
@@ -4625,7 +4625,7 @@ msgstr "Bulanan"
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:465
 #: frontend/src/components/ViewControls.vue:233
 msgid "More Options"
-msgstr ""
+msgstr "Opsi Lainnya"
 
 #: frontend/src/components/FieldLayoutEditor.vue:614
 msgid "Move Last Column to Next Section"
@@ -4637,19 +4637,19 @@ msgstr ""
 
 #: frontend/src/components/FieldLayoutEditor.vue:624
 msgid "Move Last Column to Previous Section"
-msgstr ""
+msgstr "Pindahkan Kolom Terakhir ke Bagian Sebelumnya"
 
 #: frontend/src/components/FieldLayoutEditor.vue:634
 msgid "Move Last Column to Previous Tab"
-msgstr ""
+msgstr "Pindahkan Kolom Terakhir ke Tab Sebelumnya"
 
 #: frontend/src/components/FieldLayoutEditor.vue:543
 msgid "Move to Next Tab"
-msgstr ""
+msgstr "Pindah ke Tab Berikutnya"
 
 #: frontend/src/components/FieldLayoutEditor.vue:529
 msgid "Move to Previous Tab"
-msgstr ""
+msgstr "Pindah ke Tab Sebelumnya"
 
 #: frontend/src/components/Modals/ViewModal.vue:30
 msgid "My Open Deals"
@@ -4692,7 +4692,7 @@ msgstr "Seri Penamaan"
 
 #: frontend/src/components/ConditionsFilter/CFCondition.vue:100
 msgid "Nested Conditions"
-msgstr ""
+msgstr "Kondisi Bersarang"
 
 #. Label of the net_amount (Currency) field in DocType 'CRM Products'
 #: crm/fcrm/doctype/crm_products/crm_products.json
@@ -4721,7 +4721,7 @@ msgstr "Alamat baru"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:12
 msgid "New Assignment Rule"
-msgstr ""
+msgstr "Aturan Penugasan Baru"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleListItem.vue:53
 msgid "New Assignment Rule Name"
@@ -4745,7 +4745,7 @@ msgstr "Acara baru"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:9
 msgid "New Lead Sync Source"
-msgstr ""
+msgstr "Sumber Sinkronisasi Prospek Baru"
 
 #: frontend/src/components/Activities/ActivityHeader.vue:66
 msgid "New Message"
@@ -4766,11 +4766,11 @@ msgstr "Kata Sandi Baru"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:8
 msgid "New SLA Policy"
-msgstr ""
+msgstr "Kebijakan SLA Baru"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyList.vue:118
 msgid "New SLA Policy Name"
-msgstr ""
+msgstr "Nama Kebijakan SLA Baru"
 
 #: frontend/src/components/SidePanelLayoutEditor.vue:131
 msgid "New Section"
@@ -4788,7 +4788,7 @@ msgstr "Tugas Baru"
 
 #: frontend/src/components/Settings/EmailTemplate/NewEmailTemplate.vue:10
 msgid "New Template"
-msgstr ""
+msgstr "Templat Baru"
 
 #: frontend/src/components/Modals/ConvertToDealModal.vue:67
 msgid "New contact will be created based on the person's details"
@@ -4800,11 +4800,11 @@ msgstr "Organisasi baru akan dibuat berdasarkan data di bagian detail"
 
 #: frontend/src/components/Modals/ChangePasswordModal.vue:123
 msgid "New password cannot be the same as current password"
-msgstr ""
+msgstr "Kata sandi baru tidak boleh sama dengan kata sandi saat ini"
 
 #: crm/api/user.py:25
 msgid "New password cannot be the same as current password. Please choose a different password."
-msgstr ""
+msgstr "Kata sandi baru tidak boleh sama dengan kata sandi saat ini. Silakan pilih kata sandi lain."
 
 #: frontend/src/components/Modals/CreateDocumentModal.vue:84
 msgid "New {0}"
@@ -4847,7 +4847,7 @@ msgstr "Tidak Dijawab"
 #: frontend/src/components/Modals/SidePanelModal.vue:51
 #: frontend/src/pages/Deal.vue:281 frontend/src/pages/MobileDeal.vue:209
 msgid "No Contacts Added"
-msgstr ""
+msgstr "Tidak Ada Kontak yang Ditambahkan"
 
 #: frontend/src/components/Controls/Grid.vue:423
 msgid "No Data"
@@ -4855,15 +4855,15 @@ msgstr "Tidak Ada Data"
 
 #: frontend/src/pages/Deal.vue:267
 msgid "No Details Added"
-msgstr ""
+msgstr "Tidak Ada Detail yang Ditambahkan"
 
 #: frontend/src/components/Activities/EventArea.vue:77
 msgid "No Events Scheduled"
-msgstr ""
+msgstr "Tidak Ada Acara yang Dijadwalkan"
 
 #: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:68
 msgid "No Failure Logs Found"
-msgstr ""
+msgstr "Tidak Ditemukan Log Kegagalan"
 
 #: frontend/src/components/FieldLayoutEditor.vue:123
 msgid "No Label"
@@ -4871,19 +4871,19 @@ msgstr "Tidak Ada Label"
 
 #: frontend/src/pages/Deal.vue:731
 msgid "No Mobile Number Set"
-msgstr ""
+msgstr "Tidak Ada Nomor Ponsel yang Ditetapkan"
 
 #: frontend/src/pages/MobileNotification.vue:61
 msgid "No New Notifications"
-msgstr ""
+msgstr "Tidak Ada Pemberitahuan Baru"
 
 #: frontend/src/pages/Deal.vue:726
 msgid "No Primary Contact Set"
-msgstr ""
+msgstr "Tidak Ada Kumpulan Kontak Utama"
 
 #: frontend/src/components/Settings/Sla/SlaPriorityList.vue:86
 msgid "No Priorities in the list"
-msgstr ""
+msgstr "Tidak ada Prioritas dalam daftar"
 
 #: frontend/src/components/Settings/AssignmentRules/AssigneeSearch.vue:72
 msgid "No Results Found"
@@ -4892,7 +4892,7 @@ msgstr ""
 #: frontend/src/components/Modals/EmailTemplateSelectorModal.vue:56
 #: frontend/src/components/Modals/WhatsappTemplateSelectorModal.vue:42
 msgid "No Templates Found"
-msgstr ""
+msgstr "Tidak Ada Templat yang Ditemukan"
 
 #: frontend/src/components/Kanban/KanbanView.vue:103
 #: frontend/src/pages/Deals.vue:105 frontend/src/pages/Leads.vue:121
@@ -4902,16 +4902,16 @@ msgstr "Tanpa Judul"
 
 #: frontend/src/components/Modals/AddExistingUserModal.vue:39
 msgid "No Users Found"
-msgstr ""
+msgstr "Tidak Ada Pengguna yang Ditemukan"
 
 #: frontend/src/pages/MobileOrganization.vue:295
 #: frontend/src/pages/Organization.vue:332
 msgid "No Website Found"
-msgstr ""
+msgstr "Tidak Ada Situs Web yang Ditemukan"
 
 #: frontend/src/components/Settings/Sla/SlaHolidays.vue:156
 msgid "No Workdays in the List"
-msgstr ""
+msgstr "Tidak Ada Hari Kerja dalam Daftar"
 
 #: frontend/src/components/Settings/EmailEdit.vue:153
 msgid "No changes made"
@@ -4919,15 +4919,15 @@ msgstr "Tidak ada perubahan yang dibuat"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:295
 msgid "No companies found in the given site"
-msgstr ""
+msgstr "Tidak ada perusahaan yang ditemukan di situs tertentu"
 
 #: frontend/src/components/Activities/EventArea.vue:79
 msgid "No events coming up. Create a new one to keep things on track."
-msgstr ""
+msgstr "Tidak ada acara yang akan datang. Buat yang baru agar semuanya tetap pada jalurnya."
 
 #: frontend/src/components/Settings/Sla/SlaHolidays.vue:57
 msgid "No holiday list found"
-msgstr ""
+msgstr "Tidak ada daftar hari libur yang ditemukan"
 
 #: frontend/src/components/Calendar/Attendee.vue:211
 #: frontend/src/components/Controls/EmailMultiSelect.vue:133
@@ -4950,7 +4950,7 @@ msgstr "Tidak ada {0} yang ditemukan"
 
 #: frontend/src/components/Controls/Grid.vue:27
 msgid "No."
-msgstr ""
+msgstr "TIDAK."
 
 #. Label of the no_of_employees (Select) field in DocType 'CRM Deal'
 #. Label of the no_of_employees (Select) field in DocType 'CRM Lead'
@@ -4988,7 +4988,7 @@ msgstr "Tidak Disimpan"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:148
 msgid "Not Synced"
-msgstr ""
+msgstr "Tidak Disinkronkan"
 
 #: crm/fcrm/doctype/crm_deal/crm_deal.py:355
 msgid "Not allowed to add contact to Deal"
@@ -5013,11 +5013,11 @@ msgstr "Tidak diizinkan mengatur kontak utama untuk Kesepakatan"
 #: frontend/src/components/Filter.vue:350
 #: frontend/src/components/Filter.vue:365
 msgid "Not equals"
-msgstr ""
+msgstr "Tidak setara"
 
 #: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.py:32
 msgid "Not implemented yet!"
-msgstr ""
+msgstr "Belum diterapkan!"
 
 #: frontend/src/components/Filter.vue:278
 #: frontend/src/components/Filter.vue:299
@@ -5025,7 +5025,7 @@ msgstr ""
 #: frontend/src/components/Filter.vue:327
 #: frontend/src/components/Filter.vue:341
 msgid "Not in"
-msgstr ""
+msgstr "Tidak masuk"
 
 #: frontend/src/components/Filter.vue:276
 #: frontend/src/components/Filter.vue:287
@@ -5033,7 +5033,7 @@ msgstr ""
 #: frontend/src/components/Filter.vue:325
 #: frontend/src/components/Filter.vue:339
 msgid "Not like"
-msgstr ""
+msgstr "Tidak seperti"
 
 #: crm/api/activities.py:25 crm/api/activities.py:179 crm/api/contact.py:34
 #: crm/api/contact.py:70 crm/api/contact.py:91
@@ -5048,11 +5048,11 @@ msgstr ""
 
 #: crm/api/whatsapp.py:274 crm/api/whatsapp.py:326
 msgid "Not permitted to access the referenced WhatsApp message."
-msgstr ""
+msgstr "Tidak diizinkan mengakses pesan WhatsApp yang direferensikan."
 
 #: crm/fcrm/doctype/crm_fields_layout/crm_fields_layout.py:197
 msgid "Not permitted to modify fields layout"
-msgstr ""
+msgstr "Tidak diizinkan mengubah tata letak bidang"
 
 #. Label of the note (Link) field in DocType 'CRM Call Log'
 #: crm/fcrm/doctype/crm_call_log/crm_call_log.json
@@ -5063,7 +5063,7 @@ msgstr "Catatan"
 
 #: frontend/src/components/Activities/NoteArea.vue:75
 msgid "Note deleted"
-msgstr ""
+msgstr "Catatan dihapus"
 
 #: frontend/src/pages/Deal.vue:595 frontend/src/pages/Lead.vue:447
 #: frontend/src/pages/MobileDeal.vue:469 frontend/src/pages/MobileLead.vue:314
@@ -5118,7 +5118,7 @@ msgstr "Nomor"
 #: frontend/src/components/Dashboard/AddChartModal.vue:19
 #: frontend/src/components/Dashboard/AddChartModal.vue:69
 msgid "Number Chart"
-msgstr ""
+msgstr "Bagan Angka"
 
 #: frontend/src/components/Settings/DefaultsSettings.vue:71
 msgid "Number Format"
@@ -5134,20 +5134,20 @@ msgstr "Jumlah kesepakatan dan nilai total per tenaga penjualan"
 
 #: frontend/src/components/Settings/DefaultsSettings.vue:95
 msgid "Number of decimal places for non-currency numeric fields"
-msgstr ""
+msgstr "Jumlah tempat desimal untuk bidang numerik non-mata uang"
 
 #: frontend/src/components/Settings/DefaultsSettings.vue:55
 msgid "Number of decimal places used for all currency values"
-msgstr ""
+msgstr "Jumlah tempat desimal yang digunakan untuk semua nilai mata uang"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:167
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:251
 msgid "Old Condition"
-msgstr ""
+msgstr "Kondisi Lama"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:124
 msgid "Old Conditions"
-msgstr ""
+msgstr "Kondisi Lama"
 
 #. Label of the old_parent (Link) field in DocType 'CRM Territory'
 #: crm/fcrm/doctype/crm_territory/crm_territory.json
@@ -5170,7 +5170,7 @@ msgstr "Sedang Berjalan"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:77
 msgid "Ongoing Deals"
-msgstr ""
+msgstr "Penawaran yang Sedang Berlangsung"
 
 #: crm/api/dashboard.py:189
 msgid "Ongoing deals"
@@ -5178,15 +5178,15 @@ msgstr "Kesepakatan yang sedang berjalan"
 
 #: crm/api/user.py:62 crm/api/user.py:95
 msgid "Only System Managers can assign the Sales Manager role"
-msgstr ""
+msgstr "Hanya Manajer Sistem yang dapat menetapkan peran Manajer Penjualan"
 
 #: crm/api/user.py:59 crm/api/user.py:89
 msgid "Only System Managers can assign the System Manager role"
-msgstr ""
+msgstr "Hanya Manajer Sistem yang dapat menetapkan peran Manajer Sistem"
 
 #: crm/api/user.py:92 crm/api/user.py:128
 msgid "Only System Managers can modify other System Managers"
-msgstr ""
+msgstr "Hanya Manajer Sistem yang dapat memodifikasi Manajer Sistem lainnya"
 
 #: frontend/src/utils/index.js:484
 msgid "Only image files are allowed"
@@ -5199,7 +5199,7 @@ msgstr "Hanya satu {0} yang dapat dijadikan utama."
 
 #: crm/api/whatsapp.py:16
 msgid "Only sales users can access WhatsApp features."
-msgstr ""
+msgstr "Hanya pengguna penjualan yang dapat mengakses fitur WhatsApp."
 
 #. Option for the 'Type' (Select) field in DocType 'CRM Deal Status'
 #. Option for the 'Type' (Select) field in DocType 'CRM Lead Status'
@@ -5220,11 +5220,11 @@ msgstr "Buka Prospek"
 
 #: frontend/src/components/ConditionsFilter/CFCondition.vue:88
 msgid "Open Nested Conditions"
-msgstr ""
+msgstr "Buka Kondisi Bersarang"
 
 #: frontend/src/pages/Organization.vue:97
 msgid "Open Website"
-msgstr ""
+msgstr "Buka Situs Web"
 
 #: crm/fcrm/doctype/crm_deal/crm_deal.js:6
 #: crm/fcrm/doctype/crm_lead/crm_lead.js:6
@@ -5239,7 +5239,7 @@ msgstr "Buka di jendela baru"
 #: frontend/src/components/ConditionsFilter/CFCondition.vue:47
 #: frontend/src/pages/Calendar.vue:95
 msgid "Operator"
-msgstr ""
+msgstr "Operator"
 
 #: frontend/src/components/Kanban/KanbanView.vue:228
 #: frontend/src/components/Modals/CallLogDetailModal.vue:16
@@ -5295,7 +5295,7 @@ msgstr "Nama Organisasi"
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:309
 msgid "Organization is required to create a customer"
-msgstr ""
+msgstr "Organisasi diperlukan untuk menciptakan pelanggan"
 
 #. Label of a shortcut in the Frappe CRM Workspace
 #: crm/fcrm/workspace/frappe_crm/frappe_crm.json
@@ -5306,16 +5306,16 @@ msgstr "Organisasi"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:150
 msgid "Organizer"
-msgstr ""
+msgstr "Penyelenggara"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:599
 msgid "Other Features"
-msgstr ""
+msgstr "Fitur Lainnya"
 
 #. Label of the organization_tab (Tab Break) field in DocType 'CRM Lead'
 #: crm/fcrm/doctype/crm_lead/crm_lead.json
 msgid "Others"
-msgstr ""
+msgstr "Yang lain"
 
 #: frontend/src/components/Activities/CallArea.vue:35
 msgid "Outbound Call"
@@ -5357,7 +5357,7 @@ msgstr "Kata Sandi"
 
 #: crm/api/user.py:46
 msgid "Password Updated Successfully"
-msgstr ""
+msgstr "Kata Sandi Berhasil Diperbarui"
 
 #: crm/api/live_demo.py:24 crm/api/live_demo.py:32
 msgid "Password cannot be reset by Demo User {}"
@@ -5373,11 +5373,11 @@ msgstr ""
 
 #: frontend/src/components/Modals/ChangePasswordModal.vue:130
 msgid "Password must be at least 8 characters"
-msgstr ""
+msgstr "Kata sandi minimal harus 8 karakter"
 
 #: frontend/src/components/Modals/ChangePasswordModal.vue:133
 msgid "Password must contain lowercase, uppercase, number, and symbol"
-msgstr ""
+msgstr "Kata sandi harus mengandung huruf kecil, huruf besar, angka, dan simbol"
 
 #: frontend/src/components/Modals/ChangePasswordModal.vue:98
 msgid "Password updated successfully"
@@ -5390,7 +5390,7 @@ msgstr "Kata sandi tidak cocok"
 #: frontend/src/components/Modals/ChangePasswordModal.vue:47
 #: frontend/src/components/Modals/ChangePasswordModal.vue:149
 msgid "Passwords match"
-msgstr ""
+msgstr "Kata sandi cocok"
 
 #: frontend/src/components/Modals/EmailTemplateSelectorModal.vue:13
 #: frontend/src/components/Settings/EmailTemplate/EditEmailTemplate.vue:38
@@ -5428,7 +5428,7 @@ msgstr "Orang"
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:120
 msgid "Personal Mobile No."
-msgstr ""
+msgstr "Nomor Ponsel Pribadi."
 
 #. Label of the phone (Data) field in DocType 'CRM Contacts'
 #. Label of the phone (Data) field in DocType 'CRM Lead'
@@ -5457,7 +5457,7 @@ msgstr "Disematkan"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:595
 msgid "Pinned View"
-msgstr ""
+msgstr "Tampilan yang Disematkan"
 
 #: frontend/src/components/ViewControls.vue:685
 msgid "Pinned Views"
@@ -5465,11 +5465,11 @@ msgstr "Tampilan yang Disematkan"
 
 #: frontend/src/components/Activities/AudioPlayer.vue:176
 msgid "Playback Speed"
-msgstr ""
+msgstr "Kecepatan Pemutaran"
 
 #: crm/lead_syncing/doctype/lead_sync_source/facebook.py:169
 msgid "Please check your access token"
-msgstr ""
+msgstr "Silakan periksa token akses Anda"
 
 #: crm/integrations/twilio/twilio_handler.py:119
 msgid "Please enable twilio settings before making a call."
@@ -5481,11 +5481,11 @@ msgstr "Harap masukkan URL yang valid"
 
 #: frontend/src/components/Settings/Sla/WorkDayModal.vue:239
 msgid "Please fix the errors in the form"
-msgstr ""
+msgstr "Harap perbaiki kesalahan pada formulir"
 
 #: frontend/src/components/Settings/Sla/EditResponseResolutionModal.vue:93
 msgid "Please select a Priority"
-msgstr ""
+msgstr "Silakan pilih Prioritas"
 
 #: frontend/src/components/Settings/DashboardSettings.vue:213
 msgid "Please select a currency before saving."
@@ -5493,7 +5493,7 @@ msgstr "Harap pilih mata uang sebelum menyimpan."
 
 #: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.py:67
 msgid "Please select a lead gen form before syncing!"
-msgstr ""
+msgstr "Silakan pilih formulir perolehan prospek sebelum menyinkronkan!"
 
 #: frontend/src/components/Modals/ConvertToDealModal.vue:133
 msgid "Please select an existing contact"
@@ -5509,15 +5509,15 @@ msgstr "Silakan pilih dari hari mingguan"
 
 #: frontend/src/pages/Lead.vue:134
 msgid "Please set a mobile number to make calls"
-msgstr ""
+msgstr "Silakan atur nomor ponsel untuk melakukan panggilan"
 
 #: frontend/src/pages/Deal.vue:109 frontend/src/pages/Lead.vue:156
 msgid "Please set a website to visit"
-msgstr ""
+msgstr "Silakan tetapkan situs web yang akan dikunjungi"
 
 #: frontend/src/pages/Deal.vue:98 frontend/src/pages/Lead.vue:146
 msgid "Please set an email address to send emails"
-msgstr ""
+msgstr "Silakan atur alamat email untuk mengirim email"
 
 #: crm/integrations/exotel/handler.py:72
 msgid "Please setup Exotel intergration"
@@ -5529,7 +5529,7 @@ msgstr "Mohon sebutkan alasan kesepakatan ini gagal."
 
 #: crm/fcrm/doctype/crm_lead/crm_lead.py:153
 msgid "Please specify a reason for losing the lead."
-msgstr ""
+msgstr "Silakan tentukan alasan kehilangan keunggulan."
 
 #: crm/fcrm/doctype/crm_deal/crm_deal.py:263
 msgid "Please specify the reason for losing the deal."
@@ -5537,11 +5537,11 @@ msgstr "Mohon sebutkan alasan utama kesepakatan ini gagal."
 
 #: crm/fcrm/doctype/crm_lead/crm_lead.py:155
 msgid "Please specify the reason for losing the lead."
-msgstr ""
+msgstr "Silakan sebutkan alasan hilangnya keunggulan."
 
 #: frontend/src/components/Settings/Sla/SlaPolicyList.vue:62
 msgid "Policy Name"
-msgstr ""
+msgstr "Nama Kebijakan"
 
 #. Label of the position (Int) field in DocType 'CRM Deal Status'
 #. Label of the position (Int) field in DocType 'CRM Lead Status'
@@ -5553,11 +5553,11 @@ msgstr "Posisi"
 #: frontend/src/components/Settings/PreferencesSettings.vue:4
 #: frontend/src/components/Settings/Settings.vue:108
 msgid "Preferences"
-msgstr ""
+msgstr "Preferensi"
 
 #: frontend/src/components/Settings/PreferencesSettings.vue:115
 msgid "Preferences Updated Successfully"
-msgstr ""
+msgstr "Preferensi Berhasil Diperbarui"
 
 #: frontend/src/pages/Deal.vue:215 frontend/src/pages/MobileDeal.vue:153
 msgid "Primary"
@@ -5565,22 +5565,22 @@ msgstr "Utama"
 
 #: frontend/src/pages/Deal.vue:703 frontend/src/pages/MobileDeal.vue:574
 msgid "Primary Contact Set"
-msgstr ""
+msgstr "Kumpulan Kontak Utama"
 
 #. Label of the email (Data) field in DocType 'CRM Deal'
 #: crm/fcrm/doctype/crm_deal/crm_deal.json
 msgid "Primary email"
-msgstr ""
+msgstr "Email utama"
 
 #. Label of the mobile_no (Data) field in DocType 'CRM Deal'
 #: crm/fcrm/doctype/crm_deal/crm_deal.json
 msgid "Primary mobile no"
-msgstr ""
+msgstr "Nomor ponsel utama"
 
 #. Label of the phone (Data) field in DocType 'CRM Deal'
 #: crm/fcrm/doctype/crm_deal/crm_deal.json
 msgid "Primary phone"
-msgstr ""
+msgstr "Telepon utama"
 
 #. Label of the priorities (Table) field in DocType 'CRM Service Level
 #. Agreement'
@@ -5590,7 +5590,7 @@ msgstr "Prioritas"
 
 #: frontend/src/components/Settings/Sla/utils.js:145
 msgid "Priorities must be unique"
-msgstr ""
+msgstr "Prioritas harus unik"
 
 #. Label of the priority (Link) field in DocType 'CRM Service Level Priority'
 #. Label of the priority (Select) field in DocType 'CRM Task'
@@ -5622,7 +5622,7 @@ msgstr "Privat"
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:487
 #: frontend/src/components/Modals/EventModal.vue:152
 msgid "Private or Public"
-msgstr ""
+msgstr "Swasta atau Publik"
 
 #. Label of the probability (Percent) field in DocType 'CRM Deal'
 #. Label of the probability (Percent) field in DocType 'CRM Deal Status'
@@ -5665,7 +5665,7 @@ msgstr "Profil"
 
 #: frontend/src/components/Settings/Profile/ProfileSettings.vue:190
 msgid "Profile Updated Successfully"
-msgstr ""
+msgstr "Profil Berhasil Diperbarui"
 
 #: crm/api/dashboard.py:719
 msgid "Projected vs actual revenue based on deal probability"
@@ -5680,7 +5680,7 @@ msgstr "Publik"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:594
 msgid "Public View"
-msgstr ""
+msgstr "Tampilan Publik"
 
 #: frontend/src/components/ViewControls.vue:679
 msgid "Public Views"
@@ -5694,7 +5694,7 @@ msgstr "Kuantitas"
 #. Label of the questions (Table) field in DocType 'Facebook Lead Form'
 #: crm/lead_syncing/doctype/facebook_lead_form/facebook_lead_form.json
 msgid "Questions"
-msgstr ""
+msgstr "Pertanyaan"
 
 #. Option for the 'Status' (Select) field in DocType 'CRM Call Log'
 #: crm/fcrm/doctype/crm_call_log/crm_call_log.json
@@ -5709,7 +5709,7 @@ msgstr "Entri Cepat"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:618
 msgid "Quick Entry Layout"
-msgstr ""
+msgstr "Tata Letak Entri Cepat"
 
 #. Option for the 'Type' (Select) field in DocType 'CRM Global Settings'
 #: crm/fcrm/doctype/crm_global_settings/crm_global_settings.json
@@ -5718,7 +5718,7 @@ msgstr "Filter Cepat"
 
 #: frontend/src/components/ViewControls.vue:740
 msgid "Quick filters updated successfully"
-msgstr ""
+msgstr "Filter cepat berhasil diperbarui"
 
 #. Label of the rate (Currency) field in DocType 'CRM Products'
 #: crm/fcrm/doctype/crm_products/crm_products.json
@@ -5754,7 +5754,7 @@ msgstr "URL Rekaman"
 
 #: crm/integrations/api.py:160
 msgid "Recording URL not found"
-msgstr ""
+msgstr "URL rekaman tidak ditemukan"
 
 #. Label of the reference_name (Dynamic Link) field in DocType 'CRM
 #. Notification'
@@ -5792,7 +5792,7 @@ msgstr ""
 
 #: crm/api/whatsapp.py:270 crm/api/whatsapp.py:322
 msgid "Referenced WhatsApp message does not exist."
-msgstr ""
+msgstr "Pesan WhatsApp yang direferensikan tidak ada."
 
 #: frontend/src/components/ViewControls.vue:26
 #: frontend/src/components/ViewControls.vue:159
@@ -5802,11 +5802,11 @@ msgstr "Segarkan"
 
 #: frontend/src/components/Settings/Telephony/TwilioSettings.vue:78
 msgid "Refresh Apps"
-msgstr ""
+msgstr "Segarkan Aplikasi"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:157
 msgid "Refresh Companies"
-msgstr ""
+msgstr "Segarkan Perusahaan"
 
 #: frontend/src/components/Telephony/TwilioCallUI.vue:97
 msgid "Reject"
@@ -5814,15 +5814,15 @@ msgstr "Tolak"
 
 #: frontend/src/components/Telephony/TwilioCallUI.vue:163
 msgid "Reject Call"
-msgstr ""
+msgstr "Tolak Panggilan"
 
 #: frontend/src/components/Kanban/KanbanView.vue:165
 msgid "Reload Columns"
-msgstr ""
+msgstr "Muat Ulang Kolom"
 
 #: frontend/src/components/Settings/CalendarSettings.vue:66
 msgid "Reminders will be sent <b>before the event starts</b>, based on the configured time"
-msgstr ""
+msgstr "Pengingat akan dikirim <b>sebelum acara dimulai</b>, berdasarkan waktu yang dikonfigurasi"
 
 #: frontend/src/components/ConditionsFilter/CFCondition.vue:178
 #: frontend/src/components/Controls/ImageUploader.vue:21
@@ -5837,31 +5837,31 @@ msgstr "Hapus"
 
 #: frontend/src/components/FilesUploader/FilesUploader.vue:23
 msgid "Remove All"
-msgstr ""
+msgstr "Hapus semua"
 
 #: frontend/src/components/ConditionsFilter/CFCondition.vue:186
 msgid "Remove Group"
-msgstr ""
+msgstr "Hapus Grup"
 
 #: frontend/src/pages/Contact.vue:53 frontend/src/pages/Lead.vue:98
 #: frontend/src/pages/MobileContact.vue:43
 #: frontend/src/pages/MobileOrganization.vue:43
 #: frontend/src/pages/Organization.vue:53
 msgid "Remove Image"
-msgstr ""
+msgstr "Hapus Gambar"
 
 #: frontend/src/components/FieldLayoutEditor.vue:574
 #: frontend/src/components/FieldLayoutEditor.vue:580
 msgid "Remove Last Column"
-msgstr ""
+msgstr "Hapus Kolom Terakhir"
 
 #: frontend/src/components/FieldLayoutEditor.vue:604
 msgid "Remove Last Column (move fields to previous)"
-msgstr ""
+msgstr "Hapus Kolom Terakhir (pindahkan kolom ke sebelumnya)"
 
 #: frontend/src/components/Settings/Profile/ProfileSettings.vue:157
 msgid "Remove Photo"
-msgstr ""
+msgstr "Hapus Foto"
 
 #: frontend/src/components/FieldLayoutEditor.vue:477
 #: frontend/src/components/FieldLayoutEditor.vue:485
@@ -5871,14 +5871,14 @@ msgstr "Hapus Bagian"
 #: frontend/src/components/FieldLayoutEditor.vue:419
 #: frontend/src/components/FieldLayoutEditor.vue:427
 msgid "Remove Tab"
-msgstr ""
+msgstr "Hapus Tab"
 
 #. Label of the auto_reopen_on_new_communication (Check) field in DocType 'FCRM
 #. Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 #: frontend/src/components/Settings/GeneralSettings.vue:60
 msgid "Reopen lead/deal on new communication"
-msgstr ""
+msgstr "Buka kembali prospek/kesepakatan pada komunikasi baru"
 
 #: frontend/src/components/Activities/EmailArea.vue:34
 #: frontend/src/components/CommunicationArea.vue:9
@@ -5923,14 +5923,14 @@ msgstr "Reset ke Pengaturan Default"
 #. Time'
 #: crm/fcrm/doctype/crm_rolling_response_time/crm_rolling_response_time.json
 msgid "Responded On"
-msgstr ""
+msgstr "Ditanggapi Pada"
 
 #. Label of the section_break_ufaf (Section Break) field in DocType 'CRM
 #. Service Level Agreement'
 #: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.json
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:215
 msgid "Response & Follow Up"
-msgstr ""
+msgstr "Respon & Tindak Lanjut"
 
 #. Label of the response_by (Datetime) field in DocType 'CRM Deal'
 #. Label of the response_by (Datetime) field in DocType 'CRM Lead'
@@ -5952,18 +5952,18 @@ msgstr "Detail Respon"
 #. Time'
 #: crm/fcrm/doctype/crm_rolling_response_time/crm_rolling_response_time.json
 msgid "Response Time"
-msgstr ""
+msgstr "Waktu Respons"
 
 #: frontend/src/components/Settings/Sla/EditResponseResolutionModal.vue:99
 msgid "Response Time is required"
-msgstr ""
+msgstr "Waktu Respons diperlukan"
 
 #. Description of the 'Rolling Responses' (Check) field in DocType 'CRM Service
 #. Level Agreement'
 #: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.json
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:93
 msgid "Restart the SLA each time the customer replies (status changes to Open) and fulfill it when marked as Replied"
-msgstr ""
+msgstr "Mulai ulang SLA setiap kali pelanggan membalas (status berubah menjadi Terbuka) dan penuhi ketika ditandai sebagai Dibalas"
 
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.js:22
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.js:54
@@ -5980,7 +5980,7 @@ msgstr "Kembalikan ke Pengaturan Default"
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.js:53
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 msgid "Restore Demo Data"
-msgstr ""
+msgstr "Pulihkan Data Demo"
 
 #: frontend/src/components/FilesUploader/FilesUploader.vue:51
 msgid "Retake"
@@ -5989,7 +5989,7 @@ msgstr "Ambil ulang"
 #: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.js:6
 #: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:16
 msgid "Retry Sync"
-msgstr ""
+msgstr "Coba Sinkronisasi lagi"
 
 #: crm/api/dashboard.py:727
 msgid "Revenue"
@@ -6027,7 +6027,7 @@ msgstr "Peran"
 #: crm/fcrm/doctype/crm_deal/crm_deal.json
 #: crm/fcrm/doctype/crm_lead/crm_lead.json
 msgid "Rolling Response Due"
-msgstr ""
+msgstr "Batas Waktu Respons Bergulir"
 
 #. Label of the rolling_responses (Table) field in DocType 'CRM Deal'
 #. Label of the rolling_responses (Table) field in DocType 'CRM Lead'
@@ -6038,7 +6038,7 @@ msgstr ""
 #: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.json
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:89
 msgid "Rolling Responses"
-msgstr ""
+msgstr "Tanggapan Bergulir"
 
 #. Option for the 'Type' (Select) field in DocType 'CRM Dropdown Item'
 #. Label of the route (Data) field in DocType 'CRM Dropdown Item'
@@ -6082,31 +6082,31 @@ msgstr "Nama SLA"
 #: frontend/src/components/Settings/Settings.vue:188
 #: frontend/src/components/Settings/Sla/SlaPolicyList.vue:3
 msgid "SLA Policies"
-msgstr ""
+msgstr "Kebijakan SLA"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:429
 msgid "SLA Policy Created"
-msgstr ""
+msgstr "Kebijakan SLA Dibuat"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyList.vue:242
 msgid "SLA Policy Deleted"
-msgstr ""
+msgstr "Kebijakan SLA Dihapus"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyList.vue:218
 msgid "SLA Policy Duplicated"
-msgstr ""
+msgstr "Kebijakan SLA Diduplikasi"
 
 #: frontend/src/components/Settings/Sla/utils.js:106
 msgid "SLA Policy Name is required"
-msgstr ""
+msgstr "Nama Kebijakan SLA wajib diisi"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyList.vue:264
 msgid "SLA Policy Status Updated"
-msgstr ""
+msgstr "Status Kebijakan SLA Diperbarui"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:499
 msgid "SLA Policy Updated"
-msgstr ""
+msgstr "Kebijakan SLA Diperbarui"
 
 #. Label of the sla_status (Select) field in DocType 'CRM Deal'
 #. Label of the sla_status (Select) field in DocType 'CRM Lead'
@@ -6118,7 +6118,7 @@ msgstr "Status SLA"
 #: frontend/src/components/Settings/Sla/SlaPolicyList.vue:254
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:373
 msgid "SLA set as default cannot be disabled"
-msgstr ""
+msgstr "SLA yang ditetapkan sebagai default tidak dapat dinonaktifkan"
 
 #: frontend/src/components/EmailEditor.vue:102
 msgid "SUBJECT"
@@ -6163,7 +6163,7 @@ msgstr "Manajer Penjualan"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:94
 msgid "Sales Trend"
-msgstr ""
+msgstr "Tren Penjualan"
 
 #. Name of a role
 #. Option for the 'Role' (Select) field in DocType 'CRM Invitation'
@@ -6256,7 +6256,7 @@ msgstr "Simpan Perubahan"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:593
 msgid "Saved View"
-msgstr ""
+msgstr "Tampilan Tersimpan"
 
 #: frontend/src/components/ViewControls.vue:673
 msgid "Saved Views"
@@ -6269,7 +6269,7 @@ msgstr "Jadwalkan tugas..."
 #: frontend/src/components/Activities/ActivityHeader.vue:36
 #: frontend/src/components/Activities/ActivityHeader.vue:130
 msgid "Schedule an Event"
-msgstr ""
+msgstr "Jadwalkan Acara"
 
 #. Label of the script (Code) field in DocType 'CRM Form Script'
 #: crm/fcrm/doctype/crm_form_script/crm_form_script.json
@@ -6284,11 +6284,11 @@ msgstr "Pencarian"
 
 #: frontend/src/components/Settings/EmailTemplate/EmailTemplates.vue:60
 msgid "Search Template"
-msgstr ""
+msgstr "Templat Pencarian"
 
 #: frontend/src/components/Settings/Users.vue:69
 msgid "Search User"
-msgstr ""
+msgstr "Cari Pengguna"
 
 #: frontend/src/components/FieldLayoutEditor.vue:454
 msgid "Section"
@@ -6296,7 +6296,7 @@ msgstr "Bagian"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:231
 msgid "See All Participants"
-msgstr ""
+msgstr "Lihat Semua Peserta"
 
 #: frontend/src/components/SidePanelLayout.vue:153
 msgid "Select"
@@ -6312,19 +6312,19 @@ msgstr "Pilih Mata Uang"
 
 #: frontend/src/components/Settings/Sla/SlaHolidays.vue:20
 msgid "Select Holiday List"
-msgstr ""
+msgstr "Pilih Daftar Liburan"
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:54
 msgid "Select Medium"
-msgstr ""
+msgstr "Pilih Sedang"
 
 #: frontend/src/components/Settings/Sla/EditResponseResolutionModal.vue:15
 msgid "Select Priority"
-msgstr ""
+msgstr "Pilih Prioritas"
 
 #: frontend/src/components/Settings/DashboardSettings.vue:119
 msgid "Select Provider"
-msgstr ""
+msgstr "Pilih Penyedia"
 
 #: frontend/src/pages/Dashboard.vue:50
 msgid "Select Range"
@@ -6337,7 +6337,7 @@ msgstr ""
 #: frontend/src/components/Calendar/EventNotifications.vue:31
 #: frontend/src/components/Calendar/EventNotifications.vue:99
 msgid "Select Type"
-msgstr ""
+msgstr "Pilih Jenis"
 
 #: frontend/src/components/Settings/CalendarSettings.vue:53
 msgid "Select View"
@@ -6345,19 +6345,19 @@ msgstr ""
 
 #: frontend/src/components/Settings/Sla/WorkDayModal.vue:15
 msgid "Select Workday"
-msgstr ""
+msgstr "Pilih Hari Kerja"
 
 #: frontend/src/components/Settings/Telephony/TwilioSettings.vue:71
 msgid "Select a Twilio App for your CRM"
-msgstr ""
+msgstr "Pilih Aplikasi Twilio untuk CRM Anda"
 
 #: frontend/src/components/Filter.vue:599
 msgid "Select a Value"
-msgstr ""
+msgstr "Pilih Nilai"
 
 #: frontend/src/components/Filter.vue:601
 msgid "Select an Option"
-msgstr ""
+msgstr "Pilih sebuah Opsi"
 
 #: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:84
 msgid "Select the assignees for {0}."
@@ -6365,19 +6365,19 @@ msgstr ""
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:217
 msgid "Select the deal status to trigger the auto customer creation in ERPNext"
-msgstr ""
+msgstr "Pilih status transaksi untuk memicu pembuatan pelanggan otomatis di ERPNext"
 
 #: frontend/src/components/Settings/CalendarSettings.vue:37
 msgid "Select the default view for your calendar. This will be the initial view when you open the calendar"
-msgstr ""
+msgstr "Pilih tampilan default untuk kalender Anda. Ini akan menjadi tampilan awal saat Anda membuka kalender"
 
 #: frontend/src/components/Settings/DefaultsSettings.vue:131
 msgid "Select whether to display time with or without seconds"
-msgstr ""
+msgstr "Pilih apakah akan menampilkan waktu dengan atau tanpa detik"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:133
 msgid "Select your ERPNext company to connect with"
-msgstr ""
+msgstr "Pilih perusahaan ERPNext Anda untuk dihubungkan"
 
 #: frontend/src/components/FieldLayout/Field.vue:514
 msgid "Select {0}"
@@ -6393,7 +6393,7 @@ msgstr "Kirim Undangan"
 
 #: frontend/src/components/Settings/InviteUserPage.vue:6
 msgid "Send Invites To"
-msgstr ""
+msgstr "Kirim Undangan Ke"
 
 #: frontend/src/components/Activities/ActivityHeader.vue:61
 msgid "Send Template"
@@ -6401,7 +6401,7 @@ msgstr "Kirim Templat"
 
 #: frontend/src/pages/Deal.vue:92 frontend/src/pages/Lead.vue:140
 msgid "Send an Email"
-msgstr ""
+msgstr "Kirim Email"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:482
 msgid "Send email"
@@ -6409,11 +6409,11 @@ msgstr "Kirim email"
 
 #: frontend/src/components/CommunicationArea.vue:274
 msgid "Sending comment..."
-msgstr ""
+msgstr "Mengirim komentar..."
 
 #: frontend/src/components/CommunicationArea.vue:258
 msgid "Sending email..."
-msgstr ""
+msgstr "Mengirim email..."
 
 #. Option for the 'Type' (Select) field in DocType 'CRM Dropdown Item'
 #: crm/fcrm/doctype/crm_dropdown_item/crm_dropdown_item.json
@@ -6440,27 +6440,27 @@ msgstr "Tetapkan"
 
 #: frontend/src/components/ViewControls.vue:1081
 msgid "Set As Default"
-msgstr ""
+msgstr "Tetapkan Sebagai Default"
 
 #: frontend/src/components/PrimaryDropdownItem.vue:27
 msgid "Set As Primary"
-msgstr ""
+msgstr "Tetapkan Sebagai Utama"
 
 #: frontend/src/components/Settings/DashboardSettings.vue:235
 msgid "Set Currency"
-msgstr ""
+msgstr "Tetapkan Mata Uang"
 
 #: frontend/src/components/Settings/Sla/EditResponseResolutionModal.vue:34
 msgid "Set Default Priority"
-msgstr ""
+msgstr "Tetapkan Prioritas Default"
 
 #: frontend/src/pages/Lead.vue:119
 msgid "Set First Name"
-msgstr ""
+msgstr "Tetapkan Nama Depan"
 
 #: frontend/src/components/Controls/GeolocationControl.vue:43
 msgid "Set Location"
-msgstr ""
+msgstr "Tetapkan Lokasi"
 
 #: frontend/src/components/FilesUploader/FilesUploader.vue:66
 msgid "Set all as private"
@@ -6472,7 +6472,7 @@ msgstr "Atur semua sebagai publik"
 
 #: frontend/src/pages/Deal.vue:78
 msgid "Set an Organization"
-msgstr ""
+msgstr "Tetapkan Organisasi"
 
 #: frontend/src/pages/Deal.vue:660 frontend/src/pages/MobileDeal.vue:531
 msgid "Set as Primary Contact"
@@ -6480,39 +6480,39 @@ msgstr "Atur sebagai Kontak Utama"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:113
 msgid "Set as default SLA"
-msgstr ""
+msgstr "Tetapkan sebagai SLA default"
 
 #: frontend/src/components/Controls/GeolocationControl.vue:10
 msgid "Set location…"
-msgstr ""
+msgstr "Tetapkan lokasi…"
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:102
 msgid "Set the Exotel number to be used for outgoing calls."
-msgstr ""
+msgstr "Atur nomor Exotel yang akan digunakan untuk panggilan keluar."
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:77
 msgid "Set the Twilio number to be used for outgoing calls."
-msgstr ""
+msgstr "Atur nomor Twilio yang akan digunakan untuk panggilan keluar."
 
 #: frontend/src/components/Settings/BrandSettings.vue:33
 msgid "Set the name of your brand. Appears in the left sidebar."
-msgstr ""
+msgstr "Tetapkan nama merek Anda. Muncul di sidebar kiri."
 
 #: frontend/src/components/Settings/Sla/SlaHolidays.vue:9
 msgid "Set working days, hours, and holidays by selecting a predefined schedule or creating a new one"
-msgstr ""
+msgstr "Tetapkan hari kerja, jam kerja, dan hari libur dengan memilih jadwal yang telah ditentukan atau membuat jadwal baru"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:557
 msgid "Setting Up"
-msgstr ""
+msgstr "Menyiapkan"
 
 #: frontend/src/components/Settings/GeneralSettings.vue:94
 msgid "Setting disabled successfully"
-msgstr ""
+msgstr "Pengaturan berhasil dinonaktifkan"
 
 #: frontend/src/components/Settings/GeneralSettings.vue:93
 msgid "Setting enabled successfully"
-msgstr ""
+msgstr "Pengaturan berhasil diaktifkan"
 
 #: frontend/src/components/Settings/emailConfig.js:158
 msgid "Setting up Frappe Mail requires you to have an API key and API Secret of your email account. Read more"
@@ -6520,27 +6520,27 @@ msgstr "Untuk mengatur Frappe Mail, Anda harus memiliki API key dan API Secret d
 
 #: frontend/src/components/Settings/emailConfig.js:104
 msgid "Setting up GMail requires you to enable two factor authentication and app specific passwords. Read more"
-msgstr ""
+msgstr "Menyiapkan GMail mengharuskan Anda mengaktifkan autentikasi dua faktor dan kata sandi khusus aplikasi. Baca selengkapnya"
 
 #: frontend/src/components/Settings/emailConfig.js:113
 msgid "Setting up Outlook requires you to enable two factor authentication and app specific passwords. Read more"
-msgstr ""
+msgstr "Menyiapkan Outlook mengharuskan Anda mengaktifkan autentikasi dua faktor dan kata sandi khusus aplikasi. Baca selengkapnya"
 
 #: frontend/src/components/Settings/emailConfig.js:122
 msgid "Setting up Sendgrid requires you to enable two factor authentication and app specific passwords. Read more"
-msgstr ""
+msgstr "Menyiapkan Sendgrid mengharuskan Anda mengaktifkan otentikasi dua faktor dan kata sandi khusus aplikasi. Baca selengkapnya"
 
 #: frontend/src/components/Settings/emailConfig.js:131
 msgid "Setting up Sparkpost requires you to enable two factor authentication and app specific passwords. Read more"
-msgstr ""
+msgstr "Menyiapkan Sparkpost mengharuskan Anda mengaktifkan autentikasi dua faktor dan kata sandi khusus aplikasi. Baca selengkapnya"
 
 #: frontend/src/components/Settings/emailConfig.js:140
 msgid "Setting up Yahoo requires you to enable two factor authentication and app specific passwords. Read more"
-msgstr ""
+msgstr "Menyiapkan Yahoo mengharuskan Anda mengaktifkan otentikasi dua faktor dan kata sandi khusus aplikasi. Baca selengkapnya"
 
 #: frontend/src/components/Settings/emailConfig.js:149
 msgid "Setting up Yandex requires you to enable two factor authentication and app specific passwords. Read more"
-msgstr ""
+msgstr "Menyiapkan Yandex mengharuskan Anda mengaktifkan otentikasi dua faktor dan kata sandi khusus aplikasi. Baca selengkapnya"
 
 #. Label of the defaults_tab (Tab Break) field in DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
@@ -6550,11 +6550,11 @@ msgstr "Pengaturan"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:302
 msgid "Settings saved"
-msgstr ""
+msgstr "Pengaturan disimpan"
 
 #: frontend/src/components/Settings/DefaultsSettings.vue:166
 msgid "Settings updated successfully"
-msgstr ""
+msgstr "Pengaturan berhasil diperbarui"
 
 #: frontend/src/components/Settings/EmailAdd.vue:6
 msgid "Setup Email"
@@ -6574,15 +6574,15 @@ msgstr "Tampilkan"
 
 #: frontend/src/components/FieldLayoutEditor.vue:472
 msgid "Show Border"
-msgstr ""
+msgstr "Tampilkan Perbatasan"
 
 #: frontend/src/components/FieldLayoutEditor.vue:467
 msgid "Show Label"
-msgstr ""
+msgstr "Tampilkan Label"
 
 #: frontend/src/components/Calendar/CalendarEventPanel.vue:239
 msgid "Show Less"
-msgstr ""
+msgstr "Tampilkan Lebih Sedikit"
 
 #: frontend/src/components/Controls/Password.vue:19
 msgid "Show Password"
@@ -6625,35 +6625,35 @@ msgstr "Karena Anda menghapus {0} dari penanggung jawab, maka {0} telah dialihka
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:66
 msgid "Site URL"
-msgstr ""
+msgstr "URL situs"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:449
 msgid "Site URL is required"
-msgstr ""
+msgstr "URL situs diperlukan"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:432
 msgid "Site connection validated"
-msgstr ""
+msgstr "Koneksi situs divalidasi"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:439
 msgid "Some error occurred while creating SLA Policy"
-msgstr ""
+msgstr "Beberapa kesalahan terjadi saat membuat Kebijakan SLA"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:485
 msgid "Some error occurred while renaming SLA policy"
-msgstr ""
+msgstr "Beberapa kesalahan terjadi saat mengganti nama kebijakan SLA"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:766
 msgid "Some error occurred while renaming assignment rule"
-msgstr ""
+msgstr "Beberapa kesalahan terjadi saat mengganti nama aturan penetapan"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:476
 msgid "Some error occurred while updating SLA policy"
-msgstr ""
+msgstr "Beberapa kesalahan terjadi saat memperbarui kebijakan SLA"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:751
 msgid "Some error occurred while updating assignment rule"
-msgstr ""
+msgstr "Beberapa kesalahan terjadi saat memperbarui aturan penetapan"
 
 #: frontend/src/components/Settings/Users.vue:279
 #: frontend/src/components/Settings/Users.vue:292
@@ -6662,7 +6662,7 @@ msgstr "Ada yang salah"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyList.vue:246
 msgid "Something went wrong, try again later"
-msgstr ""
+msgstr "Ada yang tidak beres, coba lagi nanti"
 
 #: frontend/src/components/SortBy.vue:10 frontend/src/components/SortBy.vue:24
 #: frontend/src/components/SortBy.vue:226
@@ -6688,15 +6688,15 @@ msgstr "Nama Sumber"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:56
 msgid "Source Type"
-msgstr ""
+msgstr "Jenis Sumber"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSources.vue:161
 msgid "Source disabled successfully"
-msgstr ""
+msgstr "Sumber berhasil dinonaktifkan"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSources.vue:160
 msgid "Source enabled successfully"
-msgstr ""
+msgstr "Sumber berhasil diaktifkan"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:68
 #: frontend/src/components/Dashboard/DashboardItem.vue:21
@@ -6722,7 +6722,7 @@ msgstr "Tampilan Standar"
 
 #: frontend/src/composables/event.js:248
 msgid "Start & End Time Are Required"
-msgstr ""
+msgstr "Waktu Mulai & Berakhir Diperlukan"
 
 #. Label of the start_date (Date) field in DocType 'CRM Service Level
 #. Agreement'
@@ -6735,7 +6735,7 @@ msgstr "Tanggal Mulai"
 
 #: frontend/src/components/Settings/Sla/utils.js:160
 msgid "Start Date cannot be after end date"
-msgstr ""
+msgstr "Tanggal Mulai tidak boleh setelah tanggal akhir"
 
 #. Label of the start_time (Datetime) field in DocType 'CRM Call Log'
 #. Label of the start_time (Time) field in DocType 'CRM Service Day'
@@ -6751,7 +6751,7 @@ msgstr "Waktu Mulai"
 
 #: frontend/src/components/Settings/Sla/WorkDayModal.vue:186
 msgid "Start Time is required"
-msgstr ""
+msgstr "Waktu Mulai diperlukan"
 
 #: frontend/src/pages/Welcome.vue:21
 msgid "Start with sample 10 leads"
@@ -6830,20 +6830,20 @@ msgstr "Ganti kamera"
 
 #: frontend/src/components/Settings/PreferencesSettings.vue:26
 msgid "Switch between light, dark, or system theme"
-msgstr ""
+msgstr "Beralih antara tema terang, gelap, atau sistem"
 
 #: frontend/src/components/Settings/Profile/UserEmailSettings.vue:55
 msgid "Switch between outgoing email accounts when sending emails"
-msgstr ""
+msgstr "Beralih di antara akun email keluar saat mengirim email"
 
 #: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.js:6
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:23
 msgid "Sync Now"
-msgstr ""
+msgstr "Sinkronkan Sekarang"
 
 #: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:132
 msgid "Sync Successful!"
-msgstr ""
+msgstr "Sinkronisasi Berhasil!"
 
 #: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.js:16
 msgid "Sync Successful, CRM Lead: {0}!"
@@ -6851,12 +6851,12 @@ msgstr ""
 
 #: frontend/src/pages/Welcome.vue:32
 msgid "Sync your Contacts, Email and Calendars"
-msgstr ""
+msgstr "Sinkronkan Kontak, Email, dan Kalender Anda"
 
 #. Option for the 'Type' (Select) field in DocType 'Failed Lead Sync Log'
 #: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.json
 msgid "Synced"
-msgstr ""
+msgstr "Disinkronkan"
 
 #. Label of the syncing_tab (Tab Break) field in DocType 'CRM Lead'
 #: crm/fcrm/doctype/crm_lead/crm_lead.json
@@ -6865,7 +6865,7 @@ msgstr "Sinkronisasi"
 
 #: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:381
 msgid "Syncing started in background"
-msgstr ""
+msgstr "Sinkronisasi dimulai di latar belakang"
 
 #: frontend/src/components/Settings/ThemeSwitcher.vue:162
 msgid "System"
@@ -6873,11 +6873,11 @@ msgstr "Sistem"
 
 #: frontend/src/components/Settings/Settings.vue:115
 msgid "System Configuration"
-msgstr ""
+msgstr "Konfigurasi Sistem"
 
 #: frontend/src/components/Settings/DefaultsSettings.vue:6
 msgid "System Defaults"
-msgstr ""
+msgstr "Default Sistem"
 
 #. Name of a role
 #. Option for the 'Role' (Select) field in DocType 'CRM Invitation'
@@ -6933,7 +6933,7 @@ msgstr "Tugas"
 
 #: frontend/src/components/Modals/TaskModal.vue:194
 msgid "Task created"
-msgstr ""
+msgstr "Tugas dibuat"
 
 #: frontend/src/pages/Deal.vue:590 frontend/src/pages/Lead.vue:442
 #: frontend/src/pages/MobileDeal.vue:464 frontend/src/pages/MobileLead.vue:309
@@ -6951,15 +6951,15 @@ msgstr "Media Telepon"
 
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:9
 msgid "Telephony Settings"
-msgstr ""
+msgstr "Pengaturan Telepon"
 
 #: frontend/src/components/Settings/EmailTemplate/EmailTemplates.vue:216
 msgid "Template Deleted Successfully"
-msgstr ""
+msgstr "Templat Berhasil Dihapus"
 
 #: frontend/src/components/Settings/EmailTemplate/EmailTemplates.vue:79
 msgid "Template Name"
-msgstr ""
+msgstr "Nama Templat"
 
 #: frontend/src/components/Settings/EmailTemplate/NewEmailTemplate.vue:175
 msgid "Template created successfully"
@@ -7063,19 +7063,19 @@ msgstr "Tahun Ini"
 
 #: frontend/src/components/FieldLayoutEditor.vue:581
 msgid "This column contains fields. Are you sure you want to remove it?"
-msgstr ""
+msgstr "Kolom ini berisi bidang. Apakah Anda yakin ingin menghapusnya?"
 
 #: frontend/src/components/Settings/Sla/WorkDayModal.vue:177
 msgid "This field is required"
-msgstr ""
+msgstr "Bidang ini wajib diisi"
 
 #: crm/www/crm.py:31
 msgid "This method is only meant for developer mode"
-msgstr ""
+msgstr "Metode ini hanya ditujukan untuk mode pengembang"
 
 #: frontend/src/components/FieldLayoutEditor.vue:486
 msgid "This section contains fields. Are you sure you want to remove it?"
-msgstr ""
+msgstr "Bagian ini berisi bidang. Apakah Anda yakin ingin menghapusnya?"
 
 #: frontend/src/components/SidePanelLayoutEditor.vue:116
 msgid "This section is not editable"
@@ -7095,7 +7095,7 @@ msgstr "Ini akan memulihkan (jika belum ada) semua status default, bidang kustom
 
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.js:67
 msgid "This will restore the demo data. Are you sure you want to continue?"
-msgstr ""
+msgstr "Ini akan memulihkan data demo. Apakah Anda yakin ingin melanjutkan?"
 
 #. Option for the 'Weekly Off' (Select) field in DocType 'CRM Holiday List'
 #. Option for the 'Workday' (Select) field in DocType 'CRM Service Day'
@@ -7112,7 +7112,7 @@ msgstr "Format Waktu"
 #. DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 msgid "Time before the event when a reminder notification will be sent by default. This will be applied to all events unless a custom notification is set for a specific event."
-msgstr ""
+msgstr "Waktu sebelum acara ketika pemberitahuan pengingat akan dikirimkan secara default. Ini akan diterapkan ke semua acara kecuali pemberitahuan khusus disetel untuk acara tertentu."
 
 #: frontend/src/components/Filter.vue:357
 msgid "Timespan"
@@ -7120,7 +7120,7 @@ msgstr "Rentang Waktu"
 
 #: frontend/src/components/Settings/PreferencesSettings.vue:68
 msgid "Timezone"
-msgstr ""
+msgstr "Zona waktu"
 
 #. Label of the title (Data) field in DocType 'CRM Task'
 #. Label of the title (Data) field in DocType 'FCRM Note'
@@ -7142,7 +7142,7 @@ msgstr "Bidang Judul"
 #: frontend/src/components/Modals/EventModal.vue:376
 #: frontend/src/components/Modals/TaskModal.vue:168
 msgid "Title is required"
-msgstr ""
+msgstr "Judul diperlukan"
 
 #. Label of the to (Data) field in DocType 'CRM Status Change Log'
 #: crm/fcrm/doctype/crm_status_change_log/crm_status_change_log.json
@@ -7164,7 +7164,7 @@ msgstr "Sampai saat ini tidak dapat sebelumnya dari tanggal"
 #. Label of the to (Data) field in DocType 'CRM Call Log'
 #: crm/fcrm/doctype/crm_call_log/crm_call_log.json
 msgid "To Number"
-msgstr ""
+msgstr "Ke Nomor"
 
 #. Label of the to_type (Data) field in DocType 'CRM Status Change Log'
 #: crm/fcrm/doctype/crm_status_change_log/crm_status_change_log.json
@@ -7191,7 +7191,7 @@ msgstr "Akan Dikerjakan"
 
 #: frontend/src/components/Modals/SidePanelModal.vue:59
 msgid "Toggle on for Preview"
-msgstr ""
+msgstr "Aktifkan untuk Pratinjau"
 
 #: frontend/src/components/Filter.vue:677
 msgid "Tomorrow"
@@ -7199,7 +7199,7 @@ msgstr "Besok"
 
 #: crm/api/user.py:21
 msgid "Too many failed attempts. Please try again after some time."
-msgstr ""
+msgstr "Terlalu banyak upaya yang gagal. Silakan coba lagi setelah beberapa waktu."
 
 #: frontend/src/components/Modals/NoteModal.vue:41
 #: frontend/src/components/Modals/TaskModal.vue:43
@@ -7220,7 +7220,7 @@ msgstr "Total Hari Libur"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:76
 msgid "Total Leads"
-msgstr ""
+msgstr "Total Prospek"
 
 #. Description of the 'Net Total' (Currency) field in DocType 'CRM Deal'
 #. Description of the 'Net Total' (Currency) field in DocType 'CRM Lead'
@@ -7260,7 +7260,7 @@ msgstr "Selasa"
 
 #: frontend/src/components/ConditionsFilter/CFCondition.vue:159
 msgid "Turn into a Group"
-msgstr ""
+msgstr "Berubah menjadi Grup"
 
 #. Label of the twiml_sid (Data) field in DocType 'CRM Twilio Settings'
 #: crm/fcrm/doctype/crm_twilio_settings/crm_twilio_settings.json
@@ -7285,16 +7285,16 @@ msgstr "Kesalahan pembuatan kredensial API Twilio."
 
 #: frontend/src/components/Settings/Telephony/TwilioSettings.vue:68
 msgid "Twilio App Name"
-msgstr ""
+msgstr "Nama Aplikasi Twilio"
 
 #. Label of the twilio_apps (Data) field in DocType 'CRM Twilio Settings'
 #: crm/fcrm/doctype/crm_twilio_settings/crm_twilio_settings.json
 msgid "Twilio Apps"
-msgstr ""
+msgstr "Aplikasi Twilio"
 
 #: frontend/src/components/Settings/Telephony/TwilioSettings.vue:115
 msgid "Twilio Integration Disabled"
-msgstr ""
+msgstr "Integrasi Twilio Dinonaktifkan"
 
 #. Label of the twilio_number (Data) field in DocType 'CRM Telephony Agent'
 #: crm/fcrm/doctype/crm_telephony_agent/crm_telephony_agent.json
@@ -7304,11 +7304,11 @@ msgstr "Nomor Twilio"
 
 #: frontend/src/components/Settings/Telephony/TwilioSettings.vue:8
 msgid "Twilio Settings"
-msgstr ""
+msgstr "Pengaturan Twilio"
 
 #: crm/integrations/twilio/api.py:15
 msgid "Twilio configuration is missing"
-msgstr ""
+msgstr "Konfigurasi Twilio tidak ada"
 
 #. Label of the type (Select) field in DocType 'CRM Call Log'
 #. Label of the type (Select) field in DocType 'CRM Deal Status'
@@ -7338,7 +7338,7 @@ msgstr "Tipe"
 
 #: frontend/src/components/Calendar/Attendee.vue:212
 msgid "Type an email address to add attendee"
-msgstr ""
+msgstr "Ketikkan alamat email untuk menambahkan peserta"
 
 #: frontend/src/components/Activities/WhatsAppBox.vue:101
 msgid "Type your message here..."
@@ -7346,16 +7346,16 @@ msgstr "Ketik pesan Anda di sini..."
 
 #: crm/fcrm/doctype/crm_twilio_settings/crm_twilio_settings.py:117
 msgid "Unable to connect to Twilio account to fetch applications."
-msgstr ""
+msgstr "Tidak dapat terhubung ke akun Twilio untuk mengambil aplikasi."
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:454
 msgid "Unassign Conditions are invalid"
-msgstr ""
+msgstr "Kondisi yang dibatalkan penetapannya tidak valid"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:224
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:607
 msgid "Unassignment Condition"
-msgstr ""
+msgstr "Kondisi Pembatalan Penugasan"
 
 #: crm/integrations/exotel/handler.py:169
 msgid "Unauthorized request"
@@ -7367,7 +7367,7 @@ msgstr "Tidak Dapat Diciutkan"
 
 #: frontend/src/components/ConditionsFilter/CFCondition.vue:169
 msgid "Ungroup Conditions"
-msgstr ""
+msgstr "Kondisi Pisahkan"
 
 #: frontend/src/components/Telephony/TwilioCallUI.vue:24
 #: frontend/src/components/Telephony/TwilioCallUI.vue:123
@@ -7384,7 +7384,7 @@ msgstr "Lepas tautan"
 
 #: frontend/src/components/BulkDeleteLinkedDocModal.vue:74
 msgid "Unlink & Delete"
-msgstr ""
+msgstr "Putuskan tautan & Hapus"
 
 #: frontend/src/components/BulkDeleteLinkedDocModal.vue:35
 msgid "Unlink & Delete {0} items"
@@ -7392,11 +7392,11 @@ msgstr ""
 
 #: frontend/src/components/DeleteLinkedDocModal.vue:81
 msgid "Unlink All"
-msgstr ""
+msgstr "Putuskan Tautan Semua"
 
 #: frontend/src/components/DeleteLinkedDocModal.vue:236
 msgid "Unlink Linked Item"
-msgstr ""
+msgstr "Batalkan Tautan Item Tertaut"
 
 #: frontend/src/components/DeleteLinkedDocModal.vue:82
 msgid "Unlink {0} Item(s)"
@@ -7450,24 +7450,24 @@ msgstr "Perbarui Akun"
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:162
 #: frontend/src/components/Settings/Telephony/TelephonySettings.vue:187
 msgid "Update Configuration"
-msgstr ""
+msgstr "Perbarui Konfigurasi"
 
 #. Description of the 'Update timestamp on new communication' (Check) field in
 #. DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 msgid "Update the modified timestamp on new email communication & comment for leads & deals"
-msgstr ""
+msgstr "Perbarui stempel waktu yang diubah pada komunikasi email baru & komentar untuk prospek & penawaran"
 
 #: frontend/src/components/Settings/GeneralSettings.vue:20
 msgid "Update the modified timestamp on new email communication & comments for leads & deals"
-msgstr ""
+msgstr "Perbarui stempel waktu yang diubah pada komunikasi email baru & komentar untuk prospek & penawaran"
 
 #. Label of the update_timestamp_on_new_communication (Check) field in DocType
 #. 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 #: frontend/src/components/Settings/GeneralSettings.vue:16
 msgid "Update timestamp on new communication"
-msgstr ""
+msgstr "Perbarui stempel waktu pada komunikasi baru"
 
 #: frontend/src/components/Modals/EditValueModal.vue:29
 msgid "Update {0} Records"
@@ -7497,7 +7497,7 @@ msgstr "Unggah Gambar"
 
 #: frontend/src/components/Settings/Profile/ProfileSettings.vue:158
 msgid "Upload Photo"
-msgstr ""
+msgstr "Unggah Foto"
 
 #: frontend/src/components/Activities/WhatsAppBox.vue:168
 msgid "Upload Video"
@@ -7518,11 +7518,11 @@ msgstr "Pengguna"
 
 #: frontend/src/components/Settings/Settings.vue:95
 msgid "User Configuration"
-msgstr ""
+msgstr "Konfigurasi Pengguna"
 
 #: frontend/src/components/Settings/Settings.vue:146
 msgid "User Management"
-msgstr ""
+msgstr "Manajemen Pengguna"
 
 #. Label of the user_name (Data) field in DocType 'CRM Telephony Agent'
 #: crm/fcrm/doctype/crm_telephony_agent/crm_telephony_agent.json
@@ -7550,19 +7550,19 @@ msgstr "Pengguna"
 
 #: frontend/src/components/Modals/AddExistingUserModal.vue:105
 msgid "Users Added Successfully"
-msgstr ""
+msgstr "Pengguna Berhasil Ditambahkan"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:465
 msgid "Users are required"
-msgstr ""
+msgstr "Pengguna diperlukan"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:168
 msgid "Valid From"
-msgstr ""
+msgstr "Berlaku Mulai"
 
 #: frontend/src/components/Settings/Sla/utils.js:187
 msgid "Valid conditions are required"
-msgstr ""
+msgstr "Persyaratan yang valid diperlukan"
 
 #. Label of the section_break_nevd (Section Break) field in DocType 'CRM
 #. Service Level Agreement'
@@ -7576,15 +7576,15 @@ msgstr "Nilai"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:110
 msgid "Verify Connection"
-msgstr ""
+msgstr "Verifikasi Koneksi"
 
 #: frontend/src/pages/Deal.vue:229
 msgid "View Contact"
-msgstr ""
+msgstr "Lihat Kontak"
 
 #: frontend/src/components/Controls/GeolocationControl.vue:43
 msgid "View Location"
-msgstr ""
+msgstr "Lihat Lokasi"
 
 #: frontend/src/components/Modals/ViewModal.vue:14
 msgid "View Name"
@@ -7663,7 +7663,7 @@ msgstr "WhatsApp"
 
 #: frontend/src/components/Activities/ActivityHeader.vue:161
 msgid "WhatsApp Message"
-msgstr ""
+msgstr "Pesan WhatsApp"
 
 #: frontend/src/components/Modals/WhatsappTemplateSelectorModal.vue:4
 msgid "WhatsApp Templates"
@@ -7692,7 +7692,7 @@ msgstr "Berhasil"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:79
 msgid "Won Deals"
-msgstr ""
+msgstr "Memenangkan Penawaran"
 
 #: crm/api/dashboard.py:306
 msgid "Won deals"
@@ -7700,7 +7700,7 @@ msgstr "Kesepakatan yang berhasil"
 
 #: frontend/src/components/Settings/Sla/SlaHolidays.vue:5
 msgid "Work Schedule & Holidays"
-msgstr ""
+msgstr "Jadwal Kerja & Hari Libur"
 
 #. Label of the workday (Select) field in DocType 'CRM Service Day'
 #: crm/fcrm/doctype/crm_service_day/crm_service_day.json
@@ -7733,15 +7733,15 @@ msgstr "Anda"
 
 #: crm/api/__init__.py:106
 msgid "You are not allowed to invite Sales Managers"
-msgstr ""
+msgstr "Anda tidak diperbolehkan mengundang Manajer Penjualan"
 
 #: crm/api/__init__.py:103
 msgid "You are not allowed to invite System Managers"
-msgstr ""
+msgstr "Anda tidak diperbolehkan mengundang Manajer Sistem"
 
 #: crm/api/session.py:11
 msgid "You are not permitted to access CRM resources."
-msgstr ""
+msgstr "Anda tidak diizinkan mengakses sumber daya CRM."
 
 #: crm/utils/__init__.py:264
 msgid "You are not permitted to access this resource."
@@ -7749,11 +7749,11 @@ msgstr "Anda tidak diizinkan mengakses sumber daya ini."
 
 #: crm/fcrm/doctype/crm_call_log/crm_call_log.py:259
 msgid "You are not permitted to create leads."
-msgstr ""
+msgstr "Anda tidak diizinkan membuat prospek."
 
 #: crm/fcrm/doctype/crm_call_log/crm_call_log.py:256
 msgid "You are not permitted to update this call log."
-msgstr ""
+msgstr "Anda tidak diizinkan memperbarui log panggilan ini."
 
 #: crm/templates/emails/helpdesk_invitation.html:22
 msgid "You can also copy-paste following link in your browser"
@@ -7765,15 +7765,15 @@ msgstr "Anda dapat mengubah media panggilan default dari pengaturan"
 
 #: frontend/src/components/Settings/DashboardSettings.vue:145
 msgid "You can get your Access Key from "
-msgstr ""
+msgstr "Anda bisa mendapatkan Kunci Akses Anda dari"
 
 #: frontend/src/components/Settings/InviteUserPage.vue:37
 msgid "You can invite multiple users by comma separating their email addresses"
-msgstr ""
+msgstr "Anda dapat mengundang banyak pengguna dengan memisahkan alamat email mereka dengan koma"
 
 #: crm/api/user.py:120
 msgid "You cannot remove yourself."
-msgstr ""
+msgstr "Anda tidak dapat menghapus diri Anda sendiri."
 
 #: crm/integrations/exotel/handler.py:84
 msgid "You do not have Exotel Number set in your Telephony Agent"
@@ -7781,7 +7781,7 @@ msgstr "Anda belum mengatur Nomor Exotel di Agen Telepon Anda"
 
 #: frontend/src/pages/NotPermitted.vue:12
 msgid "You do not have enough permissions to access Frappe CRM. Please contact your administrator if you believe this is an error."
-msgstr ""
+msgstr "Anda tidak memiliki izin yang cukup untuk mengakses Frappe CRM. Silakan hubungi administrator Anda jika Anda yakin ini adalah kesalahan."
 
 #: crm/integrations/exotel/handler.py:92
 msgid "You do not have mobile number set in your Telephony Agent"
@@ -7789,7 +7789,7 @@ msgstr "Anda belum mengatur nomor ponsel di Agen Telepon Anda"
 
 #: crm/www/crm.py:18
 msgid "You do not have permission to access Frappe CRM"
-msgstr ""
+msgstr "Anda tidak memiliki izin untuk mengakses Frappe CRM"
 
 #: frontend/src/data/document.js:41
 msgid "You do not have permission to access this document"
@@ -7797,11 +7797,11 @@ msgstr "Anda tidak memiliki izin untuk mengakses dokumen ini"
 
 #: crm/api/__init__.py:143
 msgid "You don't have permission to delete this attachment"
-msgstr ""
+msgstr "Anda tidak memiliki izin untuk menghapus lampiran ini"
 
 #: crm/api/user.py:17
 msgid "You must be logged in to change your password"
-msgstr ""
+msgstr "Anda harus login untuk mengubah kata sandi Anda"
 
 #: crm/fcrm/doctype/crm_form_script/crm_form_script.py:39
 msgid "You need to be in developer mode to edit a Standard Form Script"
@@ -7809,11 +7809,11 @@ msgstr "Anda harus berada dalam Mode pengembang untuk mengubah Skrip Formulir St
 
 #: frontend/src/components/Settings/AssignmentRules/AssigneeSearch.vue:152
 msgid "You will be redirected to invite user page, unsaved changes will be lost."
-msgstr ""
+msgstr "Anda akan diarahkan ke halaman mengundang pengguna, perubahan yang belum disimpan akan hilang."
 
 #: frontend/src/components/Settings/LeadSyncing/leadSyncSourceConfig.js:8
 msgid "You will need a Meta developer account and an access token to sync leads from Facebook. Read more"
-msgstr ""
+msgstr "Anda memerlukan akun pengembang Meta dan token akses untuk menyinkronkan prospek dari Facebook. Baca selengkapnya"
 
 #: crm/api/todo.py:100
 msgid "Your assignment on task {0} has been removed by {1}"
@@ -7829,11 +7829,11 @@ msgstr "Id login Anda"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:641
 msgid "Your old condition will be overwritten. Are you sure you want to save?"
-msgstr ""
+msgstr "Kondisi lama Anda akan ditimpa. Apakah Anda yakin ingin menyimpannya?"
 
 #: frontend/src/components/Settings/Sla/SlaPolicyView.vue:401
 msgid "Your old conditions will be overwritten. Are you sure you want to save?"
-msgstr ""
+msgstr "Kondisi lama Anda akan ditimpa. Apakah Anda yakin ingin menyimpannya?"
 
 #: frontend/src/components/Activities/CommentArea.vue:9
 msgid "added a"
@@ -7856,11 +7856,11 @@ msgstr "menetapkan tugas {0} {1} kepada Anda"
 
 #: frontend/src/components/Calendar/EventNotifications.vue:33
 msgid "at"
-msgstr ""
+msgstr "pada"
 
 #: frontend/src/components/Settings/CalendarSettings.vue:220
 msgid "before at"
-msgstr ""
+msgstr "sebelum pukul"
 
 #. Option for the 'Color' (Select) field in DocType 'CRM Deal Status'
 #. Option for the 'Color' (Select) field in DocType 'CRM Lead Status'
@@ -7886,15 +7886,15 @@ msgstr "komentar"
 
 #: crm/api/activities.py:54
 msgid "converted the lead to this deal"
-msgstr ""
+msgstr "mengonversi petunjuk ke kesepakatan ini"
 
 #: crm/api/activities.py:50
 msgid "created this deal"
-msgstr ""
+msgstr "menciptakan kesepakatan ini"
 
 #: crm/api/activities.py:202
 msgid "created this lead"
-msgstr ""
+msgstr "menciptakan petunjuk ini"
 
 #. Option for the 'Color' (Select) field in DocType 'CRM Deal Status'
 #. Option for the 'Color' (Select) field in DocType 'CRM Lead Status'
@@ -7912,7 +7912,7 @@ msgstr "hari"
 #: frontend/src/components/Calendar/EventNotifications.vue:175
 #: frontend/src/components/Calendar/EventNotifications.vue:194
 msgid "day before"
-msgstr ""
+msgstr "sehari sebelumnya"
 
 #: frontend/src/components/Calendar/EventNotifications.vue:244
 #: frontend/src/components/Settings/CalendarSettings.vue:119
@@ -7923,7 +7923,7 @@ msgstr "hari"
 #: frontend/src/components/Calendar/EventNotifications.vue:175
 #: frontend/src/components/Calendar/EventNotifications.vue:194
 msgid "days before"
-msgstr ""
+msgstr "hari sebelumnya"
 
 #: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:131
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:380
@@ -7938,7 +7938,7 @@ msgstr "meja"
 #. Option for the 'Service Provider' (Select) field in DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 msgid "exchangerate-api"
-msgstr ""
+msgstr "nilai tukar-api"
 
 #. Option for the 'Service Provider' (Select) field in DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
@@ -7948,7 +7948,7 @@ msgstr "exchangerate.host"
 #. Option for the 'Service Provider' (Select) field in DocType 'FCRM Settings'
 #: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json
 msgid "fawazahmed-exchange-api"
-msgstr ""
+msgstr "fawazahmed-exchange-api"
 
 #: frontend/src/components/FieldLayoutEditor.vue:157
 msgid "field"
@@ -8002,16 +8002,16 @@ msgstr "jam"
 
 #: frontend/src/components/Calendar/EventNotifications.vue:190
 msgid "hour before"
-msgstr ""
+msgstr "jam sebelumnya"
 
 #: frontend/src/components/Calendar/EventNotifications.vue:241
 #: frontend/src/components/Settings/CalendarSettings.vue:115
 msgid "hours"
-msgstr ""
+msgstr "jam"
 
 #: frontend/src/components/Calendar/EventNotifications.vue:190
 msgid "hours before"
-msgstr ""
+msgstr "jam sebelumnya"
 
 #: frontend/src/utils/index.js:178
 msgid "in 1 hour"
@@ -8112,7 +8112,7 @@ msgstr "menit"
 
 #: frontend/src/components/Calendar/EventNotifications.vue:186
 msgid "minute before"
-msgstr ""
+msgstr "menit sebelumnya"
 
 #: frontend/src/components/Calendar/EventNotifications.vue:59
 #: frontend/src/components/Calendar/EventNotifications.vue:120
@@ -8121,11 +8121,11 @@ msgstr ""
 #: frontend/src/components/Settings/CalendarSettings.vue:127
 #: frontend/src/components/Settings/CalendarSettings.vue:216
 msgid "minutes"
-msgstr ""
+msgstr "menit"
 
 #: frontend/src/components/Calendar/EventNotifications.vue:186
 msgid "minutes before"
-msgstr ""
+msgstr "menit sebelumnya"
 
 #: frontend/src/components/FieldLayoutEditor.vue:510
 msgid "next"
@@ -8137,7 +8137,7 @@ msgstr "sekarang"
 
 #: crm/api/activities.py:109 crm/api/activities.py:250
 msgid "old_value"
-msgstr ""
+msgstr "nilai_lama"
 
 #. Option for the 'Color' (Select) field in DocType 'CRM Deal Status'
 #. Option for the 'Color' (Select) field in DocType 'CRM Lead Status'
@@ -8219,23 +8219,23 @@ msgstr "minggu"
 #: frontend/src/components/Calendar/EventNotifications.vue:179
 #: frontend/src/components/Calendar/EventNotifications.vue:198
 msgid "week before"
-msgstr ""
+msgstr "minggu sebelumnya"
 
 #: frontend/src/components/Calendar/EventNotifications.vue:247
 #: frontend/src/components/Settings/CalendarSettings.vue:123
 #: frontend/src/components/Settings/CalendarSettings.vue:212
 msgid "weeks"
-msgstr ""
+msgstr "minggu"
 
 #: frontend/src/components/Calendar/EventNotifications.vue:179
 #: frontend/src/components/Calendar/EventNotifications.vue:198
 msgid "weeks before"
-msgstr ""
+msgstr "minggu sebelumnya"
 
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:193
 #: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:277
 msgid "which are not compatible with this UI, you will need to recreate the conditions here if you want to manage and add new conditions from this UI."
-msgstr ""
+msgstr "yang tidak kompatibel dengan UI ini, Anda perlu membuat ulang ketentuan di sini jika ingin mengelola dan menambahkan ketentuan baru dari UI ini."
 
 #. Option for the 'Color' (Select) field in DocType 'CRM Deal Status'
 #. Option for the 'Color' (Select) field in DocType 'CRM Lead Status'
