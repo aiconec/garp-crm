@@ -5,5 +5,5 @@
 from frappe.tests import UnitTestCase
 
 
-class TestERPNextCRMSettings(UnitTestCase):
+class TestGARPCRMSettings(UnitTestCase):
 	pass

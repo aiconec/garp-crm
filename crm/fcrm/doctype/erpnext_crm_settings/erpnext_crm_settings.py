@@ -22,13 +22,13 @@ def _log_and_throw(message: str, title: str | None = None):
 
 
 def _get_enabled_settings():
-	settings = frappe.get_single("ERPNext CRM Settings")
+	settings = frappe.get_single("GARP CRM Settings")
 	if not settings.enabled:
-		frappe.throw(_("ERPNext is not integrated with the CRM"))
+		frappe.throw(_("GARP ERP is not integrated with the CRM"))
 	return settings
 
 
-class ERPNextCRMSettings(Document):
+class GARPCRMSettings(Document):
 	# begin: auto-generated types
 	# This code is auto-generated. Do not modify anything in this block.
 
@@ -57,7 +57,7 @@ class ERPNextCRMSettings(Document):
 	def validate_if_erpnext_installed(self):
 		if not self.is_erpnext_in_different_site:
 			if not _is_erpnext_installed():
-				frappe.throw(_("ERPNext is not installed in the current site"))
+				frappe.throw(_("GARP ERP is not installed in the current site"))
 
 	def add_quotation_to_option(self):
 		if not self.is_erpnext_in_different_site:
@@ -78,7 +78,7 @@ class ERPNextCRMSettings(Document):
 
 				create_custom_fields_for_frappe_crm()
 			except ImportError:
-				frappe.throw(_("ERPNext is not installed in the current site"))
+				frappe.throw(_("GARP ERP is not installed in the current site"))
 		else:
 			self.create_custom_fields_in_remote_site()
 
@@ -90,7 +90,7 @@ class ERPNextCRMSettings(Document):
 				{
 					"fieldname": "erpnext_customer",
 					"fieldtype": "Data",
-					"label": "Customer in ERPNext",
+					"label": "Customer in GARP ERP",
 					"insert_after": "lead_name",
 				}
 			]
@@ -103,8 +103,8 @@ class ERPNextCRMSettings(Document):
 			client.post_api("erpnext.crm.frappe_crm_api.create_custom_fields_for_frappe_crm")
 		except Exception:
 			_log_and_throw(
-				"Error while creating custom field in ERPNext, check error log for more details",
-				f"Error while creating custom field in the remote erpnext site: {self.erpnext_site_url}",
+				"Error while creating custom field in GARP ERP, check error log for more details",
+				f"Error while creating custom field in the remote GARP ERP site: {self.erpnext_site_url}",
 			)
 
 	def create_crm_form_script(self):
@@ -177,7 +177,7 @@ def get_customer_link(crm_deal: str):
 		return ""
 	except Exception:
 		_log_and_throw(
-			"Error while fetching customer in ERPNext, check error log for more details",
+			"Error while fetching customer in GARP ERP, check error log for more details",
 			f"Error while fetching customer in remote site: {erpnext_crm_settings.erpnext_site_url}",
 		)
 
@@ -248,7 +248,7 @@ def create_prospect_in_remote_site(crm_deal, erpnext_crm_settings):
 		)
 	except Exception:
 		_log_and_throw(
-			"Error while creating prospect in ERPNext, check error log for more details",
+			"Error while creating prospect in GARP ERP, check error log for more details",
 			f"Error while creating prospect in remote site: {erpnext_crm_settings.erpnext_site_url}",
 		)
 
@@ -297,7 +297,7 @@ def get_organization_address(organization: str | None = None):
 
 
 def create_customer_in_erpnext(doc, method):
-	erpnext_crm_settings = frappe.get_single("ERPNext CRM Settings")
+	erpnext_crm_settings = frappe.get_single("GARP CRM Settings")
 	if (
 		not erpnext_crm_settings.enabled
 		or not erpnext_crm_settings.create_customer_on_status_change
@@ -328,7 +328,7 @@ def create_customer_in_erpnext(doc, method):
 			try:
 				from garperp.crm.frappe_crm_api import create_customer
 			except ImportError:
-				frappe.throw(_("ERPNext is not installed in the current site"))
+				frappe.throw(_("GARP ERP is not installed in the current site"))
 
 			customer_name = create_customer(customer_data)
 		else:
@@ -337,13 +337,13 @@ def create_customer_in_erpnext(doc, method):
 
 		if not customer_name:
 			_log_and_throw(
-				"Error while creating customer in ERPNext, check error log for more details",
-				f"Error while creating customer in ERPNext for CRM Deal: {doc.name}",
+				"Error while creating customer in GARP ERP, check error log for more details",
+				f"Error while creating customer in GARP ERP for CRM Deal: {doc.name}",
 			)
 	except frappe.ValidationError:
 		raise
 	except Exception:
-		_log_and_throw("Error while creating customer in ERPNext, check error log for more details")
+		_log_and_throw("Error while creating customer in GARP ERP, check error log for more details")
 
 	if customer_name:
 		frappe.db.set_value("CRM Deal", doc.name, "erpnext_customer", customer_name)
@@ -358,7 +358,7 @@ def get_crm_form_script():
 		call(
 			"frappe.client.get_single_value",
 			{
-				doctype: "ERPNext CRM Settings",
+				doctype: "GARP CRM Settings",
 				field: "enabled"
 			}
 		).then((enabled) => {
@@ -380,10 +380,10 @@ def get_crm_form_script():
 					if (quotation_url) {
 						window.open(quotation_url, '_blank');
 					} else {
-						toast.error("Error while creating quotation in ERPNext");
+						toast.error("Error while creating quotation in GARP ERP");
 					}
 				}).catch((e) => {
-					toast.error(e.messages[0] || "Error while creating quotation in ERPNext. Check error log in ERPNext for more details");
+					toast.error(e.messages[0] || "Error while creating quotation in GARP ERP. Check error log in GARP ERP for more details");
 				});
 			}
 		})
@@ -399,7 +399,7 @@ def get_crm_form_script():
 				});
 			}
 		}).catch((e) => {
-			toast.error(e.messages[0] || "Error while fetching customer link from ERPNext. Check error log in ERPNext for more details");
+			toast.error(e.messages[0] || "Error while fetching customer link from GARP ERP. Check error log in GARP ERP for more details");
 		});
 	}
 }
