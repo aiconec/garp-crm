@@ -669,7 +669,7 @@ msgstr "Apakah Anda yakin ingin kembali? Perubahan yang belum disimpan akan hila
 
 #: frontend/src/composables/frappecloud.js:24
 msgid "Are you sure you want to login to your Frappe Cloud dashboard?"
-msgstr "Apakah Anda yakin ingin masuk ke dasbor Frappe Cloud Anda?"
+msgstr "Apakah Anda yakin ingin masuk ke dasbor GARP Cloud Anda?"
 
 #: frontend/src/components/FieldLayoutEditor.vue:428
 msgid "Are you sure you want to remove this tab and all its content?"
@@ -1543,7 +1543,7 @@ msgstr "Nama Perusahaan"
 #. Label of the erpnext_company (Data) field in DocType 'ERPNext CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
 msgid "Company in ERPNext site"
-msgstr "Perusahaan di situs ERPNext"
+msgstr "Perusahaan di situs GARP ERP"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:476
 msgid "Company name is required"
@@ -1649,7 +1649,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:246
 msgid "Connect ERPNext to Frappe CRM"
-msgstr "Hubungkan ERPNext ke Frappe CRM"
+msgstr "Hubungkan GARP ERP ke GARP CRM"
 
 #: frontend/src/pages/Welcome.vue:35
 msgid "Connect your Email"
@@ -1852,7 +1852,7 @@ msgstr "Buat Acara"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:189
 msgid "Create customer in ERPNext when the deal status is changed"
-msgstr "Buat pelanggan di ERPNext ketika status kesepakatan diubah"
+msgstr "Buat pelanggan di GARP ERP ketika status kesepakatan diubah"
 
 #. Label of the create_customer_on_status_change (Check) field in DocType
 #. 'ERPNext CRM Settings'
@@ -2344,7 +2344,7 @@ msgstr "Nonaktifkan"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:397
 msgid "Disable ERPNext Integration"
-msgstr "Nonaktifkan Integrasi ERPNext"
+msgstr "Nonaktifkan Integrasi GARP ERP"
 
 #. Label of the disabled (Check) field in DocType 'CRM Product'
 #: crm/fcrm/doctype/crm_product/crm_product.json
@@ -2514,12 +2514,12 @@ msgstr "Durasi"
 #: frontend/src/components/Layouts/AppSidebar.vue:628
 #: frontend/src/components/Settings/Settings.vue:221
 msgid "ERPNext"
-msgstr "ERPNext"
+msgstr "GARP ERP"
 
 #. Name of a DocType
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
 msgid "ERPNext CRM Settings"
-msgstr "Pengaturan CRM ERPNext"
+msgstr "Pengaturan CRM GARP ERP"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:3
 #: frontend/src/components/Settings/ERPNextSettings.vue:9
@@ -2530,26 +2530,26 @@ msgstr "Pengaturan ERPBerikutnya"
 #. CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
 msgid "ERPNext Site API's"
-msgstr "API Situs ERPNext"
+msgstr "API Situs GARP ERP"
 
 #. Label of the erpnext_site_url (Data) field in DocType 'ERPNext CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
 msgid "ERPNext Site URL"
-msgstr "URL Situs ERPNext"
+msgstr "URL Situs GARP ERP"
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:60
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:81
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:331
 msgid "ERPNext is not installed in the current site"
-msgstr "ERPNext tidak terpasang di situs ini"
+msgstr "GARP ERP tidak terpasang di situs ini"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:71
 msgid "ERPNext is not installed on this site either install it or enter the URL of your ERPNext site to connect"
-msgstr "ERPNext tidak diinstal di situs ini, instal saja atau masukkan URL situs ERPNext Anda untuk terhubung"
+msgstr "GARP ERP tidak diinstal di situs ini, instal saja atau masukkan URL situs GARP ERP Anda untuk terhubung"
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:27
 msgid "ERPNext is not integrated with the CRM"
-msgstr "ERPNext tidak terintegrasi dengan CRM"
+msgstr "GARP ERP tidak terintegrasi dengan CRM"
 
 #: frontend/src/components/FieldLayout/Field.vue:109
 #: frontend/src/components/FieldLayoutEditor.vue:414
@@ -2795,7 +2795,7 @@ msgstr "Aktifkan rekaman panggilan untuk panggilan masuk dan keluar"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:250
 msgid "Enable the integration to create quotations and auto create customers in ERPNext."
-msgstr "Aktifkan integrasi untuk membuat penawaran harga dan membuat pelanggan secara otomatis di ERPNext."
+msgstr "Aktifkan integrasi untuk membuat penawaran harga dan membuat pelanggan secara otomatis di GARP ERP."
 
 #. Label of the enabled (Check) field in DocType 'CRM Exotel Settings'
 #. Label of the enabled (Check) field in DocType 'CRM Form Script'
@@ -3395,15 +3395,15 @@ msgstr "Skrip formulir berhasil diperbarui"
 #. Name of a Workspace
 #: crm/fcrm/workspace/frappe_crm/frappe_crm.json
 msgid "Frappe CRM"
-msgstr "Frappe CRM"
+msgstr "GARP CRM"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:632
 msgid "Frappe CRM mobile"
-msgstr "Frappe CRM mobile"
+msgstr "GARP CRM mobile"
 
 #: frontend/src/components/Settings/emailConfig.js:81
 msgid "Frappe Mail Site"
-msgstr "Situs Frappe Mail"
+msgstr "Situs GARP Mail"
 
 #. Option for the 'Weekly Off' (Select) field in DocType 'CRM Holiday List'
 #. Option for the 'Workday' (Select) field in DocType 'CRM Service Day'
@@ -3930,7 +3930,7 @@ msgstr "Default"
 #. CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
 msgid "Is ERPNext installed on a different site?"
-msgstr "ERPNext terpasang di situs berbeda?"
+msgstr "GARP ERP terpasang di situs berbeda?"
 
 #. Label of the is_group (Check) field in DocType 'CRM Territory'
 #: crm/fcrm/doctype/crm_territory/crm_territory.json
@@ -4341,7 +4341,7 @@ msgstr "Catat Panggilan"
 
 #: frontend/src/composables/frappecloud.js:23
 msgid "Login to Frappe Cloud?"
-msgstr "Masuk ke Frappe Cloud?"
+msgstr "Masuk ke GARP Cloud?"
 
 #: frontend/src/pages/NotPermitted.vue:21
 msgid "Login with Different Account"
@@ -4451,7 +4451,7 @@ msgstr "Kelola pengguna CRM dengan menambah atau mengundang mereka, dan berikan 
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:4
 msgid "Manage ERPNext integration settings"
-msgstr "Kelola pengaturan integrasi ERPNext"
+msgstr "Kelola pengaturan integrasi GARP ERP"
 
 #: frontend/src/components/Settings/Profile/ProfileSettings.vue:96
 msgid "Manage your account emails and email signature for communication."
@@ -5912,7 +5912,7 @@ msgstr "Reset Perubahan"
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.js:7
 msgid "Reset ERPNext Form Script"
-msgstr "Reset Skrip Formulir ERPNext"
+msgstr "Reset Skrip Formulir GARP ERP"
 
 #: frontend/src/components/ColumnSettings.vue:86
 #: frontend/src/pages/Dashboard.vue:28
@@ -6365,7 +6365,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:217
 msgid "Select the deal status to trigger the auto customer creation in ERPNext"
-msgstr "Pilih status transaksi untuk memicu pembuatan pelanggan otomatis di ERPNext"
+msgstr "Pilih status transaksi untuk memicu pembuatan pelanggan otomatis di GARP ERP"
 
 #: frontend/src/components/Settings/CalendarSettings.vue:37
 msgid "Select the default view for your calendar. This will be the initial view when you open the calendar"
@@ -6377,7 +6377,7 @@ msgstr "Pilih apakah akan menampilkan waktu dengan atau tanpa detik"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:133
 msgid "Select your ERPNext company to connect with"
-msgstr "Pilih perusahaan ERPNext Anda untuk dihubungkan"
+msgstr "Pilih perusahaan GARP ERP Anda untuk dihubungkan"
 
 #: frontend/src/components/FieldLayout/Field.vue:514
 msgid "Select {0}"
@@ -6516,7 +6516,7 @@ msgstr "Pengaturan berhasil diaktifkan"
 
 #: frontend/src/components/Settings/emailConfig.js:158
 msgid "Setting up Frappe Mail requires you to have an API key and API Secret of your email account. Read more"
-msgstr "Untuk mengatur Frappe Mail, Anda harus memiliki API key dan API Secret dari akun email Anda. Baca selengkapnya"
+msgstr "Untuk mengatur GARP Mail, Anda harus memiliki API key dan API Secret dari akun email Anda. Baca selengkapnya"
 
 #: frontend/src/components/Settings/emailConfig.js:104
 msgid "Setting up GMail requires you to enable two factor authentication and app specific passwords. Read more"
@@ -7781,7 +7781,7 @@ msgstr "Anda belum mengatur Nomor Exotel di Agen Telepon Anda"
 
 #: frontend/src/pages/NotPermitted.vue:12
 msgid "You do not have enough permissions to access Frappe CRM. Please contact your administrator if you believe this is an error."
-msgstr "Anda tidak memiliki izin yang cukup untuk mengakses Frappe CRM. Silakan hubungi administrator Anda jika Anda yakin ini adalah kesalahan."
+msgstr "Anda tidak memiliki izin yang cukup untuk mengakses GARP CRM. Silakan hubungi administrator Anda jika Anda yakin ini adalah kesalahan."
 
 #: crm/integrations/exotel/handler.py:92
 msgid "You do not have mobile number set in your Telephony Agent"
@@ -7789,7 +7789,7 @@ msgstr "Anda belum mengatur nomor ponsel di Agen Telepon Anda"
 
 #: crm/www/crm.py:18
 msgid "You do not have permission to access Frappe CRM"
-msgstr "Anda tidak memiliki izin untuk mengakses Frappe CRM"
+msgstr "Anda tidak memiliki izin untuk mengakses GARP CRM"
 
 #: frontend/src/data/document.js:41
 msgid "You do not have permission to access this document"
