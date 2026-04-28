@@ -74,7 +74,7 @@ class ERPNextCRMSettings(Document):
 	def create_custom_fields(self):
 		if not self.is_erpnext_in_different_site:
 			try:
-				from erpnext.crm.frappe_crm_api import create_custom_fields_for_frappe_crm
+				from garperp.crm.frappe_crm_api import create_custom_fields_for_frappe_crm
 
 				create_custom_fields_for_frappe_crm()
 			except ImportError:
@@ -326,7 +326,7 @@ def create_customer_in_erpnext(doc, method):
 	try:
 		if not erpnext_crm_settings.is_erpnext_in_different_site:
 			try:
-				from erpnext.crm.frappe_crm_api import create_customer
+				from garperp.crm.frappe_crm_api import create_customer
 			except ImportError:
 				frappe.throw(_("ERPNext is not installed in the current site"))
 
