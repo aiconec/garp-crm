@@ -5,7 +5,7 @@ app_description = "Kick-ass Open Source CRM"
 app_email = "engineering@aiconec.com"
 app_license = "AGPLv3"
 app_icon_url = "/assets/crm/images/garp-crm-icon.svg"
-app_icon_title = "CRM"
+app_icon_title = "GARP CRM"
 app_icon_route = "/crm"
 
 # Apps
@@ -16,7 +16,7 @@ add_to_apps_screen = [
 	{
 		"name": "crm",
 		"logo": "/assets/crm/images/garp-crm-icon.svg",
-		"title": "CRM",
+		"title": "GARP CRM",
 		"route": "/crm",
 		"has_permission": "crm.api.check_app_permission",
 	}
