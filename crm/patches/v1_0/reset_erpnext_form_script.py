@@ -1,6 +1,6 @@
 import frappe
 
-from crm.fcrm.doctype.erpnext_crm_settings.erpnext_crm_settings import get_crm_form_script
+from crm.fcrm.doctype.garp_crm_settings.garp_crm_settings import get_crm_form_script
 
 
 def execute():

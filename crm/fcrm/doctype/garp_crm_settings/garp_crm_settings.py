@@ -371,7 +371,7 @@ def get_crm_form_script():
 			label: __("Create Quotation"),
 			onClick: () => {
 				call(
-					"crm.fcrm.doctype.erpnext_crm_settings.erpnext_crm_settings.get_quotation_url",
+					"crm.fcrm.doctype.garp_crm_settings.garp_crm_settings.get_quotation_url",
 					{
 						crm_deal: this.doc.name,
 						organization: this.doc.organization
@@ -389,7 +389,7 @@ def get_crm_form_script():
 		})
 
 		// Add View Customer Button
-		call("crm.fcrm.doctype.erpnext_crm_settings.erpnext_crm_settings.get_customer_link", {
+		call("crm.fcrm.doctype.garp_crm_settings.garp_crm_settings.get_customer_link", {
 			crm_deal: this.doc.name
 		}).then((customer_url) => {
 			if (customer_url) {

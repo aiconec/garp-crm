@@ -284,8 +284,8 @@ import { globalStore } from '@/stores/global'
 const { $dialog } = globalStore()
 
 const erpnextCRMSettingsResource = createDocumentResource({
-  doctype: 'ERPNext CRM Settings',
-  name: 'ERPNext CRM Settings',
+  doctype: 'GARP CRM Settings',
+  name: 'GARP CRM Settings',
   whitelistedMethods: {
     isERPNextInstalled: 'is_erpnext_installed',
     getExternalCompanies: {
