@@ -218,7 +218,7 @@ const tabs = computed(() => {
           condition: () => isWhatsappInstalled.value && isManager(),
         },
         {
-          label: __('GARP ERP'),
+          label: __('ERPNext'),
           icon: ERPNextIcon,
           component: markRaw(ERPNextSettings),
           condition: () => isManager(),
