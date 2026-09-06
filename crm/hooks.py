@@ -1,9 +1,12 @@
 app_name = "crm"
 app_title = "GARP CRM"
 app_publisher = "Aiconec GARP"
-app_description = "Kick-ass Open Source CRM"
+app_description = "GARP CRM — customer relationships, deals and pipelines"
 app_email = "engineering@aiconec.com"
 app_license = "AGPLv3"
+# AGPL-3.0 section 13: this app is a modified version served over a network,
+# so its users are owed the corresponding source of THIS version.
+source_link = "https://github.com/aiconec/garp-crm"
 app_icon_url = "/assets/crm/images/garp-crm-icon.svg"
 app_icon_title = "CRM"
 app_icon_route = "/crm"
