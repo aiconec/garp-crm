@@ -135,11 +135,12 @@
       v-model="showHelpModal"
       v-model:articles="articles"
       :logo="CRMLogo"
+      title="GARP CRM"
       :afterSkip="(step) => capture('onboarding_step_skipped_' + step)"
       :afterSkipAll="() => capture('onboarding_steps_skipped')"
       :afterReset="(step) => capture('onboarding_step_reset_' + step)"
       :afterResetAll="() => capture('onboarding_steps_reset')"
-      docsLink="https://docs.frappe.io/crm"
+      docsLink="https://garp.aiconec.com/docs"
     />
     <IntermediateStepModal
       v-model="showIntermediateModal"
