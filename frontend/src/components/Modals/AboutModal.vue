@@ -4,9 +4,16 @@
       <div class="p-4 pt-5">
         <div class="flex justify-center">
           <div class="flex flex-col items-center">
-            <CRMLogo class="mb-3 size-12" />
+            <img
+              v-if="brand.logo"
+              :src="brand.logo"
+              class="mb-3 size-12 rounded object-cover"
+            />
+            <CRMLogo v-else class="mb-3 size-12" />
             <Dialog.Title as-child>
-              <h3 class="text-2xl-semibold text-ink-gray-9">Frappe CRM</h3>
+              <h3 class="text-2xl-semibold text-ink-gray-9">
+                {{ brand.name || 'Frappe CRM' }}
+              </h3>
             </Dialog.Title>
           </div>
         </div>
@@ -45,8 +52,11 @@ import LucideHeadset from '~icons/lucide/headset'
 import LucideBug from '~icons/lucide/bug'
 import LucideBookOpen from '~icons/lucide/book-open'
 import { Dialog } from 'frappe-ui'
+import { getSettings } from '@/stores/settings'
 
 let show = defineModel({ type: Boolean })
+
+const { brand } = getSettings()
 
 let links = [
   {
