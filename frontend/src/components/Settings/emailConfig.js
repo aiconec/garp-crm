@@ -6,7 +6,6 @@ import LogoSendgrid from '@/images/sendgrid.png'
 import LogoSparkpost from '@/images/sparkpost.webp'
 import LogoYahoo from '@/images/yahoo.png'
 import LogoYandex from '@/images/yandex.png'
-import LogoFrappeMail from '@/images/frappe-mail.svg'
 
 const fixedFields = [
   {
@@ -171,7 +170,6 @@ export const emailIcon = {
   SparkPost: LogoSparkpost,
   Yahoo: LogoYahoo,
   Yandex: LogoYandex,
-  'Frappe Mail': LogoFrappeMail,
 }
 
 export function validateInputs(state, isCustom) {

@@ -12,7 +12,7 @@
             <CRMLogo v-else class="mb-3 size-12" />
             <Dialog.Title as-child>
               <h3 class="text-2xl-semibold text-ink-gray-9">
-                {{ brand.name || 'Frappe CRM' }}
+                {{ brand.name || 'GARP CRM' }}
               </h3>
             </Dialog.Title>
           </div>
@@ -38,7 +38,7 @@
         </div>
         <hr class="border-t my-3 mx-2" />
         <p class="text-sm text-ink-gray-6 px-2 mt-2">
-          © Frappe Technologies Pvt. Ltd. and contributors
+          © Frappe Technologies Pvt. Ltd., © AICONEC and contributors
         </p>
       </div>
     </template>
@@ -46,10 +46,8 @@
 </template>
 <script setup>
 import CRMLogo from '@/components/Icons/CRMLogo.vue'
-import GitHubIcon from '@/components/Icons/GitHubIcon.vue'
 import LucideGlobe from '~icons/lucide/globe'
 import LucideHeadset from '~icons/lucide/headset'
-import LucideBug from '~icons/lucide/bug'
 import LucideBookOpen from '~icons/lucide/book-open'
 import { Dialog } from 'frappe-ui'
 import { getSettings } from '@/stores/settings'
@@ -61,27 +59,17 @@ const { brand } = getSettings()
 let links = [
   {
     label: __('Website'),
-    url: 'https://frappe.io/crm',
+    url: 'https://aiconec.com',
     icon: LucideGlobe,
   },
   {
-    label: __('GitHub Repository'),
-    url: 'https://github.com/frappe/crm',
-    icon: GitHubIcon,
-  },
-  {
     label: __('Documentation'),
-    url: 'https://docs.frappe.io/crm',
+    url: 'https://garp.aiconec.com/docs/modules/crm',
     icon: LucideBookOpen,
   },
   {
-    label: __('Report an Issue'),
-    url: 'https://github.com/frappe/crm/issues',
-    icon: LucideBug,
-  },
-  {
     label: __('Contact Support'),
-    url: 'https://support.frappe.io',
+    url: 'https://aiconec.com/support',
     icon: LucideHeadset,
   },
 ]
