@@ -127,7 +127,7 @@ class ERPNextCRMSettings(Document):
 				{
 					"fieldname": "crm_deal",
 					"fieldtype": "Data",
-					"label": "Frappe CRM Deal",
+					"label": "GARP CRM Deal",
 					"read_only": 1,
 					"insert_after": "party_name",
 				}
@@ -137,7 +137,7 @@ class ERPNextCRMSettings(Document):
 				{
 					"fieldname": "crm_deal",
 					"fieldtype": "Data",
-					"label": "Frappe CRM Deal",
+					"label": "GARP CRM Deal",
 					"read_only": 1,
 					"insert_after": "prospect_name",
 				}
@@ -155,8 +155,8 @@ class ERPNextCRMSettings(Document):
 			)
 			frappe.msgprint(
 				_(
-					"Could not create the Frappe CRM custom fields on {0} automatically. "
-					"If it is running the latest ERPNext, enable <b>Frappe CRM Data Synchronization</b> "
+					"Could not create the GARP CRM custom fields on {0} automatically. "
+					"If it is running the latest GARP ERP, enable <b>Enable GARP CRM Data Synchronization</b> "
 					"in its CRM Settings, Otherwise check the Error Log."
 				).format(self.erpnext_site_url),
 				title=_("ERPNext custom fields not created"),
