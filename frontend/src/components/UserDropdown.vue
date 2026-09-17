@@ -140,7 +140,10 @@ function getStandardItem(item) {
         icon: h(FrappeCloudIcon),
         label: __(item.label),
         onClick: () => confirmLoginToFrappeCloud(),
-        condition: () => !isMobileView.value && window.is_fc_site,
+        // GARP is not hosted on Frappe Cloud: never offer to log in there, even if a site's config says otherwise.
+        // The entry itself is standard hook data that CRM re-syncs on migrate,
+        // so it is hidden here rather than deleted.
+        condition: () => false,
       }
     case 'about':
       return {
