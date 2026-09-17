@@ -29,7 +29,16 @@
         </div>
         <hr class="border-t my-3 mx-2" />
         <p class="text-sm text-ink-gray-6 px-2 mt-2">
-          © Frappe Technologies Pvt. Ltd. and contributors
+          <!-- Upstream copyright, licence and no-warranty notices live on the
+               licences page; this link is how the dialog displays them. -->
+          © AICONEC and contributors ·
+          <a
+            href="https://garp.aiconec.com/docs/licences"
+            target="_blank"
+            class="underline underline-offset-2 hover:text-ink-gray-8"
+          >
+            Licences
+          </a>
         </p>
       </div>
     </template>
