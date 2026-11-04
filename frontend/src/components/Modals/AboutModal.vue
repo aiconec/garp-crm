@@ -42,7 +42,7 @@
                licences page; this link is how the dialog displays them. -->
           © AICONEC and contributors ·
           <a
-            href="https://garp.aiconec.com/docs/licences"
+            href="https://bizconnect.id/docs/licences"
             target="_blank"
             class="underline underline-offset-2 hover:text-ink-gray-8"
           >
@@ -73,7 +73,7 @@ let links = [
   },
   {
     label: __('Documentation'),
-    url: 'https://garp.aiconec.com/docs/modules/crm',
+    url: 'https://bizconnect.id/docs/modules/crm',
     icon: LucideBookOpen,
   },
   {

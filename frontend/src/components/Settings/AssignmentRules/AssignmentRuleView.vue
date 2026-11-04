@@ -152,7 +152,7 @@
               }}
               <a
                 class="font-medium underline"
-                href="https://garp.aiconec.com/docs/modules/crm/assignment-rule"
+                href="https://bizconnect.id/docs/modules/crm/assignment-rule"
                 target="_blank"
                 >{{ __('Learn about conditions') }}</a
               >
@@ -232,7 +232,7 @@
               }}
               <a
                 class="font-medium underline"
-                href="https://garp.aiconec.com/docs/modules/crm/assignment-rule"
+                href="https://bizconnect.id/docs/modules/crm/assignment-rule"
                 target="_blank"
                 >{{ __('Learn about conditions') }}</a
               >
