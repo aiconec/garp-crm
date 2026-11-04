@@ -140,7 +140,7 @@
       :afterSkipAll="() => capture('onboarding_steps_skipped')"
       :afterReset="(step) => capture('onboarding_step_reset_' + step)"
       :afterResetAll="() => capture('onboarding_steps_reset')"
-      docsLink="https://garp.aiconec.com/docs"
+      docsLink="https://bizconnect.id/docs"
     />
     <IntermediateStepModal
       v-model="showIntermediateModal"
