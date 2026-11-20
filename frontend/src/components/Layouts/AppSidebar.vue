@@ -374,6 +374,6 @@ function onNotificationsClick(event) {
 }
 
 function openDocs() {
-  window.open('https://docs.frappe.io/crm', '_blank', 'noopener')
+  window.open('https://bizconnect.id/docs/modules/crm', '_blank', 'noopener')
 }
 </script>

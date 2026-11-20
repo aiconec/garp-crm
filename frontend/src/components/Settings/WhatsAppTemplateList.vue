@@ -40,7 +40,7 @@
           __('Create one, or sync the templates already on your Meta account.')
         "
         :icon="WhatsAppIcon"
-        docsLink="https://docs.frappe.io/crm/whatsapp"
+        docsLink="https://bizconnect.id/docs/modules/crm"
         @create="emit('create')"
       />
       <div v-else class="-mx-2 overflow-y-auto">

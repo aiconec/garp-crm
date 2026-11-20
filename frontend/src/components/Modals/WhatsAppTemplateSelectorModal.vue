@@ -82,7 +82,7 @@
         :icon="WhatsAppIcon"
         top="15%"
         width="lg"
-        docsLink="https://docs.frappe.io/crm/whatsapp"
+        docsLink="https://bizconnect.id/docs/modules/crm"
         :onCreate="isManager() ? newWhatsAppTemplate : null"
       />
       <!-- in the body rather than `#actions`, whose padding leaves a band of space under the grid -->
