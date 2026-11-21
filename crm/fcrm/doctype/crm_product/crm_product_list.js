@@ -2,7 +2,7 @@ frappe.listview_settings["CRM Product"] = {
   onload(listview) {
     listview.page.set_primary_action(__("Add CRM Product"), async () => {
       const enabled = await frappe.db.get_single_value(
-        "ERPNext CRM Settings",
+        "GARP CRM Settings",
         "enabled"
       );
       if (enabled) {

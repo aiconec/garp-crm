@@ -11,7 +11,7 @@ def enable_product_sync():
 	Mirrors what configuring the integration does, so the sync hooks and the
 	``erpnext_item_code`` / ``crm_product_code`` custom fields are in place.
 	"""
-	settings = frappe.get_single("ERPNext CRM Settings")
+	settings = frappe.get_single("GARP CRM Settings")
 	settings.enabled = 1
 	settings.is_erpnext_in_different_site = 0
 	settings.sync_products = 1
@@ -23,8 +23,8 @@ def enable_product_sync():
 
 
 def set_bidirectional_product_sync(value):
-	frappe.db.set_single_value("ERPNext CRM Settings", "sync_products", value)
-	frappe.clear_document_cache("ERPNext CRM Settings", "ERPNext CRM Settings")
+	frappe.db.set_single_value("GARP CRM Settings", "sync_products", value)
+	frappe.clear_document_cache("GARP CRM Settings", "GARP CRM Settings")
 
 
 class TestReverseLinkField(FrappeTestCase):
@@ -156,7 +156,7 @@ class TestReconcileJob(FrappeTestCase):
 		enable_product_sync()
 		frappe.db.delete("CRM Product", {"product_code": ["like", "JOB-%"]})
 		frappe.db.delete("Item", {"item_code": ["like", "JOB-%"]})
-		settings = frappe.get_single("ERPNext CRM Settings")
+		settings = frappe.get_single("GARP CRM Settings")
 		settings.sync_issues = []
 		settings.save(ignore_permissions=True)
 
@@ -205,7 +205,7 @@ class TestReconcileJob(FrappeTestCase):
 		self.assertIsNone(frappe.db.get_value("CRM Product", "JOB-ORPHAN", "erpnext_item_code"))
 		issues = frappe.get_all(
 			"CRM Product Sync Issue",
-			filters={"parent": "ERPNext CRM Settings", "product": "JOB-ORPHAN"},
+			filters={"parent": "GARP CRM Settings", "product": "JOB-ORPHAN"},
 			fields=["kind"],
 		)
 		self.assertEqual(len(issues), 1)
@@ -224,8 +224,8 @@ class TestReconcileJob(FrappeTestCase):
 
 	@staticmethod
 	def _set_cross_site(value):
-		frappe.db.set_single_value("ERPNext CRM Settings", "is_erpnext_in_different_site", value)
-		frappe.clear_document_cache("ERPNext CRM Settings", "ERPNext CRM Settings")
+		frappe.db.set_single_value("GARP CRM Settings", "is_erpnext_in_different_site", value)
+		frappe.clear_document_cache("GARP CRM Settings", "GARP CRM Settings")
 
 
 class TestCRMToERPNextCreate(FrappeTestCase):

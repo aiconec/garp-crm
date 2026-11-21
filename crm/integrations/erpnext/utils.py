@@ -8,9 +8,9 @@ ALLOWED_DOCTYPES = ("CRM Product", "Item")
 
 def should_sync() -> bool:
 	"""ERPNext Item to CRM Product sync runs when same-site integration is enabled."""
-	if "erpnext" not in frappe.get_installed_apps():
+	if "garperp" not in frappe.get_installed_apps():
 		return False
-	settings = frappe.get_cached_doc("ERPNext CRM Settings")
+	settings = frappe.get_cached_doc("GARP CRM Settings")
 	return bool(settings.enabled) and not settings.is_erpnext_in_different_site
 
 
@@ -18,7 +18,7 @@ def should_push_to_erpnext() -> bool:
 	"""CRM Product to ERPNext Item sync is optional until CRM supports ERPNext tax details."""
 	if not should_sync():
 		return False
-	settings = frappe.get_cached_doc("ERPNext CRM Settings")
+	settings = frappe.get_cached_doc("GARP CRM Settings")
 	return bool(settings.sync_products)
 
 

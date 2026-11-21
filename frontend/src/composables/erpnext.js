@@ -5,7 +5,7 @@ import { ref } from 'vue'
 export const canViewQuotations = ref(false)
 
 createResource({
-  url: 'crm.fcrm.doctype.erpnext_crm_settings.erpnext_crm_settings.can_view_quotations',
+  url: 'crm.fcrm.doctype.garp_crm_settings.garp_crm_settings.can_view_quotations',
   cache: 'Can View Quotations',
   auto: true,
   onSuccess: (data) => {

@@ -248,7 +248,7 @@
       )
     "
     :filtered="!!Object.keys(leads.params?.filters || {}).length"
-    docsLink="https://docs.frappe.io/crm/lead"
+    docsLink="https://bizconnect.id/docs/modules/crm"
     importDoctype="CRM Lead"
     @create="showLeadModal = true"
   />

@@ -4,7 +4,7 @@
       <div class="flex flex-col items-center gap-3">
         <CRMLogo class="size-10 rounded-6" />
         <p class="text-2xl font-semibold text-ink-gray-9">
-          {{ __('Login to Frappe CRM') }}
+          {{ __('Login to GARP CRM') }}
         </p>
       </div>
       <div class="flex flex-col gap-4">

@@ -55,7 +55,7 @@
       <SetupTelemetryConsent class="mb-3" />
       <footer class="flex items-center gap-2 text-sm text-ink-gray-5">
         <CRMLogo class="size-4" />
-        Frappe CRM
+        GARP CRM
       </footer>
     </section>
     <SetupPreview
@@ -224,7 +224,7 @@ async function markSetupDone() {
   }
 }
 
-usePageMeta(() => ({ title: __('Set up Frappe CRM') }))
+usePageMeta(() => ({ title: __('Set up GARP CRM') }))
 </script>
 
 <style scoped>

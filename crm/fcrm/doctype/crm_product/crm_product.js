@@ -5,7 +5,7 @@ frappe.ui.form.on("CRM Product", {
   onload: function (frm) {
     if (!frm.is_new()) return;
     frappe.db
-      .get_single_value("ERPNext CRM Settings", "enabled")
+      .get_single_value("GARP CRM Settings", "enabled")
       .then((enabled) => {
         if (!enabled) return;
         frappe.show_alert({

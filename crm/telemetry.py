@@ -44,7 +44,7 @@ def count_synced_leads(days: int | None = None) -> int:
 
 
 def product_sync_state() -> dict:
-	settings = frappe.get_cached_doc("ERPNext CRM Settings")
+	settings = frappe.get_cached_doc("GARP CRM Settings")
 
 	state = {
 		"erpnext_sync_enabled": bool(settings.enabled),

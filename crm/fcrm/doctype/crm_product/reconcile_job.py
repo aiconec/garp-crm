@@ -19,7 +19,7 @@ def enqueue_reconciliation():
 
 
 def run_reconciliation() -> dict:
-	settings = frappe.get_single("ERPNext CRM Settings")
+	settings = frappe.get_single("GARP CRM Settings")
 	skip_reason = _get_skip_reason(settings)
 	if skip_reason:
 		return {"skipped": skip_reason}

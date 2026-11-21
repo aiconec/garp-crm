@@ -6,7 +6,6 @@ import LogoSendgrid from '../../../public/images/sendgrid.png'
 import LogoSparkpost from '../../../public/images/sparkpost.webp'
 import LogoYahoo from '../../../public/images/yahoo.png'
 import LogoYandex from '../../../public/images/yandex.png'
-import LogoFrappeMail from '../../../public/images/frappe-mail.svg'
 
 const fixedFields = [
   {
@@ -99,15 +98,6 @@ export const customProviderFields = [
 
 export const services = [
   {
-    name: 'Frappe Mail',
-    icon: LogoFrappeMail,
-    info: __(
-      'Setting up Frappe Mail requires you to have an API key and API secret for your email account. Read more',
-    ),
-    link: 'https://github.com/frappe/mail',
-    custom: true,
-  },
-  {
     name: 'GMail',
     label: 'Gmail',
     icon: LogoGmail,
@@ -171,7 +161,6 @@ export const emailIcon = {
   SparkPost: LogoSparkpost,
   Yahoo: LogoYahoo,
   Yandex: LogoYandex,
-  'Frappe Mail': LogoFrappeMail,
 }
 
 export function validateInputs(state, isCustom) {

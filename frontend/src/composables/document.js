@@ -20,7 +20,7 @@ async function shouldCreateProductInERPNext() {
 
 function getERPNextSetting(field) {
   return call('frappe.client.get_single_value', {
-    doctype: 'ERPNext CRM Settings',
+    doctype: 'GARP CRM Settings',
     field,
   })
 }

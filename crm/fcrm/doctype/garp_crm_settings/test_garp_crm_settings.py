@@ -5,5 +5,5 @@
 from crm.tests import CRMTestCase as FrappeTestCase
 
 
-class TestERPNextCRMSettings(FrappeTestCase):
+class TestGARPCRMSettings(FrappeTestCase):
 	pass

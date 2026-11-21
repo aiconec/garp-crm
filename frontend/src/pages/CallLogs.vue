@@ -59,7 +59,7 @@
       )
     "
     :filtered="!!Object.keys(callLogs.params?.filters || {}).length"
-    docsLink="https://docs.frappe.io/crm/call-log"
+    docsLink="https://bizconnect.id/docs/modules/crm"
     @create="createCallLog()"
   />
   <CallLogDetailModal

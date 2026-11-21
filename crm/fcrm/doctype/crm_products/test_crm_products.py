@@ -6,13 +6,13 @@ import frappe
 from crm.tests import CRMTestCase as FrappeTestCase
 
 # These exercise ERPNext's pricing API; skip when erpnext isn't importable.
-ERPNEXT_INSTALLED = find_spec("erpnext") is not None
+ERPNEXT_INSTALLED = find_spec("garperp") is not None
 
 
 @unittest.skipUnless(ERPNEXT_INSTALLED, "erpnext not installed")
 class TestGetDealProductRate(FrappeTestCase):
 	def _fake_get_item_price(self, captured, result):
-		from erpnext.stock import get_item_details
+		from garperp.stock import get_item_details
 
 		def fake(pctx, item_code, **kwargs):
 			captured.update(pctx=pctx, item_code=item_code)

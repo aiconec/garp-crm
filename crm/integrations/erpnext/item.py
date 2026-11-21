@@ -18,7 +18,7 @@ def _should_sync(doc) -> bool:
 
 
 def get_item_price_rate(item_code: str, uom: str | None = None):
-	from erpnext.stock.get_item_details import get_item_price
+	from garperp.stock.get_item_details import get_item_price
 
 	price_list = frappe.db.get_single_value("Selling Settings", "selling_price_list")
 	if not price_list:

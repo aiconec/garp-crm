@@ -75,7 +75,7 @@ const props = defineProps({
 })
 
 const quotations = createResource({
-  url: 'crm.fcrm.doctype.erpnext_crm_settings.erpnext_crm_settings.get_deal_quotations',
+  url: 'crm.fcrm.doctype.garp_crm_settings.garp_crm_settings.get_deal_quotations',
   params: { crm_deal: props.deal },
   auto: true,
 })

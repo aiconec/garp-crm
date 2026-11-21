@@ -1,0 +1,1593 @@
+ (New), (Baru)
+%John%,%John%
+(No Title),(Tanpa Judul)
+01/01/2022 to 01/31/2022,01/01/2022 hingga 31/01/2022
+01/04/2024 11:30 PM,04/01/2024 23:30
+08:00 AM,08:00
+08:00 pm,20:00
+1 hour ago,1 jam yang lalu
+1 hr,1 jam
+1 minute ago,1 menit yang lalu
+1 month ago,1 bulan lalu
+1 week ago,1 minggu yang lalu
+1 year ago,1 tahun yang lalu
+1-10,1-10
+1000+,1000+
+11-50,11-50
+201-500,201-500
+501-1000,501-1000
+51-200,51-200
+<b>META</b>,<b>META</b>
+<b>SHORTCUTS</b>,<b>PINTASAN</b>
+"<p>Dear {{ lead_name }},</p>\n\n<p>This is a reminder for the payment of {{ grand_total }}.</p>\n\n<p>Thanks,</p>\n<p>Frappé</p>","<p>Yang Terhormat {{ lead_name }},</p>\n\n<p>Dengan ini, kami ingin mengingatkan mengenai pembayaran sebesar {{ grand_total }}.</p>\n\n<p>Hormat kami,</p>\n<p>Frappé</p>"
+"<span class=""h5""><b>PORTAL</b></span>","<span class=""h5""><b>PORTAL</b></span>"
+"@John, can you please check this?","@John, tolong periksa ini, ya?"
+A Lead requires either a person's name or an organization's name,Sebuah Prospek harus memiliki nama orang atau nama organisasi
+A lead sync source is already enabled for this Facebook Lead Form!,Sumber sinkronisasi prospek sudah diaktifkan untuk Formulir Prospek Facebook ini!
+A new account has been created for you at {0},Sebuah akun baru telah dibuat untuk Anda di {0}
+A valid call log is required.,Log panggilan yang valid diperlukan.
+API Key,API Key
+API Secret,API Secret
+API Token,API Token
+API key is required,Kunci API diperlukan
+API secret is required,Rahasia API diperlukan
+Accept,Terima
+Accept Call,Terima Panggilan
+Accept Invitation,Terima Undangan
+Accepted,Diterima
+Accepted At,Diterima pada
+Access Denied,Akses ditolak
+Access Key,Kunci Akses
+Access Key is required for Service Provider: {0},Kunci Akses diperlukan untuk Penyedia Layanan: {0}
+Access Token,Token Akses
+Access token is required,Token akses diperlukan
+Account ID,ID Akun
+Account Info & Security,Info & Keamanan Akun
+Account Name,Nama Akun
+Account SID,SID Akun
+Account name is required,Nama akun wajib diisi
+Accounts,Akun
+Actions,Tindakan
+Activity,Aktivitas
+Add,Tambahkan
+Add Account,Tambah Akun
+Add Assignee,Tambahkan Penerima
+Add Attendee,Tambahkan Peserta
+Add Chart,Tambahkan Bagan
+Add Column,Tambahkan Kolom
+Add Condition,Tambahkan Kondisi
+Add Condition Group,Tambahkan Grup Kondisi
+Add Description,Tambahkan Deskripsi
+Add Description.,Tambahkan Deskripsi.
+Add Email,Tambahkan Surel
+Add Existing User,Tambah Pengguna Terdaftar
+Add Field,Tambah Bidang
+Add Filter,Tambah Filter
+Add Lead or Deal,Tambahkan Prospek atau Kesepakatan
+Add Location,Tambahkan Lokasi
+Add Mobile Number...,Tambahkan Nomor Ponsel...
+Add Note,Tambahkan Catatan
+Add Notification,Tambahkan Pemberitahuan
+Add Organization...,Tambahkan Organisasi...
+Add Row,Tambah Baris
+Add Sample Data,Tambahkan Data Sampel
+Add Section,Tambah Bagian
+Add Sort,Tambah Urutan
+Add Tab,Tambah Tab
+Add Task,Tambahkan Tugas
+Add Weekly Holidays,Tambah Hari Libur Mingguan
+Add a Condition,Tambahkan Kondisi
+Add a Custom Condition,Tambahkan Kondisi Khusus
+Add a Note,Tambah Catatan
+Add a Task,Tambahkan Tugas
+Add a name for your source,Tambahkan nama untuk sumber Anda
+Add description...,Tambah deskripsi...
+Add existing system users to this CRM. Assign them a role to grant access with their current credentials.,Tambahkan pengguna sistem yang ada ke CRM ini. Berikan peran untuk memberi mereka akses dengan kredensial mereka saat ini.
+Add one to get started.,Tambahkan satu untuk memulai.
+Add svg code or use feather icons e.g 'settings',"Tambahkan kode svg atau gunakan ikon feather, misalnya 'settings'"
+Add time targets around support milestones like first response,Tambahkan target waktu seputar pencapaian dukungan seperti respons pertama
+Add to Holidays,Tambahkan ke Hari Libur
+Add your first comment,Tambahkan komentar pertama Anda
+"Add, edit, and manage email templates for various CRM communications","Tambah, edit, dan kelola templat email untuk berbagai komunikasi CRM"
+"Add, edit, and manage sources for automatic lead syncing to your CRM","Tambahkan, edit, dan kelola sumber untuk sinkronisasi prospek otomatis ke CRM Anda"
+Address,Alamat
+Admin,Admin
+"Agent is unavailable to take the call, please call after some time.","Agen saat ini tidak dapat menerima panggilan, silakan hubungi kembali beberapa saat lagi."
+All,Semua
+All Day,Semua Hari
+All Day Event Notifications,Pemberitahuan Acara Sepanjang Hari
+All available priorities have already been added,Semua prioritas yang tersedia telah ditambahkan
+Amount,Jumlah
+Amount after discount,Jumlah setelah diskon
+An error occurred,Terjadi kesalahan
+An error occurred while updating the document,Terjadi kesalahan saat memperbarui dokumen
+An icon file with .ico extension. Should be 16 x 16 px. Generated using a favicon generator. [favicon-generator.org],File ikon dengan ekstensi .ico. Harus berukuran 16 x 16 piksel. Dibuat menggunakan generator favicon. [favicon-generator.org]
+An image with 1:1 & 2:1 ratio is preferred,Gambar dengan rasio 1:1 & 2:1 lebih diutamakan
+And,Dan
+Annual Revenue,Pendapatan Tahunan
+Annual Revenue should be a number,Pendapatan Tahunan harus berupa angka
+Any failed lead syncs will show up here,Sinkronisasi prospek yang gagal akan muncul di sini
+App Name,Nama App
+Appearance,Penampilan
+Appears in the left sidebar. Recommended size is 32x32 px in PNG or SVG,Tampil di bilah sisi kiri. Ukuran yang disarankan 32x32 piksel dalam format PNG atau SVG
+Appears next to the title in your browser tab. Recommended size is 32x32 px in PNG or ICO,Tampil di sebelah judul pada tab browser Anda. Ukuran yang disarankan 32x32 piksel dalam format PNG atau ICO
+Apply,Terapkan
+Apply On,Terapkan Pada
+Apply To,Terapkan Ke
+Apps,Aplikasi
+Are you sure you want to clear demo data? This action cannot be undone.,Apakah Anda yakin ingin menghapus data demo? Tindakan ini tidak dapat dibatalkan.
+Are you sure you want to delete this attachment?,Apakah Anda yakin ingin menghapus lampiran ini?
+Are you sure you want to delete this contact?,Apakah Anda yakin ingin menghapus kontak ini?
+Are you sure you want to delete this event?,Anda yakin ingin menghapus event ini?
+Are you sure you want to delete this organization?,Apakah Anda yakin ingin menghapus organisasi ini?
+Are you sure you want to delete this task?,Apakah Anda yakin ingin menghapus tugas ini?
+Are you sure you want to delete {0} linked item(s)?,Apakah Anda yakin ingin menghapus {0} item tertaut?
+Are you sure you want to discard unsaved changes to this event?,Apakah Anda yakin ingin membuang perubahan yang belum disimpan pada acara ini?
+Are you sure you want to go back? Unsaved changes will be lost.,Apakah Anda yakin ingin kembali? Perubahan yang belum disimpan akan hilang.
+Are you sure you want to login to your Frappe Cloud dashboard?,Apakah Anda yakin ingin masuk ke dasbor GARP Cloud Anda?
+Are you sure you want to remove this tab and all its content?,Apakah Anda yakin ingin menghapus tab ini dan semua kontennya?
+Are you sure you want to reset 'Create Quotation from CRM Deal' Form Script?,Apakah Anda yakin ingin mereset Skrip Formulir 'Create Quotation from CRM Deal'?
+Are you sure you want to set the currency as {0}? This cannot be changed later.,Apakah Anda yakin ingin mengatur mata uang sebagai {0}? Pengaturan Ini tidak dapat diubah di kemudian hari.
+Are you sure you want to unlink {0} linked item(s)?,Apakah Anda yakin ingin melepas tautan {0} item tertaut?
+"Ask your manager to set up the Exchange Rate Provider, as default provider does not support currency conversion for {0} to {1}.","Minta manajer Anda untuk mengatur Penyedia Nilai Tukar, karena penyedia default tidak mendukung konversi mata uang untuk {0} ke {1}."
+Assign Condition is required,Kondisi Penetapan diperlukan
+Assign Conditions are invalid,Ketentuan Penetapan tidak valid
+Assign To,Tugaskan Ke
+Assign To Me,Tetapkan Kepada Saya
+Assigned To,Ditugaskan Kepada
+Assignee Rules,Aturan Penerima Tugas
+Assignment,Penugasan
+Assignment Cleared Successfully,Tugas Berhasil Diselesaikan
+Assignment Condition,Kondisi Penugasan
+Assignment Days,Hari Penugasan
+Assignment Days are required,Hari Penugasan diperlukan
+Assignment Rule,Aturan Penugasan
+Assignment Rule Deleted,Aturan Penugasan Dihapus
+Assignment Rule Duplicated,Aturan Penugasan Digandakan
+Assignment Rule Updated,Aturan Penugasan Diperbarui
+Assignment Rules,Aturan Penugasan
+Assignment Schedule,Jadwal Penugasan
+Assignment conditions,Kondisi penugasan
+"Assignment conditions are invalid or corrupt, recreate the conditions.","Kondisi penugasan tidak valid atau rusak, buat ulang kondisi tersebut."
+At least one field is required,Setidaknya satu bidang wajib diisi
+At least one priority is required,Setidaknya diperlukan satu prioritas
+"At least one valid Workday with Workday, Start Time, and End Time is required","Setidaknya diperlukan satu Hari Kerja yang valid dengan Hari Kerja, Waktu Mulai, dan Waktu Berakhir"
+Attach,Lampirkan
+Attach a File,Lampirkan File
+Attach file…,Lampirkan berkas…
+Attachments,Lampiran
+Attendees,Peserta
+Attending status updated,Status kehadiran diperbarui
+Auth Token,Auth Token
+Auto Create Customer,Buat Pelanggan Otomatis
+Auto Update Expected Deal Value,Perbarui Otomatis Nilai Transaksi yang Diharapkan
+Auto update Expected Deal Value,Pembaruan otomatis Nilai Transaksi yang Diharapkan
+Auto-assign leads/deals to the right sales user based on predefined conditions,Tetapkan prospek/penawaran secara otomatis ke pengguna penjualan yang tepat berdasarkan kondisi yang telah ditentukan sebelumnya
+Auto-generated from the portal view — do not edit directly unless you know what you're doing! ,Dibuat secara otomatis dari tampilan portal — jangan mengedit secara langsung kecuali Anda tahu apa yang Anda lakukan!
+Autocomplete,Pelengkapan Otomatis
+Automatically sets Communication Status to “Open” for the lead or deal when a new communication is created. Applies only when SLA is enabled,Secara otomatis menetapkan Status Komunikasi ke “Terbuka” untuk prospek atau kesepakatan ketika komunikasi baru dibuat. Hanya berlaku ketika SLA diaktifkan
+Automatically sets Communication Status to “Replied” for the lead or deal when a response is received. Applies only when SLA is enabled,Secara otomatis menetapkan Status Komunikasi ke “Dibalas” untuk prospek atau transaksi ketika respons diterima. Hanya berlaku ketika SLA diaktifkan
+Average deal value of non won/lost deals,Nilai rata-rata kesepakatan yang sedang berjalan
+Average deal value of ongoing & won deals,Nilai rata-rata kesepakatan yang sedang berjalan & berhasil
+Average deal value of won deals,Nilai rata-rata kesepakatan yang berhasil
+Average time taken from deal creation to deal closure,Waktu rata-rata yang dibutuhkan dari pembuatan kesepakatan hingga penutupan kesepakatan
+Average time taken from lead creation to deal closure,Waktu rata-rata yang dibutuhkan dari pembuatan prospek hingga penutupan kesepakatan
+Avg Deal Value,Nilai Kesepakatan Rata-rata
+Avg Ongoing Deal Value,Rata-rata Nilai Transaksi yang Sedang Berlangsung
+Avg Time to Close a Deal,Rata-Rata Waktu untuk Menutup Kesepakatan
+Avg Time to Close a Lead,Rata-Rata Waktu untuk Menutup Prospek
+Avg Won Deal Value,Rata-rata Nilai Kesepakatan yang Dimenangkan
+Avg. deal value,Rerata nilai kesepakatan
+Avg. ongoing deal value,Rerata nilai kesepakatan yang sedang berjalan
+Avg. time to close a deal,Rerata waktu untuk menutup kesepakatan
+Avg. time to close a lead,Rerata waktu untuk menutup prospek
+Avg. won deal value,Rerata nilai kesepakatan yang berhasil
+Axis Chart,Bagan Sumbu
+BCC,BCC
+Back,Kembali
+Back to All Logs,Kembali ke Semua Log
+Back to File Upload,Kembali ke Unggah File
+Background Sync Frequency,Frekuensi Sinkronisasi Latar Belakang
+Backlog,Backlog
+Between,Antara
+Brand,Merek
+Brand Logo,Logo Merek
+Brand Name,Nama Merek
+Brand Settings,Pengaturan Merek
+Branding,Branding
+Bulk Edit,Edit Massal
+Busy,Sibuk
+CC,CC
+CRM Call Log,CRM Log Panggilan
+CRM Communication Status,CRM Status Komunikasi
+CRM Contacts,CRM Kontak
+CRM Dashboard,CRM Dasbor
+CRM Deal,CRM Kesepakatan
+CRM Deal Status,CRM Status Kesepakatan
+CRM Dropdown Item,CRM Item Dropdown
+CRM Exotel Settings,CRM Pengaturan Exotel
+CRM Fields Layout,CRM Layout Bidang
+CRM Form Script,CRM Skrip Formulir
+CRM Global Settings,CRM Pengaturan Global
+CRM Holiday,CRM Hari Libur
+CRM Holiday List,CRM Daftar Hari Libur
+CRM Industry,CRM Industri
+CRM Invitation,CRM Undangan
+CRM Lead,CRM Prospek
+CRM Lead Source,CRM Sumber Prospek
+CRM Lead Status,CRM Status Prospek
+CRM Lost Reason,CRM Alasan Kegagalan
+CRM Notification,CRM Notifikasi
+CRM Organization,CRM Organisasi
+CRM Portal Page,CRM Halaman Portal
+CRM Product,CRM Produk
+CRM Products,CRM Produk
+CRM Rolling Response Time,Waktu Respons Bergulir CRM
+CRM Service Day,CRM Hari Pelayanan
+CRM Service Level Agreement,CRM Perjanjian Tingkat Layanan
+CRM Service Level Priority,CRM Prioritas Tingkat Layanan
+CRM Status Change Log,CRM Log Perubahan Status
+CRM Task,CRM Tugas
+CRM Telephony Agent,CRM Agen Telepon
+CRM Telephony Phone,CRM Telepon
+CRM Territory,CRM Wilayah
+CRM Twilio Settings,CRM Pengaturan Twilio
+CRM View Settings,CRM Pengaturan Tampilan
+CSV,CSV
+Calendar,Kalender
+Calendar Settings,Pengaturan Kalender
+Call Details,Detail Panggilan
+Call Log,Log Panggilan
+Call Received By,Panggilan Diterima Oleh
+Call log not found,Log panggilan tidak ditemukan
+Call using {0},Panggil menggunakan {0}
+Call with John Doe,Panggilan dengan John Doe
+Caller,Penelepon
+Calling Medium,Media Panggilan
+Calling...,Memanggil...
+Calls,Panggilan
+Camera,Kamera
+Can't retry sync for this without source!,Tidak dapat mencoba ulang sinkronisasi untuk ini tanpa sumber!
+Cancel,Batalkan
+Canceled,Dibatalkan
+Cannot assign this role,Tidak dapat menetapkan peran ini
+Cannot change role of user with Admin access,Peran pengguna dengan akses Admin tidak dapat diubah
+Cannot delete standard items {0},Tidak dapat menghapus item standar {0}
+Cannot enable rule without adding users in it,Tidak dapat mengaktifkan aturan tanpa menambahkan pengguna di dalamnya
+Cannot invite for this role,Tidak dapat mengundang untuk peran ini
+Capture,Ambil Gambar
+Capturing Leads,Menangkap Prospek
+Category,Kategori
+Change,Ubah
+Change Image,Ubah Gambar
+Change Password,Ubah Kata Sandi
+Change Photo,Ubah Foto
+Change Status,Ubah Status
+Change deal status,Ubah status kesepakatan
+Change language of the application.,Ubah bahasa aplikasi.
+Change timezone of the application.,Ubah zona waktu aplikasi.
+Change your account password for security.,Ubah kata sandi akun Anda untuk keamanan.
+Chart,Bagan
+Chart Type,Jenis Bagan
+Choose Existing,Pilih yang Ada
+Choose Existing Contact,Pilih Kontak yang Ada
+Choose Existing Organization,Pilih Organisasi yang Ada
+Choose how long this SLA policy will be active.,Pilih berapa lama kebijakan SLA ini akan aktif.
+Choose how you want to use the application by setting your preferences.,Pilih bagaimana Anda ingin menggunakan aplikasi dengan mengatur preferensi Anda.
+Choose the Email Service Provider you want to configure.,Pilih Penyedia Layanan Email yang ingin Anda konfigurasi.
+Choose the days of the week when this rule should be active.,Pilih hari dalam seminggu kapan aturan ini harus aktif.
+Choose which leads/deals are affected by this policy.,Pilih prospek/transaksi mana yang terpengaruh oleh kebijakan ini.
+Clear,Kosongkan
+Clear All Filters,Hapus Semua Filter
+Clear Assignment,Hapus Penugasan
+Clear Demo Data,Hapus Data Demo
+Clear Sort,Hapus Urutan
+Clear Table,Kosongkan Tabel
+Click on the link below to complete your registration and set a new password,Klik link di bawah ini untuk melengkapi pendaftaran Anda dan mengatur sandi baru
+Close,Tutup
+Close Panel,Tutup Panel
+Closed Date,Tanggal Penutupan
+Collapse,Ciutkan
+Collapsible,Dapat diciutkan
+Color,Warna
+Column,Kolom
+Column Field,Bidang Kolom
+Columns,Kolom
+Comment,Komentar
+Comment sent,Komentar terkirim
+Comments,Komentar
+Common reasons for losing deals,Alasan umum gagalnya kesepakatan
+Communication Status,Status Komunikasi
+Communication Statuses,Status Komunikasi
+Company Name,Nama Perusahaan
+Company in ERPNext site,Perusahaan di situs GARP ERP
+Company name is required,Nama perusahaan wajib diisi
+Complete Registration,Pendaftaran Lengkap
+Completed,Selesai
+Computer,Komputer
+Condition,Kondisi
+Conditions for this rule were created from,Ketentuan untuk aturan ini dibuat dari
+Configure,Konfigurasikan
+Configure Telephony Settings for your CRM,Konfigurasikan Pengaturan Teleponi untuk CRM Anda
+Configure actions that appear on the home dropdown,Konfigurasikan tindakan yang muncul di dropdown beranda
+"Configure default settings for your CRM system, including default currency, date formats, and other system-wide preferences to ensure consistency across your system.","Konfigurasikan pengaturan default untuk sistem CRM Anda, termasuk mata uang default, format tanggal, dan preferensi seluruh sistem lainnya untuk memastikan konsistensi di seluruh sistem Anda."
+Configure general settings for your application,Konfigurasikan pengaturan umum untuk aplikasi Anda
+"Configure how your dashboard calculates, formats, and displays key metrics, including forecasting, deal values, and currency settings","Konfigurasikan cara dasbor Anda menghitung, memformat, dan menampilkan metrik utama, termasuk perkiraan, nilai transaksi, dan pengaturan mata uang"
+Configure the Exchange Rate Provider for your CRM,Konfigurasikan Penyedia Nilai Tukar untuk CRM Anda
+"Configure your Brand Name, Logo, and Favicon","Konfigurasikan Nama Merek, Logo, dan Favicon Anda"
+Configure your Calendar Settings like Default View and Event Notifications here,Konfigurasikan Pengaturan Kalender Anda seperti Tampilan Default dan Pemberitahuan Acara di sini
+Configure your Exotel Telephony Integration Settings here,Konfigurasikan Pengaturan Integrasi Teleponi Exotel Anda di sini
+Configure your Twilio Telephony Integration Settings here,Konfigurasikan Pengaturan Integrasi Teleponi Twilio Anda di sini
+Confirm,Konfirmasi
+Confirm Delete,Konfirmasi Hapus
+Confirm Overwrite,Konfirmasi Timpa
+Confirm Password,Konfirmasi Password
+Connect ERPNext to Frappe CRM,Hubungkan GARP ERP ke GARP CRM
+Contact,Kontak
+Contact Added,Kontak Ditambahkan
+Contact Already Added,Kontak Sudah Ditambahkan
+Contact Already Exists,Kontak Sudah Ada
+Contact Image Updated,Gambar Kontak Diperbarui
+Contact Removed,Kontak Dihapus
+Contact Support,Hubungi Dukungan
+Contact Updated,Kontak Diperbarui
+Contact Us,Hubungi Kami
+Contact already exists with {0},Kontak dengan {0} sudah ada
+Contact image updated,Gambar kontak diperbarui
+Contacts,Kontak
+Content,Konten
+Content Type,Tipe Konten
+Content is required,Konten wajib diisi
+"Controls how numbers are displayed (e.g., commas, decimal separators)","Mengontrol bagaimana angka ditampilkan (misalnya koma, pemisah desimal)"
+Convert,Konversi
+Convert lead to deal,Konversi prospek menjadi kesepakatan
+Convert to Deal,Konversi menjadi Kesepakatan
+Converted,Terkonversi
+Converted Successfully,Berhasil Dikonversi
+Copied to Clipboard,Disalin ke Papan Klip
+Count,Jumlah
+Create,Buat
+Create Deal,Buat Kesepakatan
+Create Event,Buat Acara
+Create Lead,Buat Prospek
+Create Lead from Incoming Emails,Buat Prospek dari Email Masuk
+Create New,Buat Baru
+Create New Holiday List,Buat Daftar Liburan Baru
+Create Note,Buat Catatan
+Create Task,Buat Tugas
+Create View,Buat Tampilan
+Create an Event,Buat Acara
+Create customer in ERPNext when the deal status is changed,Buat pelanggan di GARP ERP ketika status kesepakatan diubah
+Create customer on status change,Buat pelanggan saat perubahan status
+Create quotation button on deal page and auto customer creation on deal status change will be disabled. Are you sure?,Tombol buat penawaran pada halaman transaksi dan pembuatan pelanggan otomatis pada perubahan status transaksi akan dinonaktifkan. Apa kamu yakin?
+Create your first lead,Buat prospek pertama Anda
+Create your first note,Buat catatan pertama Anda
+Create your first task,Buat tugas pertama Anda
+Currency,Mata uang
+Currency Precision,Presisi mata uang
+Currency set as {0} successfully,Mata uang berhasil diatur sebagai {0}
+Current Password,Kata Sandi Saat Ini
+Current pipeline distribution,Distribusi pipeline saat ini
+Custom Actions,Tindakan Kustom
+Custom Branding,Merek Khusus
+Custom Fields,Bidang Kustom
+Custom List Actions,Tindakan Daftar Kustom
+Custom Range,Rentang Kustom
+Custom Statuses,Status Kustom
+Customer Created Successfully,Pelanggan Berhasil Dibuat
+Customization,Kustomisasi
+Customize Quick Filters,Sesuaikan Filter Cepat
+Daily,Sehari-hari
+"Daily performance of leads, deals, and wins","Kinerja harian prospek, kesepakatan, dan Ketercapaian Target"
+Dark,Gelap
+Dashboard,Dasbor
+Dashboard Currency,Mata Uang Dasbor
+"Dashboard number cards & charts will show currency in the selected format. Once set, cannot be edited.","Kartu & bagan nomor dasbor akan menampilkan mata uang dalam format yang dipilih. Setelah disetel, tidak dapat diedit."
+Dashboard settings updated successfully,Pengaturan dasbor berhasil diperbarui
+Data,Data
+Data Fields,Bidang Data
+Data Import,Impor data
+Date,Tanggal
+Date & Time,Tanggal & Waktu
+Date Format,Format Tanggal
+Day,Hari
+Deal,Kesepakatan
+Deal Owner,Pemilik Kesepakatan
+Deal Status,Status Kesepakatan
+Deal Statuses,Status Kesepakatan
+Deal Value,Nilai Kesepakatan
+Deal generation channel analysis,Analisis saluran perolehan kesepakatan
+Deal status is required,Status transaksi diperlukan
+Deal value,Nilai kesepakatan
+Deals,Kesepakatan
+Deals by Ongoing & Won Stage,Penawaran berdasarkan Tahap yang Sedang Berlangsung & Dimenangkan
+Deals by Salesperson,Penawaran oleh Penjual
+Deals by Source,Penawaran berdasarkan Sumber
+Deals by Stage,Penawaran berdasarkan Tahap
+Deals by Territory,Penawaran berdasarkan Wilayah
+Deals by ongoing & won stage,Kesepakatan berdasarkan tahap sedang berjalan & tahap berhasil
+Deals by salesperson,Kesepakatan berdasarkan tenaga penjualan
+Deals by source,Kesepakatan berdasarkan sumber
+Deals by stage,Kesepakatan berdasarkan tahap
+Deals by territory,Kesepakatan berdasarkan wilayah
+"Dear {{ lead_name }}, \n\nThis is a reminder for the payment of {{ grand_total }}. \n\nThanks, \nFrappé","Yang Terhormat {{ lead_name }},\n\nDengan ini, kami ingin mengingatkan mengenai pembayaran sebesar {{ grand_total }}.\n\nHormat kami,\nFrappé"
+Declined,Ditolak
+Default,Default
+Default Calendar View,Tampilan Kalender Default
+Default Calling Medium for Logged In User,Media Panggilan Default untuk Pengguna yang Masuk
+Default Event Notifications,Pemberitahuan Acara Default
+Default Inbox,Kotak Masuk Default
+Default Incoming,Email Masuk Default
+Default Medium,Media Default
+Default Outgoing,Email Keluar Default
+Default Priority,Prioritas Default
+Default Sending,Pengiriman Email Default
+Default Sending & Inbox,Pengiriman & Kotak Masuk Default
+Default Service Level Agreement already exists for {0},Perjanjian Tingkat Layanan Default sudah ada untuk {0}
+Default View,Tampilan Bawaan
+Default calling medium set successfully to {0},Media panggilan default berhasil diatur ke {0}
+"Default statuses, custom fields and layouts restored successfully.","Status default, bidang kustom, dan layout berhasil dipulihkan."
+Defaults,Nilai Default
+"Defines the default currency for all records, can be overridden at the field level","Mendefinisikan mata uang default untuk semua catatan, dapat diganti di tingkat bidang"
+Delete,Hapus
+Delete & Restore,Hapus & Pulihkan
+Delete All,Hapus Semua
+Delete Attachment,Hapus Lampiran
+Delete Contact,Hapus Kontak
+Delete Event,Hapus Acara
+Delete Invitation,Hapus Undangan
+Delete Linked Item,Hapus Item Tertaut
+Delete Organization,Hapus Organisasi
+Delete Task,Hapus Tugas
+Delete View,Hapus Tampilan
+Delete or unlink linked documents,Hapus atau lepas dokumen tertaut
+Delete or unlink these linked documents before deleting this document,Hapus atau lepas dokumen tertaut ini sebelum menghapus dokumen ini
+Delete {0} items,Hapus {0} item
+Deleting note...,Menghapus catatan...
+Demo data restored successfully.,Data demo berhasil dipulihkan.
+Description,Deskripsi
+Description is required,Deskripsi diperlukan
+Desk,Area Kerja
+Details,Detail
+Device,Perangkat
+Disable,Nonaktifkan
+Disable ERPNext Integration,Nonaktifkan Integrasi GARP ERP
+Disabled,Dinonaktifkan
+Discard,Batalkan
+Discard Changes,Buang Perubahan
+Discard Unsaved Changes?,Buang Perubahan yang Belum Disimpan?
+Discount %,Diskon %
+Discount Amount,Jumlah Diskon
+Display format for dates across the system,Format tampilan untuk tanggal di seluruh sistem
+DocType,DocType
+Doctype is required,Tipe dokumen diperlukan
+Document Not Found,Dokumen Tidak Ditemukan
+Document Type,Jenis Dokumen
+Document created successfully,Dokumen berhasil dibuat
+Document does not exist,Dokumen tidak ada
+Document not found,Dokumen tidak ditemukan
+Document updated successfully,Dokumen berhasil diperbarui
+Documentation,Dokumentasi
+Done,Selesai
+Donut Chart,Bagan Donat
+Download,Unduh
+Drag & Drop files here or upload from,Seret & Jatuhkan file ke sini atau unggah dari
+Drag a section or a field here to get started,Seret bagian atau bidang ke sini untuk memulai
+Drop files here,Letakkan file di sini
+Dropdown items,Item tarik-turun
+Due Date,Tanggal Jatuh Tempo
+Duplicate,Duplikat
+Duplicate Assignment Rule,Aturan Penugasan Duplikat
+Duplicate Event,Acara Duplikat
+Duplicate SLA Policy,Kebijakan SLA Duplikat
+Duplicate Template,Templat Duplikat
+Duplicate View,Duplikasi Tampilan
+Duplicate an Event,Gandakan Acara
+Duration,Durasi
+ERPNext,GARP ERP
+ERPNext CRM Settings,Pengaturan CRM GARP ERP
+ERPNext Settings,Pengaturan ERPBerikutnya
+ERPNext Site API's,API Situs GARP ERP
+ERPNext Site URL,URL Situs GARP ERP
+ERPNext is not installed in the current site,GARP ERP tidak terpasang di situs ini
+ERPNext is not installed on this site either install it or enter the URL of your ERPNext site to connect,"GARP ERP tidak diinstal di situs ini, instal saja atau masukkan URL situs GARP ERP Anda untuk terhubung"
+ERPNext is not integrated with the CRM,GARP ERP tidak terintegrasi dengan CRM
+Edit,Edit
+Edit Call Log,Edit Log Panggilan
+Edit Data Fields Layout,Edit Layout Bidang Data
+Edit Email,Edit Email
+Edit Event,Sunting Acara
+Edit Field Layout,Edit Layout Bidang
+Edit Fields Layout,Edit Tata Letak Bidang
+Edit Grid Fields,Edit Bidang Kisi
+Edit Grid Fields Layout,Edit Layout Bidang Grid
+Edit Grid Row Fields Layout,Edit Layout Bidang Baris Grid
+Edit Note,Edit Catatan
+Edit Quick Entry Layout,Edit Layout Entri Cepat
+Edit Response & Resolution,Edit Respons & Resolusi
+Edit Row,Sunting Baris
+Edit Task,Edit Tugas
+Edit View,Edit Tampilan
+Edit Workday,Sunting Hari Kerja
+Edit an Event,Mengedit Acara
+Editing Event,Mengedit Acara
+Editing Row {0},Mengedit Baris {0}
+Email,Email
+Email Account,Akun Email
+Email Account created successfully,Akun Email berhasil dibuat
+Email Account updated successfully,Akun Email berhasil diperbarui
+Email Accounts,Akun Email
+Email Already Exists,Email Sudah Ada
+Email Communication,Komunikasi Email
+Email From Lead,Email Dari Pemimpin
+Email ID,ID Surel
+Email ID is required,ID Email wajib diisi
+Email Sent At,Email Terkirim Pada
+Email Settings,Pengaturan Surel
+Email Template,Template Email
+Email Templates,Templat Email
+Email already exists,Email sudah ada
+Email sent,Email terkirim
+Email settings updated successfully,Setelan email berhasil diperbarui
+Emails,Email
+Emails & Signature,Email & Tanda Tangan
+Empty,Kosong
+Empty - Choose a field to filter by,Kosong - Pilih sebuah bidang untuk memfilter
+Empty - Choose a field to sort by,Kosong - Pilih sebuah bidang untuk mengurutkan
+Enable,Aktifkan
+Enable Exotel integration to make and receive calls directly from your CRM,Aktifkan integrasi Exotel untuk membuat dan menerima panggilan langsung dari CRM Anda
+Enable Forecasting,Aktifkan Forecasting
+Enable Incoming,Aktifkan Email Masuk
+Enable Outgoing,Aktifkan Email Keluar
+Enable Twilio integration to make and receive calls directly from your CRM,Aktifkan integrasi Twilio untuk membuat dan menerima panggilan langsung dari CRM Anda
+Enable call recording for incoming and outgoing calls,Aktifkan rekaman panggilan untuk panggilan masuk dan keluar
+Enable the integration to create quotations and auto create customers in ERPNext.,Aktifkan integrasi untuk membuat penawaran harga dan membuat pelanggan secara otomatis di GARP ERP.
+Enabled,Diaktifkan
+Enabled?,Diaktifkan?
+End Date,Tanggal Berakhir
+End Date cannot be before start date,Tanggal Akhir tidak boleh sebelum tanggal mulai
+End Time,Waktu Selesai
+End Time Should Be After Start Time,Waktu Berakhir Harus Setelah Waktu Mulai
+End Time is required,Waktu Berakhir diperlukan
+End Time must be after Start Time,Waktu Berakhir harus setelah Waktu Mulai
+Enter Access Key,Masukkan Kunci Akses
+Enter Access Token,Masukkan Token Akses
+Enter Brand Name,Masukkan Nama Merek
+Enter Exotel Number,Masukkan Nomor Exotel
+Enter Personal Mobile No.,Masukkan No Ponsel Pribadi.
+Enter Twilio Number,Masukkan Nomor Twilio
+Enter Value,Masukkan Nilai
+Enter your Facebook Access Token,Masukkan Token Akses Facebook Anda
+Enter your personal mobile number used by Exotel to make calls,Masukkan nomor ponsel pribadi Anda yang digunakan oleh Exotel untuk melakukan panggilan
+Enter {0},Masukkan {0}
+Equals,Sama dengan
+Error Occurred,Terjadi Kesalahan
+Error Syncing Lead,Terjadi Kesalahan saat Menyinkronkan Prospek
+Error converting to deal: {0},Terjadi kesalahan saat mengonversi menjadi kesepakatan: {0}
+Error creating Lead Sync Source,Terjadi kesalahan saat membuat Sumber Sinkronisasi Prospek
+Error occurred,Terjadi kesalahan
+Error syncing leads,Terjadi kesalahan saat menyinkronkan prospek
+Error updating Lead Sync Source,Terjadi kesalahan saat memperbarui Sumber Sinkronisasi Prospek
+Error updating field,Kesalahan saat memperbarui bidang
+Event Details,Detail Acara
+Event ID is required,ID Peristiwa diperlukan
+Event Notifications,Pemberitahuan Acara
+Event Title,Judul Acara
+Event created successfully,Acara berhasil dibuat
+Event deleted successfully,Acara berhasil dihapus
+Events,Acara
+Every 10 Minutes,Setiap 10 Menit
+Every 5 Minutes,Setiap 5 Menit
+Excel,Excel
+Exchange Rate,Kurs
+Exchange Rate Provider,Penyedia Nilai Tukar
+Exotel,Exotel
+Exotel Exception,Pengecualian Exotel
+Exotel Integration Disabled,Integrasi Exotel Dinonaktifkan
+Exotel Number,Nomor Exotel
+Exotel Number Missing,Nomor Exotel Hilang
+Exotel Number {0} is not valid,Nomor Exotel {0} tidak valid
+Expand,Perluas
+Expected Closure Date,Tanggal Perkiraan Penutupan
+Expected Deal Value,Nilai Perkiraan Kesepakatan
+Expected closure date is required.,Perkiraan tanggal penutupan wajib diisi.
+Expected deal value is required.,Nilai kesepakatan yang diharapkan diperlukan.
+Expired,Kedaluwarsa
+Export,Ekspor
+Export Type,Tipe Ekspor
+FCRM Note,Catatan FCRM
+FCRM Settings,Pengaturan FCRM
+FROM,DARI
+Facebook,Facebook
+Facebook Form ID,ID Formulir Facebook
+Facebook Lead Form,Formulir Prospek Facebook
+Facebook Lead Form Question,Pertanyaan Formulir Prospek Facebook
+Facebook Lead ID,ID Pemimpin Facebook
+Facebook Page,Halaman Facebook
+Failed,Gagal
+Failed Lead Sync Log,Log Sinkronisasi Prospek Gagal
+Failed to Add Users,Gagal Menambahkan Pengguna
+Failed to add reaction to the message,Gagal menambahkan reaksi pada pesan
+Failed to capture Twilio recording,Gagal menangkap rekaman Twilio
+"Failed to create Email Account, Invalid credentials","Gagal membuat Akun Email, Kredensial tidak valid"
+Failed to create template,Gagal membuat templat
+Failed to delete lead sync source,Gagal menghapus sumber sinkronisasi prospek
+Failed to delete note,Gagal menghapus catatan
+Failed to delete template,Gagal menghapus templat
+Failed to fetch exchange rate from {0} to {1} on {2}. Please check your internet connection or try again later.,Gagal mengambil nilai tukar dari {0} ke {1} pada {2}. Harap periksa koneksi internet Anda atau coba lagi nanti.
+Failed to load form controller: {0},Gagal memuat kontroler formulir: {0}
+Failed to rename template,Gagal mengganti nama templat
+Failed to save settings,Gagal menyimpan pengaturan
+Failed to send WhatsApp message,Gagal mengirim pesan WhatsApp
+Failed to send WhatsApp template,Gagal mengirim templat WhatsApp
+Failed to send comment!,Gagal mengirim komentar!
+Failed to send email!,Gagal mengirim email!
+"Failed to update Email Account, Invalid credentials","Gagal memperbarui Akun Email, Kredensial tidak valid"
+Failed to update Twilio call status,Gagal memperbarui status panggilan Twilio
+Failed to update attending status,Gagal memperbarui status kehadiran
+Failed to update password,Gagal memperbarui kata sandi
+Failed to update source,Gagal memperbarui sumber
+Failed to update template,Gagal memperbarui templat
+Failure,Kegagalan
+Failure Logs,Log Kegagalan
+Favicon,Favicon
+Field,Bidang
+Fields Order,Urutan Bidang
+"File ""{0}"" was skipped because of invalid file type","File ""{0}"" dilewati karena tipe file tidak valid"
+"File ""{0}"" was skipped because only {1} uploads are allowed","File ""{0}"" dilewati karena hanya {1} unggahan yang diizinkan"
+"File ""{0}"" was skipped because only {1} uploads are allowed for DocType ""{2}""","File ""{0}"" dilewati karena hanya {1} unggahan yang diizinkan untuk DocType ""{2}"""
+Filter,Filter
+Filters,Filter
+First Name,Nama Depan
+First Name is mandatory,Nama Depan wajib diisi
+First Responded On,Pertama Kali Direspon Pada
+First Response Due,Respon Pertama Jatuh Tempo
+First Response TIme,Waktu Respon Pertama
+First Response Time,Waktu Respon Pertama
+First name,Nama depan
+Float Precision,Presisi desimal
+For,Untuk
+"For all-day events, <b>set a time</b> to send reminders before the event starts","Untuk acara sepanjang hari, <b>atur waktu</b> untuk mengirim pengingat sebelum acara dimulai"
+Forecasted revenue,Pendapatan yang diperkirakan
+Form,Formulir
+Form Script updated successfully,Skrip formulir berhasil diperbarui
+Frappe CRM,GARP CRM
+Frappe CRM mobile,GARP CRM mobile
+Frappe Mail Site,Situs GARP Mail
+Friday,Jumat
+From,Dari
+From Date,Tanggal Mulai
+From Number,Dari Nomor
+From Type,Tipe Asal
+From User,Dari Pengguna
+Fulfilled,Terpenuhi
+Full Name,Nama Lengkap
+Funnel Conversion,Konversi Corong
+Funnel conversion,Konversi Funnel
+GMT+5:30,GMT+5:30
+Gender,Jenis Kelamin
+General,Umum
+General Settings,Pengaturan Umum
+Geographic distribution of deals and revenue,Distribusi geografis kesepakatan dan penerimaan
+GitHub Repository,Repositori Github
+Go Back,Kembali
+Go to Invite Page,Buka Halaman Undangan
+Go to Website,Buka Situs Web
+Going?,Pergi?
+Greater than,Lebih besar dari
+Greater than or equal to,Lebih besar dari atau sama dengan
+Grid Row,Baris Grid
+Group By,Grup Berdasarkan
+Group By Field,Grup Berdasarkan Bidang
+Group By: ,Grup Berdasarkan: 
+Hang Up,Menggantung
+Hello,Halo
+Help,Bantuan
+"Hi John, \n\nCan you please provide more details on this...","Halo John,\n\nBisakah Anda memberikan detail lebih lanjut mengenai ini..."
+Hidden,Tersembunyi
+Hide,Sembunyikan
+Hide Border,Sembunyikan Batas
+Hide Label,Sembunyikan Label
+Hide Password,Sembunyikan Kata Sandi
+Hide Preview,Sembunyikan Pratinjau
+Hide Recording,Sembunyikan Rekaman
+High,Tinggi
+Holiday List,Daftar Hari Libur
+Holiday List Name,Nama Daftar Hari Libur
+Holidays,Hari Libur
+Home Actions,Tindakan Rumah
+Hourly,Setiap Jam
+ID,ID
+Icon,Ikon
+"If enabled, a lead will be automatically created when an incoming email is received from an unknown contact.","Jika diaktifkan, prospek akan otomatis dibuat ketika email masuk diterima dari kontak yang tidak dikenal."
+"If enabled, all outgoing emails will be sent from this account. Note: Only one account can be default outgoing.","Jika diaktifkan, semua email keluar akan dikirim dari akun ini. Catatan: Hanya satu akun yang dapat menjadi akun pengirim default."
+"If enabled, all replies to your company (eg: replies@yourcompany.com) will come to this account. Note: Only one account can be default incoming.","Jika diaktifkan, semua balasan ke perusahaan Anda (misalnya: replies@yourcompany.com) akan masuk ke akun ini. Catatan: Hanya satu akun yang dapat menjadi akun penerima default."
+"If enabled, emails will be pulled from this account.","Jika diaktifkan, email akan ditarik dari akun ini."
+"If enabled, outgoing emails can be sent from this account.","Jika diaktifkan, email keluar dapat dikirim dari akun ini."
+Image,Gambar
+Import,Impor
+In,Di Dalam
+In Progress,Sedang Berjalan
+In less than a minute,Dalam waktu kurang dari satu menit
+Inbound Call,Panggilan Masuk
+Inbox,Kotak Masuk
+Incoming,Masuk
+Incoming call...,Panggilan masuk...
+Incorrect current password. Please try again.,Kata sandi saat ini salah. Silakan coba lagi.
+Industries,Industri
+Industry,Industri
+Initiated,Diinisiasi
+Initiating call...,Memulai panggilan...
+Insert Email Template,Masukkan Templat Email
+Insert Emoji,Sisipkan Emoji
+Integration,Integrasi
+Integration Not Enabled,Integrasi Tidak Diaktifkan
+Integrations,Integrasi
+Integrations,Integrasi
+Introduction,Pengantar
+Invalid Account SID or Auth Token.,Account SID atau Auth Token tidak valid.
+Invalid Email Address,Alamat Email Tidak Valid
+Invalid Email or Password,Email atau Kata Sandi Tidak Valid
+Invalid Exotel Number,Nomor Exotel Tidak Valid
+Invalid GeoJSON,GeoJSON tidak valid
+Invalid Site URL,URL Situs tidak valid
+Invalid Start Or End Time,Waktu Mulai atau Berakhir Tidak Valid
+Invalid Twilio account,Akun Twilio tidak valid
+Invalid Twilio application,Aplikasi Twilio tidak valid
+Invalid access token provided for Facebook.,Token akses yang diberikan untuk Facebook tidak valid.
+Invalid chart name,Nama bagan tidak valid
+Invalid credentials,Kredensial tidak valid
+Invalid email ID,Alamat email tidak valid
+Invalid email address,Alamat email tidak valid
+Invalid field,Bidang tidak valid
+"Invalid fields, check if all are filled in and values are correct.","Bidang tidak valid, periksa apakah semua sudah terisi dan nilainya benar."
+"Invalid format. Try: 1 hour 30 minutes, 2 hours, 45 seconds, 1:30:45, 90s","Formatnya tidak valid. Coba: 1 jam 30 menit, 2 jam, 45 detik, 1:30:45, 90 detik"
+"Invalid format. Try: 1h 30m 45s, 1:30:45, 90s","Formatnya tidak valid. Coba: 1 jam 30 menit 45 detik, 1:30:45, 90 detik"
+Invalid lead details supplied.,Detail prospek yang diberikan tidak valid.
+Invalid or expired key,Kunci tidak valid atau kedaluwarsa
+Invalid page or not permitted to access,Halaman tidak valid atau tidak diizinkan untuk diakses
+Invitations sent successfully,Undangan berhasil dikirim
+Invite Agent,Undang Agen
+Invite As,Undang Sebagai
+Invite By Email,Undang Melalui Email
+Invite New User,Undang Pengguna Baru
+Invite User,Undang Pengguna
+Invite Users,Undang Pengguna
+Invite users to access CRM. Specify their roles to control access and permissions,Undang pengguna untuk mengakses CRM. Tentukan peran mereka untuk mengontrol akses dan izin
+Invite your team,Undang tim Anda
+Invited By,Diundang Sebagai
+Is,Berstatus
+Is Default,Default
+Is ERPNext installed on a different site?,GARP ERP terpasang di situs berbeda?
+Is Group,Grup
+Is Primary,Utama
+Is Standard,Standar
+"It will make deal's ""Expected Closure Date"" & ""Expected Deal Value"" mandatory to get accurate forecasting insights","Mengaktifkan ini akan mewajibkan pengisian ""Tanggal Perkiraan Penutupan"" & ""Nilai Perkiraan Kesepakatan"" untuk mendapatkan gambaran perkiraan yang akurat"
+Items must be a list,Item harus berupa daftar
+JSON,JSON
+Job Title,Jabatan
+John Doe,John Doe
+"John, Jane, Doe","John, Jane, Doe"
+Kanban,Kanban
+Kanban Columns,Kolom Kanban
+Kanban Fields,Bidang Kanban
+Kanban Settings,Pengaturan Kanban
+Key,Kunci
+Label,Label
+Language,Bahasa
+Language & Time,Bahasa & Waktu
+Last,Terakhir
+Last 30 Days,30 Hari Terakhir
+Last 6 Months,6 Bulan Terakhir
+Last 60 Days,60 Hari Terakhir
+Last 7 Days,7 Hari Terakhir
+Last 90 Days,90 Hari Terakhir
+Last Modified,Terakhir Dimodifikasi
+Last Month,Bulan Lalu
+Last Name,Nama Belakang
+Last Quarter,Kuartal Lalu
+Last Responded On,Terakhir Ditanggapi Pada
+Last Response Time,Waktu Respons Terakhir
+Last Status Change Log,Log Perubahan Status Terakhir
+Last Synced At,Terakhir Disinkronkan Pada
+Last Week,Minggu Lalu
+Last Year,Tahun Lalu
+Last name,Nama belakang
+Last user assigned by this rule,Pengguna terakhir yang ditetapkan berdasarkan aturan ini
+Layout,Layout
+Lead,Prospek
+Lead Data,Data Timbal
+Lead Details,Detail Prospek
+Lead Name,Nama Prospek
+Lead Owner,Pemilik Prospek
+Lead Owner cannot be same as the Lead Email Address,Pemilik Prospek tidak boleh sama dengan Alamat Email Prospek
+Lead Sources,Sumber Prospek
+Lead Statuses,Status Prospek
+Lead Sync Source,Sumber Sinkronisasi Utama
+Lead Syncing,Sinkronisasi Timbal
+Lead generation channel analysis,Analisis saluran perolehan prospek
+Lead sync initiated.,Sinkronisasi prospek dimulai.
+Lead sync source deleted successfully,Sumber sinkronisasi prospek berhasil dihapus
+Lead to deal conversion pipeline,Pipeline konversi prospek menjadi kesepakatan
+Leads,Prospek
+Leads by Source,Dipimpin berdasarkan Sumber
+Leads by source,Prospek berdasarkan sumber
+Learn about conditions,Pelajari tentang kondisi
+Left,Left
+Less than,Kurang dari
+Less than or equal to,Kurang dari atau sama dengan
+Library,Pustaka
+Light,Terang
+Like,Mirip
+Link,Tautan
+Linked With,Terhubung Dengan
+Links,Tautan
+List,Daftar
+Listen,Dengarkan
+Load Default Columns,Muat Kolom Default
+Load More,Muat lebih banyak
+Loading...,Memuat...
+Location,Lokasi
+Log,Log
+Log ID,Log ID
+Log a Call,Catat Panggilan
+Login to Frappe Cloud?,Masuk ke GARP Cloud?
+Login with Different Account,Masuk dengan Akun Berbeda
+Logo,Logo
+Lost,Gagal
+Lost Deal Reasons,Alasan Kehilangan Kesepakatan
+Lost Details,Detail yang Hilang
+Lost Notes,Catatan Kegagalan
+Lost Reason,Alasan Kegagalan
+Lost Reason is required,Alasan Hilang diperlukan
+Lost deal reasons,Alasan gagalnya kesepakatan
+Low,Rendah
+Make Call,Lakukan Panggilan
+Make Private,Jadikan Privat
+Make Public,Jadikan Publik
+Make a Call,Lakukan Panggilan
+Make attachment {0},Buat lampiran {0}
+Make {0},Buat {0}
+Make {0} as default calling medium,Jadikan {0} sebagai media panggilan default
+"Makes ""Expected Closure Date"" and ""Expected Deal Value"" mandatory for deal value forecasting","Menjadikan ""Tanggal Penutupan yang Diharapkan"" dan ""Nilai Kesepakatan yang Diharapkan"" wajib diisi untuk prakiraan nilai kesepakatan"
+"Manage CRM users by adding or inviting them, and assign roles to control their access and permissions","Kelola pengguna CRM dengan menambah atau mengundang mereka, dan berikan peran untuk mengontrol akses dan izin mereka"
+Manage ERPNext integration settings,Kelola pengaturan integrasi GARP ERP
+Manage your account emails and email signature for communication.,Kelola email akun Anda dan tanda tangan email untuk komunikasi.
+Manage your email accounts to send and receive emails directly from CRM. You can add multiple accounts and set one as default for incoming and outgoing emails.,Kelola akun email Anda untuk mengirim dan menerima email langsung dari CRM. Anda dapat menambahkan beberapa akun dan menetapkan salah satunya sebagai default untuk email masuk dan keluar.
+Manage your email signature,Kelola tanda tangan email Anda
+Manage your profile & login information.,Kelola profil & informasi login Anda.
+Manage your service level agreement policies,Kelola kebijakan perjanjian tingkat layanan Anda
+Manager,Manajer
+Mandatory field error: {0},Kesalahan bidang wajib: {0}
+Manual,Manual
+Mapped to CRM Field,Dipetakan ke Bidang CRM
+Mark all as read,Tandai semua sebagai telah dibaca
+Mark lead/deal as replied on response,Tandai prospek/kesepakatan sebagai balasan pada tanggapan
+Masters,Data Master
+"May 1, 2025",1 Mei 2025
+Maybe,Mungkin
+Medium,Media
+Mention,Sebutan
+Mentions,Sebutan
+Message,Pesan
+Middle Name,Nama Tengah
+Minimize,Memperkecil
+Missed Call,Panggilan Tak Terjawab
+Mobile App Installation,Instalasi Aplikasi Seluler
+Mobile No.,No. Ponsel
+Mobile No. should be a number,Nomor Ponsel harus berupa angka
+Mobile Number,Nomor Ponsel
+Mobile Number Missing,Nomor Ponsel Hilang
+Monday,Senin
+Month,Bulan
+Monthly,Bulanan
+More Options,Opsi Lainnya
+Move Last Column to Previous Section,Pindahkan Kolom Terakhir ke Bagian Sebelumnya
+Move Last Column to Previous Tab,Pindahkan Kolom Terakhir ke Tab Sebelumnya
+Move to Next Tab,Pindah ke Tab Berikutnya
+Move to Previous Tab,Pindah ke Tab Sebelumnya
+My Open Deals,Kesepakatan Terbuka Saya
+Name,Nama
+Name is required,Nama wajib diisi
+Naming Series,Seri Penamaan
+Nested Conditions,Kondisi Bersarang
+Net Amount,Jumlah Bersih
+Net Total,Total Bersih
+New,Baru
+New Address,Alamat baru
+New Assignment Rule,Aturan Penugasan Baru
+New Comment,Komentar Baru
+New Contact,Kontak baru
+New Email,Email Baru
+New Event,Acara baru
+New Lead Sync Source,Sumber Sinkronisasi Prospek Baru
+New Message,Pesan Baru
+New Note,Catatan Baru
+New Organization,Organisasi Baru
+New Password,Kata Sandi Baru
+New SLA Policy,Kebijakan SLA Baru
+New SLA Policy Name,Nama Kebijakan SLA Baru
+New Section,Bagian Baru
+New Tab,Tab Baru
+New Task,Tugas Baru
+New Template,Templat Baru
+New contact will be created based on the person's details,Kontak baru akan dibuat berdasarkan detail orang tersebut
+New organization will be created based on the data in details section,Organisasi baru akan dibuat berdasarkan data di bagian detail
+New password cannot be the same as current password,Kata sandi baru tidak boleh sama dengan kata sandi saat ini
+New password cannot be the same as current password. Please choose a different password.,Kata sandi baru tidak boleh sama dengan kata sandi saat ini. Silakan pilih kata sandi lain.
+New {0},Baru {0}
+Next 6 Months,6 Bulan ke Depan
+Next Month,Bulan Depan
+Next Quarter,Kuartal Depan
+Next Step,Langkah Selanjutnya
+Next Week,Minggu Depan
+Next Year,Tahun Depan
+No,Tidak
+No Answer,Tidak Dijawab
+No Contacts Added,Tidak Ada Kontak yang Ditambahkan
+No Data,Tidak Ada Data
+No Details Added,Tidak Ada Detail yang Ditambahkan
+No Events Scheduled,Tidak Ada Acara yang Dijadwalkan
+No Failure Logs Found,Tidak Ditemukan Log Kegagalan
+No Label,Tidak Ada Label
+No Mobile Number Set,Tidak Ada Nomor Ponsel yang Ditetapkan
+No New Notifications,Tidak Ada Pemberitahuan Baru
+No Primary Contact Set,Tidak Ada Kumpulan Kontak Utama
+No Priorities in the list,Tidak ada Prioritas dalam daftar
+No Templates Found,Tidak Ada Templat yang Ditemukan
+No Title,Tanpa Judul
+No Users Found,Tidak Ada Pengguna yang Ditemukan
+No Website Found,Tidak Ada Situs Web yang Ditemukan
+No Workdays in the List,Tidak Ada Hari Kerja dalam Daftar
+No changes made,Tidak ada perubahan yang dibuat
+No companies found in the given site,Tidak ada perusahaan yang ditemukan di situs tertentu
+No events coming up. Create a new one to keep things on track.,Tidak ada acara yang akan datang. Buat yang baru agar semuanya tetap pada jalurnya.
+No holiday list found,Tidak ada daftar hari libur yang ditemukan
+No results found,Hasil tidak ditemukan
+No {0} Found,{0} tidak ditemukan
+No {0} found,Tidak ada {0} yang ditemukan
+No.,TIDAK.
+No. of Employees,Jumlah Karyawan
+Normal,Normal
+Not Allowed,Tidak Diizinkan
+Not Saved,Tidak Disimpan
+Not Synced,Tidak Disinkronkan
+Not allowed to add contact to Deal,Tidak diizinkan menambahkan kontak ke Kesepakatan
+Not allowed to convert Lead to Deal,Tidak diizinkan mengonversi Prospek menjadi Kesepakatan
+Not allowed to remove contact from Deal,Tidak diizinkan menghapus kontak dari Kesepakatan
+Not allowed to set primary contact for Deal,Tidak diizinkan mengatur kontak utama untuk Kesepakatan
+Not equals,Tidak setara
+Not implemented yet!,Belum diterapkan!
+Not in,Tidak masuk
+Not like,Tidak seperti
+Not permitted,Tidak diperbolehkan
+Not permitted to access the referenced WhatsApp message.,Tidak diizinkan mengakses pesan WhatsApp yang direferensikan.
+Not permitted to modify fields layout,Tidak diizinkan mengubah tata letak bidang
+Note,Catatan
+Note deleted,Catatan dihapus
+Notes,Catatan
+Notes View,Tampilan Catatan
+Notification,Notifikasi
+Notification Text,Teks Notifikasi
+Notification Type Doc,Dokumen Tipe Notifikasi
+Notification Type Doctype,DocType Tipe Notifikasi
+Notifications,Notifikasi
+Number,Nomor
+Number Chart,Bagan Angka
+Number Format,Format angka
+Number of deals,Jumlah kesepakatan
+Number of deals and total value per salesperson,Jumlah kesepakatan dan nilai total per tenaga penjualan
+Number of decimal places for non-currency numeric fields,Jumlah tempat desimal untuk bidang numerik non-mata uang
+Number of decimal places used for all currency values,Jumlah tempat desimal yang digunakan untuk semua nilai mata uang
+Old Condition,Kondisi Lama
+Old Conditions,Kondisi Lama
+Old Parent,Induk Lama
+On Hold,Ditunda
+Ongoing,Sedang Berjalan
+Ongoing Deals,Penawaran yang Sedang Berlangsung
+Ongoing deals,Kesepakatan yang sedang berjalan
+Only System Managers can assign the Sales Manager role,Hanya Manajer Sistem yang dapat menetapkan peran Manajer Penjualan
+Only System Managers can assign the System Manager role,Hanya Manajer Sistem yang dapat menetapkan peran Manajer Sistem
+Only System Managers can modify other System Managers,Hanya Manajer Sistem yang dapat memodifikasi Manajer Sistem lainnya
+Only image files are allowed,Hanya file gambar yang diizinkan
+Only one {0} can be set as primary.,Hanya satu {0} yang dapat dijadikan utama.
+Only sales users can access WhatsApp features.,Hanya pengguna penjualan yang dapat mengakses fitur WhatsApp.
+Open,Buka
+Open Deal,Buka Kesepakatan
+Open Lead,Buka Prospek
+Open Nested Conditions,Buka Kondisi Bersarang
+Open Website,Buka Situs Web
+Open in Portal,Buka di Portal
+Open in new window,Buka di jendela baru
+Operator,Operator
+Options,Opsi
+Or create leads manually,Atau buat prospek secara manual
+Order By,Urutkan Berdasarkan
+Organization,Organisasi
+Organization Details,Detail Organisasi
+Organization Logo,Logo Organisasi
+Organization Name,Nama Organisasi
+Organization is required to create a customer,Organisasi diperlukan untuk menciptakan pelanggan
+Organizations,Organisasi
+Organizer,Penyelenggara
+Other Features,Fitur Lainnya
+Others,Yang lain
+Outbound Call,Panggilan Keluar
+Outgoing,Keluar
+Owner,Pemilik
+Page,Halaman
+Page Name,Nama Halaman
+Parent CRM Territory,Wilayah CRM Induk
+Password,Kata Sandi
+Password Updated Successfully,Kata Sandi Berhasil Diperbarui
+Password cannot be reset by Demo User {},Kata sandi tidak dapat direset oleh Pengguna Demo {}
+Password is required,Kata sandi wajib diisi
+Password must be at least 8 characters,Kata sandi minimal harus 8 karakter
+"Password must contain lowercase, uppercase, number, and symbol","Kata sandi harus mengandung huruf kecil, huruf besar, angka, dan simbol"
+Password updated successfully,Kata sandi berhasil diperbarui
+Passwords do not match,Kata sandi tidak cocok
+Passwords match,Kata sandi cocok
+Payment Reminder,Pengingat Pembayaran
+Payment Reminder from Frappé - (#{{ name }}),Pengingat Pembayaran dari Frappé - (#{{ name }})
+Pending,Tertunda
+Pending Invites,Undangan Tertunda
+Period,Periode
+Person,Orang
+Personal Mobile No.,Nomor Ponsel Pribadi.
+Phone,Telepon
+Phone Numbers,Nomor Telepon
+Pin View,Sematkan Tampilan
+Pinned,Disematkan
+Pinned View,Tampilan yang Disematkan
+Pinned Views,Tampilan yang Disematkan
+Playback Speed,Kecepatan Pemutaran
+Please check your access token,Silakan periksa token akses Anda
+Please enable twilio settings before making a call.,Harap aktifkan pengaturan Twilio sebelum melakukan panggilan.
+Please enter a valid URL,Harap masukkan URL yang valid
+Please fix the errors in the form,Harap perbaiki kesalahan pada formulir
+Please select a Priority,Silakan pilih Prioritas
+Please select a currency before saving.,Harap pilih mata uang sebelum menyimpan.
+Please select a lead gen form before syncing!,Silakan pilih formulir perolehan prospek sebelum menyinkronkan!
+Please select an existing contact,Harap pilih kontak yang sudah ada
+Please select an existing organization,Harap pilih organisasi yang sudah ada
+Please select weekly off day,Silakan pilih dari hari mingguan
+Please set a mobile number to make calls,Silakan atur nomor ponsel untuk melakukan panggilan
+Please set a website to visit,Silakan tetapkan situs web yang akan dikunjungi
+Please set an email address to send emails,Silakan atur alamat email untuk mengirim email
+Please setup Exotel intergration,Harap atur integrasi Exotel
+Please specify a reason for losing the deal.,Mohon sebutkan alasan kesepakatan ini gagal.
+Please specify a reason for losing the lead.,Silakan tentukan alasan kehilangan keunggulan.
+Please specify the reason for losing the deal.,Mohon sebutkan alasan utama kesepakatan ini gagal.
+Please specify the reason for losing the lead.,Silakan sebutkan alasan hilangnya keunggulan.
+Policy Name,Nama Kebijakan
+Position,Posisi
+Preferences,Preferensi
+Preferences Updated Successfully,Preferensi Berhasil Diperbarui
+Primary,Utama
+Primary Contact Set,Kumpulan Kontak Utama
+Primary email,Email utama
+Primary mobile no,Nomor ponsel utama
+Primary phone,Telepon utama
+Priorities,Prioritas
+Priorities must be unique,Prioritas harus unik
+Priority,Prioritas
+Private,Privat
+Private or Public,Swasta atau Publik
+Probability,Probabilitas
+Product,Produk
+Product Code,Kode Produk
+Product Name,Nama Produk
+Products,Produk
+Profile,Profil
+Profile Updated Successfully,Profil Berhasil Diperbarui
+Projected vs actual revenue based on deal probability,Pendapatan yang diproyeksikan vs pendapatan aktual berdasarkan probabilitas kesepakatan
+Public,Publik
+Public View,Tampilan Publik
+Public Views,Tampilan Publik
+Quantity,Kuantitas
+Questions,Pertanyaan
+Queued,Dalam Antrian
+Quick Entry,Entri Cepat
+Quick Entry Layout,Tata Letak Entri Cepat
+Quick Filters,Filter Cepat
+Quick filters updated successfully,Filter cepat berhasil diperbarui
+Rate,Harga
+Read,Dibaca
+Reason,Alasan
+Record Calls,Rekam Panggilan
+Record Outgoing Calls,Rekam Panggilan Keluar
+Recording URL,URL Rekaman
+Recording URL not found,URL rekaman tidak ditemukan
+Reference Doc,Dokumen Referensi
+Reference Doctype,Doctype Referensi
+Reference Document Type,Tipe dokumen referensi
+Reference Name,Nama Referensi
+Referenced WhatsApp message does not exist.,Pesan WhatsApp yang direferensikan tidak ada.
+Refresh,Segarkan
+Refresh Apps,Segarkan Aplikasi
+Refresh Companies,Segarkan Perusahaan
+Reject,Tolak
+Reject Call,Tolak Panggilan
+Reload Columns,Muat Ulang Kolom
+"Reminders will be sent <b>before the event starts</b>, based on the configured time","Pengingat akan dikirim <b>sebelum acara dimulai</b>, berdasarkan waktu yang dikonfigurasi"
+Remove,Hapus
+Remove All,Hapus semua
+Remove Group,Hapus Grup
+Remove Image,Hapus Gambar
+Remove Last Column,Hapus Kolom Terakhir
+Remove Last Column (move fields to previous),Hapus Kolom Terakhir (pindahkan kolom ke sebelumnya)
+Remove Photo,Hapus Foto
+Remove Section,Hapus Bagian
+Remove Tab,Hapus Tab
+Reopen lead/deal on new communication,Buka kembali prospek/kesepakatan pada komunikasi baru
+Reply,Balas
+Reply All,Balas Semua
+Report an Issue,Laporkan masalah
+Required Fields,Bidang Wajib
+Reset,Reset
+Reset Changes,Reset Perubahan
+Reset ERPNext Form Script,Reset Skrip Formulir GARP ERP
+Reset to Default,Reset ke Pengaturan Default
+Responded On,Ditanggapi Pada
+Response & Follow Up,Respon & Tindak Lanjut
+Response By,Batas Respon
+Response Details,Detail Respon
+Response Time,Waktu Respons
+Response Time is required,Waktu Respons diperlukan
+Restart the SLA each time the customer replies (status changes to Open) and fulfill it when marked as Replied,Mulai ulang SLA setiap kali pelanggan membalas (status berubah menjadi Terbuka) dan penuhi ketika ditandai sebagai Dibalas
+Restore,Pulihkan
+Restore Defaults,Kembalikan ke Pengaturan Default
+Restore Demo Data,Pulihkan Data Demo
+Retake,Ambil ulang
+Retry Sync,Coba Sinkronisasi lagi
+Revenue,Pendapatan
+Rich Text,Teks Berformat
+Right,Right
+Ringing,Berdering
+Ringing...,Berdering...
+Role,Peran
+Rolling Response Due,Batas Waktu Respons Bergulir
+Rolling Responses,Tanggapan Bergulir
+Route,Route
+Route Name,Nama Route
+Rows,Baris
+SLA,SLA
+SLA Creation,Pembuatan SLA
+SLA Name,Nama SLA
+SLA Policies,Kebijakan SLA
+SLA Policy Created,Kebijakan SLA Dibuat
+SLA Policy Deleted,Kebijakan SLA Dihapus
+SLA Policy Duplicated,Kebijakan SLA Diduplikasi
+SLA Policy Name is required,Nama Kebijakan SLA wajib diisi
+SLA Policy Status Updated,Status Kebijakan SLA Diperbarui
+SLA Policy Updated,Kebijakan SLA Diperbarui
+SLA Status,Status SLA
+SLA set as default cannot be disabled,SLA yang ditetapkan sebagai default tidak dapat dinonaktifkan
+SUBJECT,SUBJEK
+Sales Manager,Manajer Penjualan
+Sales Trend,Tren Penjualan
+Sales User,Pengguna Penjualan
+Sales trend,Tren Penjualan
+Salesperson,Tenaga Penjualan
+Salutation,Sapaan
+Saturday,Sabtu
+Save,Simpan
+Save Changes,Simpan Perubahan
+Saved View,Tampilan Tersimpan
+Saved Views,Tampilan Tersimpan
+Schedule a task...,Jadwalkan tugas...
+Schedule an Event,Jadwalkan Acara
+Script,Skrip
+Search,Pencarian
+Search Template,Templat Pencarian
+Search User,Cari Pengguna
+Section,Bagian
+See All Participants,Lihat Semua Peserta
+Select,Pilih
+Select Company,Pilih Perusahaan
+Select Currency,Pilih Mata Uang
+Select Holiday List,Pilih Daftar Liburan
+Select Medium,Pilih Sedang
+Select Priority,Pilih Prioritas
+Select Provider,Pilih Penyedia
+Select Range,Pilih Rentang
+Select Type,Pilih Jenis
+Select Workday,Pilih Hari Kerja
+Select a Twilio App for your CRM,Pilih Aplikasi Twilio untuk CRM Anda
+Select a Value,Pilih Nilai
+Select an Option,Pilih sebuah Opsi
+Select the deal status to trigger the auto customer creation in ERPNext,Pilih status transaksi untuk memicu pembuatan pelanggan otomatis di GARP ERP
+Select the default view for your calendar. This will be the initial view when you open the calendar,Pilih tampilan default untuk kalender Anda. Ini akan menjadi tampilan awal saat Anda membuka kalender
+Select whether to display time with or without seconds,Pilih apakah akan menampilkan waktu dengan atau tanpa detik
+Select your ERPNext company to connect with,Pilih perusahaan GARP ERP Anda untuk dihubungkan
+Select {0},Pilih {0}
+Send,Kirim
+Send Invites,Kirim Undangan
+Send Invites To,Kirim Undangan Ke
+Send Template,Kirim Templat
+Send an Email,Kirim Email
+Send email,Kirim email
+Sending comment...,Mengirim komentar...
+Sending email...,Mengirim email...
+Separator,Pemisah
+Series,Seri Penamaan
+Service Level Agreement,Persetujuan tingkat layanan
+Service Provider,Penyedia Layanan
+Set,Tetapkan
+Set As Default,Tetapkan Sebagai Default
+Set As Primary,Tetapkan Sebagai Utama
+Set Currency,Tetapkan Mata Uang
+Set Default Priority,Tetapkan Prioritas Default
+Set First Name,Tetapkan Nama Depan
+Set Location,Tetapkan Lokasi
+Set all as private,Atur semua sebagai privat
+Set all as public,Atur semua sebagai publik
+Set an Organization,Tetapkan Organisasi
+Set as Primary Contact,Atur sebagai Kontak Utama
+Set as default SLA,Tetapkan sebagai SLA default
+Set location…,Tetapkan lokasi…
+Set the Exotel number to be used for outgoing calls.,Atur nomor Exotel yang akan digunakan untuk panggilan keluar.
+Set the Twilio number to be used for outgoing calls.,Atur nomor Twilio yang akan digunakan untuk panggilan keluar.
+Set the name of your brand. Appears in the left sidebar.,Tetapkan nama merek Anda. Muncul di sidebar kiri.
+"Set working days, hours, and holidays by selecting a predefined schedule or creating a new one","Tetapkan hari kerja, jam kerja, dan hari libur dengan memilih jadwal yang telah ditentukan atau membuat jadwal baru"
+Setting Up,Menyiapkan
+Setting disabled successfully,Pengaturan berhasil dinonaktifkan
+Setting enabled successfully,Pengaturan berhasil diaktifkan
+Setting up Frappe Mail requires you to have an API key and API Secret of your email account. Read more,"Untuk mengatur GARP Mail, Anda harus memiliki API key dan API Secret dari akun email Anda. Baca selengkapnya"
+Setting up GMail requires you to enable two factor authentication and app specific passwords. Read more,Menyiapkan GMail mengharuskan Anda mengaktifkan autentikasi dua faktor dan kata sandi khusus aplikasi. Baca selengkapnya
+Setting up Outlook requires you to enable two factor authentication and app specific passwords. Read more,Menyiapkan Outlook mengharuskan Anda mengaktifkan autentikasi dua faktor dan kata sandi khusus aplikasi. Baca selengkapnya
+Setting up Sendgrid requires you to enable two factor authentication and app specific passwords. Read more,Menyiapkan Sendgrid mengharuskan Anda mengaktifkan otentikasi dua faktor dan kata sandi khusus aplikasi. Baca selengkapnya
+Setting up Sparkpost requires you to enable two factor authentication and app specific passwords. Read more,Menyiapkan Sparkpost mengharuskan Anda mengaktifkan autentikasi dua faktor dan kata sandi khusus aplikasi. Baca selengkapnya
+Setting up Yahoo requires you to enable two factor authentication and app specific passwords. Read more,Menyiapkan Yahoo mengharuskan Anda mengaktifkan otentikasi dua faktor dan kata sandi khusus aplikasi. Baca selengkapnya
+Setting up Yandex requires you to enable two factor authentication and app specific passwords. Read more,Menyiapkan Yandex mengharuskan Anda mengaktifkan otentikasi dua faktor dan kata sandi khusus aplikasi. Baca selengkapnya
+Settings,Pengaturan
+Settings saved,Pengaturan disimpan
+Settings updated successfully,Pengaturan berhasil diperbarui
+Setup Email,Atur Email
+Setup your password,Atur kata sandi Anda
+Show,Tampilkan
+Show Border,Tampilkan Perbatasan
+Show Label,Tampilkan Label
+Show Less,Tampilkan Lebih Sedikit
+Show Password,Tampilkan Kata Sandi
+Show Preview,Tampilkan Pratayang
+Side Panel,Panel Samping
+Sidebar Items,Item Bilah Sisi
+Signature,Tanda Tangan
+"Simple Python Expression, Example: doc.status == 'Open' and doc.lead_source == 'Ads'","Ekspresi Python Sederhana, Contoh: doc.status == 'Open' and doc.lead_source == 'Ads'"
+"Since you removed {0} from the assignee, the {0} has also been removed.","Karena Anda menghapus {0} dari penerima tugas, {0} juga telah dihapus."
+"Since you removed {0} from the assignee, the {0} has been changed to the next available assignee {1}.","Karena Anda menghapus {0} dari penanggung jawab, maka {0} telah dialihkan ke penanggung jawab berikutnya yang tersedia, yaitu {1}."
+Site URL,URL situs
+Site URL is required,URL situs diperlukan
+Site connection validated,Koneksi situs divalidasi
+Some error occurred while creating SLA Policy,Beberapa kesalahan terjadi saat membuat Kebijakan SLA
+Some error occurred while renaming SLA policy,Beberapa kesalahan terjadi saat mengganti nama kebijakan SLA
+Some error occurred while renaming assignment rule,Beberapa kesalahan terjadi saat mengganti nama aturan penetapan
+Some error occurred while updating SLA policy,Beberapa kesalahan terjadi saat memperbarui kebijakan SLA
+Some error occurred while updating assignment rule,Beberapa kesalahan terjadi saat memperbarui aturan penetapan
+Something went wrong,Ada yang salah
+"Something went wrong, try again later","Ada yang tidak beres, coba lagi nanti"
+Sort,Urutkan
+Source,Sumber
+Source Name,Nama Sumber
+Source Type,Jenis Sumber
+Source disabled successfully,Sumber berhasil dinonaktifkan
+Source enabled successfully,Sumber berhasil diaktifkan
+Spacer,Pemberi Jarak
+Stage,Tahap
+"Standard Form Scripts can not be modified, duplicate the Form Script instead.","Skrip Formulir Standar tidak dapat diubah, silakan duplikasi untuk melakukan perubahan."
+Standard Selling Rate,Harga Jual Standar
+Standard Views,Tampilan Standar
+Start & End Time Are Required,Waktu Mulai & Berakhir Diperlukan
+Start Date,Tanggal Mulai
+Start Date cannot be after end date,Tanggal Mulai tidak boleh setelah tanggal akhir
+Start Time,Waktu Mulai
+Start Time is required,Waktu Mulai diperlukan
+Start with sample 10 leads,Mulai dengan 10 contoh prospek
+Status,Status
+Status Change Log,Log Perubahan Status
+Status is required,Status wajib diisi
+Subdomain,Subdomain
+Subject,Subjek
+Subject is required,Subjek wajib diisi
+Subject: {0},Subjek {0}
+Sunday,Minggu
+Support / Sales,Dukungan / Penjualan
+Switch Camera,Ganti kamera
+"Switch between light, dark, or system theme","Beralih antara tema terang, gelap, atau sistem"
+Switch between outgoing email accounts when sending emails,Beralih di antara akun email keluar saat mengirim email
+Sync Now,Sinkronkan Sekarang
+Sync Successful!,Sinkronisasi Berhasil!
+"Sync your Contacts, Email and Calendars","Sinkronkan Kontak, Email, dan Kalender Anda"
+Synced,Disinkronkan
+Syncing,Sinkronisasi
+Syncing started in background,Sinkronisasi dimulai di latar belakang
+System,Sistem
+System Configuration,Konfigurasi Sistem
+System Defaults,Default Sistem
+System Manager,System Manager
+TO,KEPADA
+Take a note...,Tulis catatan...
+Task,Tugas
+Task created,Tugas dibuat
+Tasks,Tugas
+Telephony,Telepon
+Telephony Medium,Media Telepon
+Telephony Settings,Pengaturan Telepon
+Template Deleted Successfully,Templat Berhasil Dihapus
+Template Name,Nama Templat
+Template created successfully,Templat berhasil dibuat
+Template disabled successfully,Templat berhasil dinonaktifkan
+Template enabled successfully,Templat berhasil diaktifkan
+Template renamed successfully,Templat berhasil diganti nama
+Template updated successfully,Tempalt berhasil diperbarui
+Templates,Templat
+Territories,Wilayah
+Territory,Wilayah
+Territory Manager,Manajer Wilayah
+Territory Name,Nama Wilayah
+Thanks,Terima kasih
+The Condition '{0}' is invalid: {1},Kondisi '{0}' tidak valid: {1}
+The holiday on {0} is not between From Date and To Date,Liburan di {0} bukan antara Dari Tanggal dan To Date
+The rate used to convert the deal’s currency to your crm's base currency (set in CRM Settings). It is set once when the currency is first added and doesn't change automatically.,Kurs yang digunakan untuk mengonversi mata uang kesepakatan ke mata uang dasar CRM Anda (diatur di Pengaturan CRM). Nilai ini ditetapkan sekali saat mata uang pertama kali ditambahkan dan tidak berubah secara otomatis.
+The rate used to convert the organization’s currency to your crm's base currency (set in CRM Settings). It is set once when the currency is first added and doesn't change automatically.,Kurs yang digunakan untuk mengonversi mata uang organisasi ke mata uang dasar CRM Anda (diatur di Pengaturan CRM). Nilai ini ditetapkan sekali saat mata uang pertama kali ditambahkan dan tidak berubah secara otomatis.
+Theme,Tema
+There can only be one default priority in Priorities table,Tabel Prioritas hanya boleh memiliki satu prioritas default
+These fields are required: {0},Bidang berikut wajib diisi: {0}
+This Month,Bulan Ini
+This Quarter,Kuartal Ini
+This Week,Minggu Ini
+This Year,Tahun Ini
+This column contains fields. Are you sure you want to remove it?,Kolom ini berisi bidang. Apakah Anda yakin ingin menghapusnya?
+This field is required,Bidang ini wajib diisi
+This method is only meant for developer mode,Metode ini hanya ditujukan untuk mode pengembang
+This section contains fields. Are you sure you want to remove it?,Bagian ini berisi bidang. Apakah Anda yakin ingin menghapusnya?
+This section is not editable,Bagian ini tidak bisa diedit
+"This will delete selected items and items linked to it, are you sure?",Tindakan ini akan menghapus item terpilih beserta item lain yang tertaut. Apakah Anda yakin?
+"This will delete selected items and unlink linked items to it, are you sure?","Tindakan ini akan menghapus item terpilih dan melepas item lain yang tertaut dengannya, Anda yakin?"
+"This will restore (if not exist) all the default statuses, custom fields and layouts. Delete & Restore will delete default layouts and then restore them.","Ini akan memulihkan (jika belum ada) semua status default, bidang kustom, dan layout. Tindakan ""Hapus & Pulihkan"" akan menghapus layout default lalu memulihkannya kembali."
+This will restore the demo data. Are you sure you want to continue?,Ini akan memulihkan data demo. Apakah Anda yakin ingin melanjutkan?
+Thursday,Kamis
+Time Format,Format Waktu
+Time before the event when a reminder notification will be sent by default. This will be applied to all events unless a custom notification is set for a specific event.,Waktu sebelum acara ketika pemberitahuan pengingat akan dikirimkan secara default. Ini akan diterapkan ke semua acara kecuali pemberitahuan khusus disetel untuk acara tertentu.
+Timespan,Rentang Waktu
+Timezone,Zona waktu
+Title,Judul
+Title Field,Bidang Judul
+Title is required,Judul diperlukan
+To,Ke
+To Date,Tanggal Selesai
+To Date cannot be before From Date,Sampai saat ini tidak dapat sebelumnya dari tanggal
+To Number,Ke Nomor
+To Type,Tipe Baru
+To User,Kepada Pengguna
+"To know more about setting up email accounts, click","Untuk mengetahui lebih lanjut tentang pengaturan akun email, klik"
+Today,Hari Ini
+Todo,Akan Dikerjakan
+Toggle on for Preview,Aktifkan untuk Pratinjau
+Tomorrow,Besok
+Too many failed attempts. Please try again after some time.,Terlalu banyak upaya yang gagal. Silakan coba lagi setelah beberapa waktu.
+Took a call with John Doe and discussed the new project.,Melakukan panggilan dengan John Doe dan membahas proyek baru.
+Total,Total
+Total Holidays,Total Hari Libur
+Total Leads,Total Prospek
+Total after discount,Total setelah diskon
+Total leads,Total prospek
+Total number of leads,Jumlah total prospek
+Total number of non won/lost deals,Jumlah total kesepakatan yang sedang berjalan
+Total number of won deals based on its closure date,Jumlah total kesepakatan yang berhasil berdasarkan tanggal penutupannya
+Traceback,Jejak Balik
+Tuesday,Selasa
+Turn into a Group,Berubah menjadi Grup
+TwiML SID,TwiML SID
+Twilio,Twilio
+Twilio API credential creation error.,Kesalahan pembuatan kredensial API Twilio.
+Twilio App Name,Nama Aplikasi Twilio
+Twilio Apps,Aplikasi Twilio
+Twilio Integration Disabled,Integrasi Twilio Dinonaktifkan
+Twilio Number,Nomor Twilio
+Twilio Settings,Pengaturan Twilio
+Twilio configuration is missing,Konfigurasi Twilio tidak ada
+Type,Tipe
+Type an email address to add attendee,Ketikkan alamat email untuk menambahkan peserta
+Type your message here...,Ketik pesan Anda di sini...
+Unable to connect to Twilio account to fetch applications.,Tidak dapat terhubung ke akun Twilio untuk mengambil aplikasi.
+Unassign Conditions are invalid,Kondisi yang dibatalkan penetapannya tidak valid
+Unassignment Condition,Kondisi Pembatalan Penugasan
+Unauthorized request,Permintaan yang tidak sah
+Uncollapsible,Tidak Dapat Diciutkan
+Ungroup Conditions,Kondisi Pisahkan
+Unknown,Tidak diketahui
+Unlink,Lepas tautan
+Unlink & Delete,Putuskan tautan & Hapus
+Unlink All,Putuskan Tautan Semua
+Unlink Linked Item,Batalkan Tautan Item Tertaut
+Unpin View,Lepas Sematan Tampilan
+Unsaved Changes,Perubahan Belum Disimpan
+Untitled,Tanpa Judul
+Update,Pembaruan
+Update Account,Perbarui Akun
+Update Configuration,Perbarui Konfigurasi
+Update the modified timestamp on new email communication & comment for leads & deals,Perbarui stempel waktu yang diubah pada komunikasi email baru & komentar untuk prospek & penawaran
+Update the modified timestamp on new email communication & comments for leads & deals,Perbarui stempel waktu yang diubah pada komunikasi email baru & komentar untuk prospek & penawaran
+Update timestamp on new communication,Perbarui stempel waktu pada komunikasi baru
+Update {0} Records,Perbarui {0} Catatan
+Upload,Unggah
+Upload Attachment,Unggah Lampiran
+Upload Document,Unggah Dokumen
+Upload Image,Unggah Gambar
+Upload Photo,Unggah Foto
+Upload Video,Unggah Video
+User,Pengguna
+User Configuration,Konfigurasi Pengguna
+User Management,Manajemen Pengguna
+User Name,Nama Pengguna
+User {0} has been removed,Pengguna {0} berhasil dihapus
+Users,Pengguna
+Users Added Successfully,Pengguna Berhasil Ditambahkan
+Users are required,Pengguna diperlukan
+Valid From,Berlaku Mulai
+Valid conditions are required,Persyaratan yang valid diperlukan
+Validity,Validitas
+Value,Nilai
+Verify Connection,Verifikasi Koneksi
+View Contact,Lihat Kontak
+View Location,Lihat Lokasi
+View Name,Nama Tampilan
+Views,Tampilan
+Visibility,Visibilitas
+Web Form,Formulir web
+Webhook Verify Token,Token Verifikasi Webhook
+Website,Situs Web
+Wednesday,Rabu
+Week,Minggu
+Weekly,Mingguan
+Weekly Off,Libur Mingguan
+Welcome Message,Pesan Selamat Datang
+"Welcome {0}, lets add your first lead","Selamat Datang {0}, ayo tambahkan prospek pertama Anda"
+WhatsApp,WhatsApp
+WhatsApp Message,Pesan WhatsApp
+WhatsApp Templates,Templat WhatsApp
+Where,Di mana
+Width,Lebar
+"Width can be in number, pixel or rem (eg. 3, 30px, 10rem)","Lebar bisa dalam satuan angka, piksel, atau rem (misalnya 3, 30px, 10rem)"
+Won,Berhasil
+Won Deals,Memenangkan Penawaran
+Won deals,Kesepakatan yang berhasil
+Work Schedule & Holidays,Jadwal Kerja & Hari Libur
+Workday,Hari Kerja
+Working Hours,Jam Kerja
+Yes,Ya
+Yesterday,Kemarin
+You,Anda
+You are not allowed to invite Sales Managers,Anda tidak diperbolehkan mengundang Manajer Penjualan
+You are not allowed to invite System Managers,Anda tidak diperbolehkan mengundang Manajer Sistem
+You are not permitted to access CRM resources.,Anda tidak diizinkan mengakses sumber daya CRM.
+You are not permitted to access this resource.,Anda tidak diizinkan mengakses sumber daya ini.
+You are not permitted to create leads.,Anda tidak diizinkan membuat prospek.
+You are not permitted to update this call log.,Anda tidak diizinkan memperbarui log panggilan ini.
+You can also copy-paste following link in your browser,Anda juga dapat menyalin dan menempel tautan berikut di peramban Anda
+You can change the default calling medium from the settings,Anda dapat mengubah media panggilan default dari pengaturan
+You can get your Access Key from ,Anda bisa mendapatkan Kunci Akses Anda dari
+You can invite multiple users by comma separating their email addresses,Anda dapat mengundang banyak pengguna dengan memisahkan alamat email mereka dengan koma
+You cannot remove yourself.,Anda tidak dapat menghapus diri Anda sendiri.
+You do not have Exotel Number set in your Telephony Agent,Anda belum mengatur Nomor Exotel di Agen Telepon Anda
+You do not have enough permissions to access Frappe CRM. Please contact your administrator if you believe this is an error.,Anda tidak memiliki izin yang cukup untuk mengakses GARP CRM. Silakan hubungi administrator Anda jika Anda yakin ini adalah kesalahan.
+You do not have mobile number set in your Telephony Agent,Anda belum mengatur nomor ponsel di Agen Telepon Anda
+You do not have permission to access Frappe CRM,Anda tidak memiliki izin untuk mengakses GARP CRM
+You do not have permission to access this document,Anda tidak memiliki izin untuk mengakses dokumen ini
+You don't have permission to delete this attachment,Anda tidak memiliki izin untuk menghapus lampiran ini
+You must be logged in to change your password,Anda harus login untuk mengubah kata sandi Anda
+You need to be in developer mode to edit a Standard Form Script,Anda harus berada dalam Mode pengembang untuk mengubah Skrip Formulir Standar
+"You will be redirected to invite user page, unsaved changes will be lost.","Anda akan diarahkan ke halaman mengundang pengguna, perubahan yang belum disimpan akan hilang."
+You will need a Meta developer account and an access token to sync leads from Facebook. Read more,Anda memerlukan akun pengembang Meta dan token akses untuk menyinkronkan prospek dari Facebook. Baca selengkapnya
+Your assignment on task {0} has been removed by {1},Tugas Anda pada {0} telah dihapus oleh {1}
+Your assignment on {0} {1} has been removed by {2},Penugasan Anda pada {0} {1} telah dihapus oleh {2}
+Your login id is,Id login Anda
+Your old condition will be overwritten. Are you sure you want to save?,Kondisi lama Anda akan ditimpa. Apakah Anda yakin ingin menyimpannya?
+Your old conditions will be overwritten. Are you sure you want to save?,Kondisi lama Anda akan ditimpa. Apakah Anda yakin ingin menyimpannya?
+added a,menambahkan
+amber,kuning sawo
+assigned a new task {0} to you,menetapkan tugas baru {0} kepada Anda
+assigned a {0} {1} to you,menetapkan tugas {0} {1} kepada Anda
+at,pada
+before at,sebelum pukul
+black,hitam
+blue,biru
+changes from,diubah dari
+comment,komentar
+converted the lead to this deal,mengonversi petunjuk ke kesepakatan ini
+created this deal,menciptakan kesepakatan ini
+created this lead,menciptakan petunjuk ini
+cyan,biru muda
+day,hari
+day before,sehari sebelumnya
+days,hari
+days before,hari sebelumnya
+deals,kesepakatan
+desk,meja
+exchangerate-api,nilai tukar-api
+exchangerate.host,exchangerate.host
+fawazahmed-exchange-api,fawazahmed-exchange-api
+field,bidang
+fields,bidang
+frankfurter.app,frankfurter.app
+gray,abu-abu
+green,hijau
+group_by,kelompokkan_berdasarkan
+has made a call,telah melakukan panggilan
+has reached out,telah menghubungi
+here,di sini
+hour,jam
+hour before,jam sebelumnya
+hours,jam
+hours before,jam sebelumnya
+in 1 hour,1 jam lagi
+in 1 minute,1 menit lagi
+in 1 year,1 tahun lagi
+in {0} M,{0} Bln lagi
+in {0} d,{0} hri lagi
+in {0} days,{0} hari lagi
+in {0} h,{0} jm lagi
+in {0} hours,{0} jam lagi
+in {0} m,{0} mnt lagi
+in {0} minutes,{0} menit lagi
+in {0} months,{0} bulan lagi
+in {0} w,{0} mng lagi
+in {0} weeks,{0} minggu lagi
+in {0} y,{0} thn lagi
+in {0} years,{0} tahun lagi
+john@doe.com,john@doe.com
+just now,baru saja
+kanban,kanban
+label,label
+leads,lead
+list,daftar
+mentioned you in {0},menyebutkan Anda di {0}
+minute,menit
+minute before,menit sebelumnya
+minutes,menit
+minutes before,menit sebelumnya
+next,selanjutnya
+now,sekarang
+old_value,nilai_lama
+orange,oranye
+pink,merah jambu
+previous,sebelumnya
+private,privat
+public,publik
+purple,ungu kemerahan
+received a whatsapp message in {0},menerima pesan WhatsApp di {0}
+red,merah
+teal,biru kehijauan gelap
+to,menjadi
+tomorrow,besok
+value,nilai
+violet,ungu kebiruan
+week,minggu
+week before,minggu sebelumnya
+weeks,minggu
+weeks before,minggu sebelumnya
+"which are not compatible with this UI, you will need to recreate the conditions here if you want to manage and add new conditions from this UI.","yang tidak kompatibel dengan UI ini, Anda perlu membuat ulang ketentuan di sini jika ingin mengelola dan menambahkan ketentuan baru dari UI ini."
+yellow,kuning
+yesterday,kemarin
+{0} M,{0} Bln
+{0} assigned a {1} {2} to you,{0} menugaskan {1} {2} kepada Anda
+{0} d,{0} h
+{0} days ago,{0} hari yang lalu
+{0} h,{0} j
+{0} hours ago,{0} jam yang lalu
+{0} is an invalid email address,{0} bukan alamat email yang valid
+{0} is required,{0} wajib diisi
+{0} m,{0} mnt
+{0} minutes ago,{0} menit yang lalu
+{0} months ago,{0} bulan yang lalu
+{0} w,{0} mgu
+{0} weeks ago,{0} minggu yang lalu
+{0} y,{0} thn
+{0} years ago,{0} tahun yang lalu
+"⚠️ Avoid using ""trigger"" as a field name — it conflicts with the built-in trigger() method.","⚠️ Hindari menggunakan ""trigger"" sebagai nama bidang, karena akan menimbulkan konflik dengan metode bawaan trigger()."
+"⚠️ Method ""{0}"" not found in class.","⚠️ Metode ""{0}"" tidak ditemukan pada kelas."
+"⚠️ No class found for doctype: {0}, it is mandatory to have a class for the parent doctype. it can be empty, but it should be present.","⚠️ Kelas tidak ditemukan untuk doctype: {0}, wajib ada sebuah kelas untuk doctype induk. Kelas tersebut bisa kosong, namun harus tetap ada."
+⚠️ No data found for parent field: {0},⚠️ Data tidak ditemukan untuk bidang induk: {0}
+⚠️ No row found for idx: {0} in parent field: {1},Baris tidak ditemukan untuk idx: {0} di dalam bidang induk: {1}

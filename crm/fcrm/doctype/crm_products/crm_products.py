@@ -53,7 +53,7 @@ def _contextual_rate(product_code: str, deal: str | None):
 def _resolve_price_list(customer: str | None):
 	"""Customer's default price list, else the default selling price list."""
 	if customer and frappe.db.exists("Customer", customer):
-		from erpnext.accounts.party import get_default_price_list
+		from garperp.accounts.party import get_default_price_list
 
 		if pl := get_default_price_list(frappe.get_cached_doc("Customer", customer)):
 			return pl
@@ -68,7 +68,7 @@ def get_deal_product_rate(item_code: str, deal: str | None = None):
 	price_list = _resolve_price_list(customer)
 	if not price_list:
 		return None
-	from erpnext.stock.get_item_details import get_item_price
+	from garperp.stock.get_item_details import get_item_price
 
 	pctx = frappe._dict(
 		{

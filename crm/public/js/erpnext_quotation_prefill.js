@@ -16,7 +16,7 @@ frappe.ui.form.on('Quotation', {
 		if ((frm.doc.items || []).some((i) => i.item_code)) return
 
 		frappe.call({
-			method: 'crm.fcrm.doctype.erpnext_crm_settings.erpnext_crm_settings.prefill_quotation_items',
+			method: 'crm.fcrm.doctype.garp_crm_settings.garp_crm_settings.prefill_quotation_items',
 			args: { crm_deal },
 			callback: async (r) => {
 				if (!r.message || !r.message.length) return

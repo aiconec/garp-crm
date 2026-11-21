@@ -38,7 +38,7 @@ def skip_test_records_of_other_apps():
 def ensure_erpnext_fixtures():
 	"""Create ERPNext setup-wizard fixtures the integration tests rely on."""
 	if not frappe.db.exists("Item Group", "All Item Groups"):
-		from erpnext.setup.setup_wizard.operations.install_fixtures import install
+		from garperp.setup.setup_wizard.operations.install_fixtures import install
 
 		# A country is required: install() builds a root Territory named after it.
 		install("India")

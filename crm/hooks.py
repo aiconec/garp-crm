@@ -1,12 +1,12 @@
 import frappe
 
 app_name = "crm"
-app_title = "Frappe CRM"
-app_publisher = "Frappe Technologies Pvt. Ltd."
-app_description = "Kick-ass Open Source CRM"
-app_email = "shariq@frappe.io"
+app_title = "GARP CRM"
+app_publisher = "Aiconec GARP"
+app_description = "GARP CRM — customer relationships, deals and pipelines"
+app_email = "engineering@aiconec.com"
 app_license = "AGPLv3"
-app_icon_url = "/assets/crm/images/logo.svg"
+app_icon_url = "/assets/crm/images/garp-crm-icon.svg"
 app_icon_title = "CRM"
 app_icon_route = "/crm"
 
@@ -17,7 +17,7 @@ app_icon_route = "/crm"
 add_to_apps_screen = [
 	{
 		"name": "crm",
-		"logo": "/assets/crm/images/logo.svg",
+		"logo": "/assets/crm/images/garp-crm-icon.svg",
 		"title": "CRM",
 		"route": "/crm",
 		"has_permission": "crm.api.check_app_permission",
@@ -289,7 +289,7 @@ doc_events = {
 	},
 	"CRM Deal": {
 		"on_update": [
-			"crm.fcrm.doctype.erpnext_crm_settings.erpnext_crm_settings.create_customer_in_erpnext",
+			"crm.fcrm.doctype.garp_crm_settings.garp_crm_settings.create_customer_in_erpnext",
 			"crm.automation.events.on_deal_update",
 		],
 	},
@@ -298,18 +298,18 @@ doc_events = {
 	},
 	"Sales Order": {
 		"before_validate": [
-			"crm.fcrm.doctype.erpnext_crm_settings.erpnext_crm_settings.create_customer_on_sales_order"
+			"crm.fcrm.doctype.garp_crm_settings.garp_crm_settings.create_customer_on_sales_order"
 		],
 	},
 	"Quotation": {
 		"after_insert": [
-			"crm.fcrm.doctype.erpnext_crm_settings.erpnext_crm_settings.notify_deal_quotation_change"
+			"crm.fcrm.doctype.garp_crm_settings.garp_crm_settings.notify_deal_quotation_change"
 		],
 		"on_update": [
-			"crm.fcrm.doctype.erpnext_crm_settings.erpnext_crm_settings.notify_deal_quotation_change"
+			"crm.fcrm.doctype.garp_crm_settings.garp_crm_settings.notify_deal_quotation_change"
 		],
 		"on_trash": [
-			"crm.fcrm.doctype.erpnext_crm_settings.erpnext_crm_settings.notify_deal_quotation_change"
+			"crm.fcrm.doctype.garp_crm_settings.garp_crm_settings.notify_deal_quotation_change"
 		],
 	},
 	"Item": {
@@ -458,7 +458,7 @@ standard_dropdown_items = [
 	},
 	{
 		"name1": "login_to_fc",
-		"label": "Login to Frappe Cloud",
+		"label": "Login to GARP Cloud",
 		"type": "Route",
 		"route": "#",
 		"is_standard": 1,

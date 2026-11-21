@@ -8,8 +8,8 @@
         <h2 class="flex text-2xl-semibold leading-none h-5">
           {{ __('ERPNext Settings') }}
         </h2>
-        <Tooltip text="View documentation">
-          <a href="https://docs.frappe.io/crm/erpnext" target="_blank">
+        <Tooltip :text="__('View documentation')">
+          <a href="https://bizconnect.id/docs/modules/crm/erpnext" target="_blank">
             <lucide-circle-question-mark class="h-4 w-4 text-ink-gray-6" />
           </a>
         </Tooltip>
@@ -433,7 +433,7 @@
             <ERPNextIcon class="size-7.5 text-ink-gray-5" />
             <div class="flex flex-col items-center gap-1.5 text-center">
               <span class="text-lg-medium text-ink-gray-8">
-                {{ __('Connect ERPNext to Frappe CRM') }}
+                {{ __('Connect ERPNext to GARP CRM') }}
               </span>
               <span class="text-center text-p-base text-ink-gray-6">
                 {{
@@ -479,8 +479,8 @@ const { $dialog, $socket } = globalStore()
 const { capture } = useTelemetry()
 
 const erpnextCRMSettingsResource = createDocumentResource({
-  doctype: 'ERPNext CRM Settings',
-  name: 'ERPNext CRM Settings',
+  doctype: 'GARP CRM Settings',
+  name: 'GARP CRM Settings',
   whitelistedMethods: {
     isERPNextInstalled: 'is_erpnext_installed',
     getExternalCompanies: {
@@ -522,7 +522,7 @@ const settingsTabs = [
 ]
 
 const productSyncStatus = createResource({
-  url: 'crm.fcrm.doctype.erpnext_crm_settings.erpnext_crm_settings.get_product_sync_status',
+  url: 'crm.fcrm.doctype.garp_crm_settings.garp_crm_settings.get_product_sync_status',
 })
 
 const productSyncSections = computed(() => {
